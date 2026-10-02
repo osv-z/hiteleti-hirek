@@ -46,7 +46,10 @@ NEMZETKOZI_FORRASOK = {
     "Vatican News": "https://www.vaticannews.va/en.rss.xml",
     "Catholic News Agency": "https://www.catholicnewsagency.com/feed",
     "National Catholic Reporter": ["https://www.ncronline.org/rss.xml", "https://www.ncronline.org/feed"],
-    "The Pillar": "https://www.pillarcatholic.com/feed"
+    "The Pillar": "https://www.pillarcatholic.com/feed",
+    "Catholic Herald": "https://catholicherald.co.uk/feed/",
+    "Aleteia": "https://aleteia.org/feed/",
+    "UCA News": ["https://www.ucanews.com/rss", "https://www.ucanews.com/feed"],
 }
 
 HAZAI_DB = 10            # ennyi hazai hír kerüljön a listába
