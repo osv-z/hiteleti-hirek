@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T17:16+02:00",
+  "generalva": "2026-10-02T17:36+02:00",
   "hazai": [
     {
       "cim": "Leó pápa a Lutheránus Világszövetséghez: Térjünk vissza a hitvallás-előtti örökségünkhöz",
@@ -15,6 +15,28 @@
           "nev": "Magyar Kurír",
           "cim": "Leó pápa a Lutheránus Világszövetséghez: Térjünk vissza közös gyökereinkhez, az apostoli örökséghez!",
           "url": "https://magyarkurir.hu/hirek/leo-papa-lutheranus-vilagszovetseghez-terjunk-vissza-kozos-gyokereinkhez-az-apostoli-orokseghez"
+        }
+      ]
+    },
+    {
+      "cim": "14 fantasztikus idézet XIV. Leó pápától – ezekkel hódította meg Franciaországot",
+      "lead": "Ahogy mi is beszámoltunk róla, XIV. Leó pápa szeptember 25 és 28 között Franciaországban tett apostoli látogatást, melynek számos állomásán tudott fontos gondokatokat intézni a francia hívek, sok esetben fiatalok irányába. 14 idézetet gyűjtöttünk össze nektek, melyekben fontos és aktuális szellemi útravalókra…",
+      "forrasok": [
+        {
+          "nev": "777",
+          "cim": "14 fantasztikus idézet XIV. Leó pápától – ezekkel hódította meg Franciaországot",
+          "url": "https://777blog.hu/2026/10/02/14-fantasztikus-idezet-xiv-leo-papatol-ezekkel-hoditotta-meg-franciaorszagot/"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa „A lehetőségek művészete: Együtt szövés” találkozóhoz: Szükségünk van rátok!",
+      "lead": "A Szentatya pénteken délben találkozott „A lehetőségek művészete: Együtt szövés” című találkozó művészeivel és kurátoraival, melyet a Kultúra és az Oktatás dikasztériuma szervezett. A pápa a 30 fős művész és kurátor vendégeit az együtt-járásra, a kölcsönös segítségre buzdította. Olvasd el mindet",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa „A lehetőségek művészete: Együtt szövés” találkozóhoz: Szükségünk van rátok!",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-muvesz-kurator-velence-biennale-pavilon-egyuttmukodes.html"
         }
       ]
     },
@@ -94,31 +116,41 @@
           "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-gyermekek-rozsafuzer-beke-jezus-maria-vatikan-kertek.html"
         }
       ]
-    },
-    {
-      "cim": "Leó pápa a domonkos nővérekhez: a szemlélődő hivatás az Egyház dobogó szíve",
-      "lead": "Szeptember 30-án szerdán délelőtt Leó pápa a Domonkos Szemlélődő Nővérek Nemzetközi Bizottságának tagjait fogadta az Apostoli Palotában. Beszédében arra buzdította őket, hogy a rend hagyományaihoz híven őrizzék magukban a csendet, legyenek a megsebzett emberiség vígasztalói és a remény hírnökei. Olvasd el mindet",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa a domonkos nővérekhez: a szemlélődő hivatás az Egyház dobogó szíve",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-domonkos-szemlelodo-noverek-csend-hivatas-szolgalat-egyhaz.html"
-        }
-      ]
-    },
-    {
-      "cim": "Követők – új lelkiségi podcastet indítunk Farkas László atyával",
-      "lead": "Kik voltak valójában az Újszövetség jól ismert szereplői? Mit élhetett át Péter, János, Mária Magdolna vagy éppen Zakeus, amikor találkozott Jézussal? A 777 új, Követők című podcastsorozatában Farkas László atya 15 bibliai szereplő életén keresztül hív bennünket arra, hogy ne csak megismerjük, hanem közelebb is…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "Követők – új lelkiségi podcastet indítunk Farkas László atyával",
-          "url": "https://777blog.hu/2026/10/02/kovetok-uj-lelkisegi-podcastet-inditunk-farkas-laszlo-atyaval/"
-        }
-      ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "TODAY: Join the Pope and start October with the Rosary",
+      "lead": "October is traditionally held as the month of the Rosary, given that on October 7, we celebrate the Our Lady of the Rosary. For both of his Octobers as pope, Leo XIV has made a special appeal to make this month a time to begin or renew our devotion to the Rosary, prayed especially for Read More… TODAY: Join the Pope…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "TODAY: Join the Pope and start October with the Rosary",
+          "url": "https://aleteia.org/2026/10/01/today-join-the-pope-and-start-october-with-the-rosary/"
+        },
+        {
+          "nev": "The Pillar",
+          "cim": "Starting Seven: October 2, 2026",
+          "url": "https://www.pillarcatholic.com/p/starting-seven-october-2-2026"
+        }
+      ]
+    },
+    {
+      "cim": "Call to end death penalty after “horrifying” botched attempt",
+      "lead": "Christa Pike, sentenced to death in Tennessee, survived two lethal doses of pentobarbital on September 30, and is now alive and receiving medical care. Pike had been incarcerated on death row since 1996, after Pike, then 18, and two friends lured her 19-year-old Job Corps classmate Colleen Slemmer into the woods, then…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Call to end death penalty after “horrifying” botched attempt",
+          "url": "https://aleteia.org/2026/10/02/call-to-end-death-penalty-after-horrifying-botched-attempt/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Bishops urge Tennessee to commute death sentence after botched execution",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/usa-tennessee-catholic-episcopal-bishops-christa-pike-execution.html"
+        }
+      ]
+    },
     {
       "cim": "Cardinal Zuppi in Russia: Strengthen and speed up checks to reunite families",
       "lead": "Cardinal Matteo Zuppi has returned from Moscow after his third mission to Russia, during which he meets Ukrainian prisoners of war, whose situation was a key focus of his talks, alongside the search for missing persons and the return of children to Ukraine. Read all",
@@ -152,90 +184,78 @@
       ]
     },
     {
-      "cim": "Who we are, Sophia’s pitch, and made in China",
-      "lead": "The Friday Pillar Post",
+      "cim": "Pope Leo’s prayer for October: Mental health",
+      "lead": "Pope Leo’s prayer intention for the month of October turns attention to the issue of mental health. The Holy Father invites the faithful to pray “that we may learn to welcome and integrate care for mental health into the life and ministry of our communities and of the whole Church.” One in every seven people Read…",
       "forrasok": [
         {
-          "nev": "The Pillar",
-          "cim": "Who we are, Sophia’s pitch, and made in China",
-          "url": "https://www.pillarcatholic.com/p/who-we-are-sophias-pitch-and-made"
+          "nev": "Aleteia",
+          "cim": "Pope Leo’s prayer for October: Mental health",
+          "url": "https://aleteia.org/2026/10/01/pope-leos-prayer-for-october-mental-health/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Pope’s October prayer intention: ‘For mental health ministry’",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-prayer-intention-october-for-mental-health-ministry.html"
         }
       ]
     },
     {
-      "cim": "Ethiopia's Catholic Bishops issue pastoral appeal for peace and reconciliation",
-      "lead": "In the wake of Pope Leo XIV's appeal for the embattled Tigray region at his Sunday Angelus, the Bishops of Ethiopia have issued their own appeal for peace and prayer, stressing that armed conflict only worsens existing problems and decrying the painful reality that it harms the most vulnerable. Read all",
+      "cim": "Cardinal Fernández on the complementarity of humanity and AI",
+      "lead": "The Prefect of the Dicastery for the Doctrine of the Faith, Cardinal Víctor Manuel Fernández, reflects on the encyclical “Magnifica Humanitas” and artificial intelligence at a study day at Comillas University in Madrid. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Ethiopia's Catholic Bishops issue pastoral appeal for peace and reconciliation",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/ethiopia-bishops-issue-pastoral-appeal-for-peace-reconciliation.html"
+          "cim": "Cardinal Fernández on the complementarity of humanity and AI",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-prefect-fernandez-artificial-intelligence-madrid.html"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Cardinal Fernández to publish text on ‘transmission of faith’ this month",
+          "url": "https://thecatholicherald.com/article/cardinal-fernandez-to-publish-text-on-transmission-of-faith-this-month"
         }
       ]
     },
     {
-      "cim": "Starting Seven: October 2, 2026",
-      "lead": "Welcome to Starting Seven, The Pillar’s daily newsletter.",
+      "cim": "Illinois reaches agreement with Muslim doctors over assisted suicide law",
+      "lead": "The doctors argued that Illinois’s End of Life Options Act violated their religious beliefs by requiring cooperation with assisted suicide",
       "forrasok": [
         {
-          "nev": "The Pillar",
-          "cim": "Starting Seven: October 2, 2026",
-          "url": "https://www.pillarcatholic.com/p/starting-seven-october-2-2026"
+          "nev": "Catholic Herald",
+          "cim": "Illinois reaches agreement with Muslim doctors over assisted suicide law",
+          "url": "https://thecatholicherald.com/article/illinois-reaches-agreement-with-muslim-doctors-over-assisted-suicide-law"
         }
       ]
     },
     {
-      "cim": "Pope Leo: the Church needs artists",
-      "lead": "Especially in “the age of search engines,” the Church stands in need of artists,” who can aid pastors in making the Gospel “accessible and understandable,” Pope Leo told artists on Friday, in an address to participants in a meeting on “The Art of Possibility: Weaving Together,” promoted by the Dicastery for Culture…",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope Leo: the Church needs artists",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-the-church-needs-artists.html"
-        }
-      ]
-    },
-    {
-      "cim": "Blessed Fulton Sheen's relic doesn't speak to everyone",
-      "lead": "The first-class relic of Fulton Sheen was presented during his beatification Mass Sept. 24. As images of Sheen's mandible have spread on social media, reactions have been strong and swift.",
+      "cim": "Evangelization Lab helps churches bring digital travelers to the Catholic faith",
+      "lead": "<p>Even as we are children of God, many of us are creatures of mobile-device habit.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Blessed Fulton Sheen's relic doesn't speak to everyone",
-          "url": "https://www.ncronline.org/opinion/blessed-fulton-sheens-relic-doesnt-speak-everyone"
+          "cim": "Evangelization Lab helps churches bring digital travelers to the Catholic faith",
+          "url": "https://www.ncronline.org/news/evangelization-lab-helps-churches-bring-digital-travelers-catholic-faith"
         }
       ]
     },
     {
-      "cim": "Leo's emerging style of pastoral leadership",
-      "lead": "\"In a noisy and confusing culture, Leo's clarity and precision, as well as his obvious authenticity, break through,\" writes NCR columnist Michael Sean Winters.",
+      "cim": "Grok AI affirms the divinity of Christ",
+      "lead": "The AI chatbot retained an image of Jesus after removing other figures, telling an X user that he was not a ‘fake god’ and later quoting Luke 19:40",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "Leo's emerging style of pastoral leadership",
-          "url": "https://www.ncronline.org/opinion/ncr-voices/leos-emerging-style-pastoral-leadership"
+          "nev": "Catholic Herald",
+          "cim": "Grok AI affirms the divinity of Christ",
+          "url": "https://thecatholicherald.com/article/grok-ai-affirms-the-divinity-of-christ"
         }
       ]
     },
     {
-      "cim": "Farming, faith and 'real synodality': How this Catholic couple lives Laudato Si'",
-      "lead": "Chris and Jeffie Hardin, who live in North Carolina, will visit the Vatican's Borgo Laudato Si' to learn more about how to live and teach ways that honor creation.",
+      "cim": "San Francisco to host relics of St Francis and St Clare",
+      "lead": "Relics associated with St Francis and St Clare of Assisi will be available for public veneration at San Francisco’s cathedral from October 16 through November 28",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "Farming, faith and 'real synodality': How this Catholic couple lives Laudato Si'",
-          "url": "https://www.ncronline.org/news/farming-faith-and-real-synodality-how-catholic-couple-lives-laudato-si"
-        }
-      ]
-    },
-    {
-      "cim": "Bishops urge Tennessee to commute death sentence after botched execution",
-      "lead": "Following the botched execution of Christa Pike, the Catholic and Episcopal Bishops of Tennessee call for the US state’s Governor to commute her death sentence and uphold their opposition to the death penalty. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Bishops urge Tennessee to commute death sentence after botched execution",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/usa-tennessee-catholic-episcopal-bishops-christa-pike-execution.html"
+          "nev": "Catholic Herald",
+          "cim": "San Francisco to host relics of St Francis and St Clare",
+          "url": "https://thecatholicherald.com/article/san-francisco-to-host-relics-of-st-francis-and-st-clare"
         }
       ]
     }
