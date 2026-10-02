@@ -58,7 +58,7 @@ MAX_ORA = 48             # a hitéleti portálok ritkábban frissülnek, ezért 
 MAX_EGYFORRASOS_FORRASONKENT = 3   # egyetlen forrás ennyi "csak nála szereplő" hírt adhat
 HASONLOSAG = 0.4         # ennél nagyobb címhasonlóságnál egy eseménynek számít
 
-MODELL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
+MODELL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
 API_KULCS = os.environ.get("GEMINI_API_KEY")
 
 FORDITAS_PROMPT = """Fordítsd le magyarra az alábbi angol nyelvű katolikus hírcímeket és rövid leadeket.
