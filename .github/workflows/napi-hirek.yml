@@ -1,0 +1,37 @@
+name: Hitéleti hírek
+
+on:
+  schedule:
+    # UTC-ben megadva: 04:00 UTC = 06:00 nyári / 05:00 téli magyar idő
+    - cron: "37 4 * * *"
+  workflow_dispatch: # kézi indítás az Actions fülről
+
+permissions:
+  contents: write
+
+jobs:
+  osszefoglalo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Függőségek telepítése
+        run: pip install -r requirements.txt
+
+      - name: Hírek összeállítása
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python hirosszefoglalo.py
+
+      - name: Eredmény mentése a repóba
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --staged --quiet || git commit -m "Hitéleti hírek: $(date -u +%F)"
+          git push
