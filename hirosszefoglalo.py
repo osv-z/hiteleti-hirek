@@ -49,7 +49,6 @@ NEMZETKOZI_FORRASOK = {
     "The Pillar": "https://www.pillarcatholic.com/feed",
     "Catholic Herald": "https://catholicherald.co.uk/feed/",
     "Aleteia": "https://aleteia.org/feed/",
-    "UCA News": ["https://www.ucanews.com/rss", "https://www.ucanews.com/feed"],
 }
 
 HAZAI_DB = 10            # ennyi hazai hír kerüljön a listába
