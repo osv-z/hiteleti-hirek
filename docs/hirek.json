@@ -1,6 +1,6 @@
 {
   "datum": "2026-10-02",
-  "generalva": "2026-10-02T17:08+02:00",
+  "generalva": "2026-10-02T17:16+02:00",
   "hazai": [
     {
       "cim": "Leó pápa a Lutheránus Világszövetséghez: Térjünk vissza a hitvallás-előtti örökségünkhöz",
@@ -47,7 +47,7 @@
         {
           "nev": "Magyar Kurír",
           "cim": "Teremtésvédelmi kalendárium – Pozitív billenőpontok",
-          "url": "https://magyarkurir.hu/hirek/teremtesvedelmi-kalendarium-szeret-nem-szeret-20261001131509"
+          "url": "https://magyarkurir.hu/hirek/teremtesvedelmi-kalendarium-pozitiv-billenopontok"
         }
       ]
     },
@@ -120,8 +120,8 @@
   ],
   "nemzetkozi": [
     {
-      "cim": "Zuppi bíboros Oroszországban: Meg kell erősíteni és fel kell gyorsítani a családok egyesítését célzó ellenőrzéseket",
-      "lead": "Matteo Zuppi bíboros visszatért Moszkvából harmadik oroszországi küldetése után, amelynek során ukrán hadifoglyokkal találkozott, akiknek helyzete tárgyalásainak kiemelt fókuszában állt az eltűnt személyek keresése és a gyermekek Ukrajnába történő visszatérése mellett. Teljes cikk",
+      "cim": "Cardinal Zuppi in Russia: Strengthen and speed up checks to reunite families",
+      "lead": "Cardinal Matteo Zuppi has returned from Moscow after his third mission to Russia, during which he meets Ukrainian prisoners of war, whose situation was a key focus of his talks, alongside the search for missing persons and the return of children to Ukraine. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
@@ -136,8 +136,8 @@
       ]
     },
     {
-      "cim": "Közzétették a szinódus kánonjogi bizottságának zárójelentését",
-      "lead": "A kánonjogi bizottság zárójelentése a Püspöki Szinódus 2023. októberi és 2024. októberi két rendes közgyűlésén végzett munka alapján a latin egyház Egyházi Jogi Kódexének (Codex Iuris Canonici) módosításait javasolja. Teljes cikk",
+      "cim": "Final report of Synod's canon law commission published",
+      "lead": "The canon law commission's final report proposes amendments to the Code of Canon Law of the Latin Church, based on the work carried out by the two General Assemblies of the Synod of Bishops in October 2023 and October 2024. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
@@ -152,7 +152,7 @@
       ]
     },
     {
-      "cim": "Kik vagyunk, a Sophia bemutatkozása és Kínában gyártva",
+      "cim": "Who we are, Sophia’s pitch, and made in China",
       "lead": "The Friday Pillar Post",
       "forrasok": [
         {
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "cim": "Etiópia katolikus püspökei lelkipásztori felhívást adtak ki a békéért és a megbékélésért",
-      "lead": "Miután XIV. Leó pápa vasárnapi Úrangyala imádságában felhívást intézett a küzdelmek sújtotta Tigré régióért, Etiópia püspökei saját békefelhívást és imafelhívást tettek közzé, hangsúlyozva, hogy a fegyveres konfliktus csak súlyosbítja a meglévő problémákat, és elítélve azt a fájdalmas valóságot, hogy a konfliktus a legsebezhetőbbeket károsítja. Teljes cikk",
+      "cim": "Ethiopia's Catholic Bishops issue pastoral appeal for peace and reconciliation",
+      "lead": "In the wake of Pope Leo XIV's appeal for the embattled Tigray region at his Sunday Angelus, the Bishops of Ethiopia have issued their own appeal for peace and prayer, stressing that armed conflict only worsens existing problems and decrying the painful reality that it harms the most vulnerable. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
@@ -174,8 +174,8 @@
       ]
     },
     {
-      "cim": "Induló Hetes: 2026. október 2.",
-      "lead": "Üdvözöljük a Starting Sevenben, a The Pillar napi hírlevelében.",
+      "cim": "Starting Seven: October 2, 2026",
+      "lead": "Welcome to Starting Seven, The Pillar’s daily newsletter.",
       "forrasok": [
         {
           "nev": "The Pillar",
@@ -185,8 +185,8 @@
       ]
     },
     {
-      "cim": "Leó pápa: az Egyháznak művészekre van szüksége",
-      "lead": "Különösen „a keresőmotorok korában” az Egyháznak szüksége van művészekre, akik segíthetnek a lelkipásztoroknak abban, hogy az Evangélium „elérhető és érthető” legyen – mondta Leó pápa pénteken a művészeknek a „Lehetőségek művészete: Egybeszöveg” című találkozó résztvevőihez intézett beszédében, amelyet a Kultúra dikasztériuma szervezett…",
+      "cim": "Pope Leo: the Church needs artists",
+      "lead": "Especially in “the age of search engines,” the Church stands in need of artists,” who can aid pastors in making the Gospel “accessible and understandable,” Pope Leo told artists on Friday, in an address to participants in a meeting on “The Art of Possibility: Weaving Together,” promoted by the Dicastery for Culture…",
       "forrasok": [
         {
           "nev": "Vatican News",
@@ -196,8 +196,41 @@
       ]
     },
     {
-      "cim": "A püspökök arra buzdítják Tennesseet, hogy változtassa át a halálbüntetést egy elrontott kivégzés után",
-      "lead": "Christa Pike elrontott kivégzését követően Tennessee katolikus és püspöki (episzkopális) püspökei arra szólítják fel az amerikai állam kormányzóját, hogy változtassa át a halálbüntetését, és tartsák fenn a halálbüntetéssel szembeni ellenzésüket. Teljes cikk",
+      "cim": "Blessed Fulton Sheen's relic doesn't speak to everyone",
+      "lead": "The first-class relic of Fulton Sheen was presented during his beatification Mass Sept. 24. As images of Sheen's mandible have spread on social media, reactions have been strong and swift.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Blessed Fulton Sheen's relic doesn't speak to everyone",
+          "url": "https://www.ncronline.org/opinion/blessed-fulton-sheens-relic-doesnt-speak-everyone"
+        }
+      ]
+    },
+    {
+      "cim": "Leo's emerging style of pastoral leadership",
+      "lead": "\"In a noisy and confusing culture, Leo's clarity and precision, as well as his obvious authenticity, break through,\" writes NCR columnist Michael Sean Winters.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Leo's emerging style of pastoral leadership",
+          "url": "https://www.ncronline.org/opinion/ncr-voices/leos-emerging-style-pastoral-leadership"
+        }
+      ]
+    },
+    {
+      "cim": "Farming, faith and 'real synodality': How this Catholic couple lives Laudato Si'",
+      "lead": "Chris and Jeffie Hardin, who live in North Carolina, will visit the Vatican's Borgo Laudato Si' to learn more about how to live and teach ways that honor creation.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Farming, faith and 'real synodality': How this Catholic couple lives Laudato Si'",
+          "url": "https://www.ncronline.org/news/farming-faith-and-real-synodality-how-catholic-couple-lives-laudato-si"
+        }
+      ]
+    },
+    {
+      "cim": "Bishops urge Tennessee to commute death sentence after botched execution",
+      "lead": "Following the botched execution of Christa Pike, the Catholic and Episcopal Bishops of Tennessee call for the US state’s Governor to commute her death sentence and uphold their opposition to the death penalty. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
@@ -205,18 +238,6 @@
           "url": "https://www.vaticannews.va/en/church/news/2026-10/usa-tennessee-catholic-episcopal-bishops-christa-pike-execution.html"
         }
       ]
-    },
-    {
-      "cim": "Hírválogatás – Az október 1-jei hét",
-      "lead": "XIV. Leó pápa Franciaországba látogat.",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "News Roundup— Week of October 1",
-          "url": "https://www.pillarcatholic.com/p/news-roundup-week-of-october-1"
-        }
-      ]
     }
-  ],
-  "fordites": "gemini-3.5-flash-lite"
+  ]
 }
