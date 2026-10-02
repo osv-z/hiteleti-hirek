@@ -20,6 +20,7 @@ import re
 import sys
 import time
 import unicodedata
+from urllib.parse import urljoin, urlparse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -36,7 +37,7 @@ HAZAI_FORRASOK = {
     "Magyar Kurír": "https://www.magyarkurir.hu/rss",
     "Új Ember": "https://ujember.hu/feed/",
     "Vatican News (magyar)": "https://www.vaticannews.va/hu.rss.xml",
-    "Katolikus.hu": "https://katolikus.hu/rss",
+    "Katolikus.hu": ["https://katolikus.hu/feed", "https://katolikus.hu/rss.xml"],
     "777": "https://777blog.hu/feed/",
     "Zarándok.ma": "https://zarandok.ma/feed/",
     "Szemlélek": "https://szemlelek.net/feed/",
@@ -45,10 +46,10 @@ HAZAI_FORRASOK = {
 NEMZETKOZI_FORRASOK = {
     "Vatican News": "https://www.vaticannews.va/en.rss.xml",
     "Catholic News Agency": "https://www.catholicnewsagency.com/feed",
-    "National Catholic Reporter": "https://www.ncronline.org/feed",
+    "National Catholic Reporter": ["https://www.ncronline.org/rss.xml", "https://www.ncronline.org/feed"],
     "Crux": "https://cruxnow.com/feed",
     "The Pillar": "https://www.pillarcatholic.com/feed",
-    "America Magazine": "https://www.americamagazine.org/feeds/rss",
+    "America Magazine": ["https://www.americamagazine.org/rss.xml", "https://www.americamagazine.org/feed"],
 }
 
 HAZAI_DB = 10            # ennyi hazai hír kerüljön a listába
@@ -58,7 +59,7 @@ MAX_ORA = 48             # a hitéleti portálok ritkábban frissülnek, ezért 
 MAX_EGYFORRASOS_FORRASONKENT = 3   # egyetlen forrás ennyi "csak nála szereplő" hírt adhat
 HASONLOSAG = 0.4         # ennél nagyobb címhasonlóságnál egy eseménynek számít
 
-MODELL = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
+MODELL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 API_KULCS = os.environ.get("GEMINI_API_KEY")
 
 FORDITAS_PROMPT = """Fordítsd le magyarra az alábbi angol nyelvű katolikus hírcímeket és rövid leadeket.
@@ -79,7 +80,10 @@ __BEMENET__
 
 KIMENET = Path(__file__).resolve().parent / "docs"
 IDOZONA = ZoneInfo("Europe/Budapest")
-USER_AGENT = "Mozilla/5.0 (compatible; HiteletiHirekBot/1.0)"
+USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+FEJLEC = {"User-Agent": USER_AGENT,
+          "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*"}
 
 
 # ---------------------------------------------------------------------------
@@ -104,17 +108,62 @@ def cikk_ideje(bejegyzes):
     return None
 
 
+def feed_letoltes(url):
+    valasz = requests.get(url, headers=FEJLEC, timeout=20)
+    valasz.raise_for_status()
+    feed = feedparser.parse(valasz.content)
+    if not feed.entries and feed.bozo:
+        raise ValueError("a válasz nem RSS-csatorna")
+    return feed
+
+
+def feed_felderites(url):
+    """Ha a megadott címek nem működnek, megkeresi a csatornát az oldal főoldalán
+    (a <link rel="alternate" type="application/rss+xml"> címkékből)."""
+    gyoker = "{0.scheme}://{0.netloc}/".format(urlparse(url))
+    valasz = requests.get(gyoker, headers=FEJLEC, timeout=20)
+    valasz.raise_for_status()
+    for cimke in re.findall(r"<link[^>]+type=[\"']application/(?:rss|atom)\+xml[\"'][^>]*>",
+                            valasz.text, re.I):
+        m = re.search(r"href=[\"']([^\"']+)", cimke)
+        if m:
+            yield urljoin(gyoker, html.unescape(m.group(1)))
+
+
+def feed_keresese(cimek):
+    """Végigpróbálja a megadott címeket, majd az oldalon felfedezett csatornákat.
+    Visszaadja: (feed, a sikeres cím, a megadott címek egyike volt-e)."""
+    cimek = [cimek] if isinstance(cimek, str) else list(cimek)
+    hibak = []
+    for url in cimek:
+        try:
+            return feed_letoltes(url), url, True
+        except Exception as e:
+            hibak.append(f"{url}: {e}")
+    try:
+        for url in feed_felderites(cimek[0]):
+            if url in cimek:
+                continue
+            try:
+                return feed_letoltes(url), url, False
+            except Exception as e:
+                hibak.append(f"{url}: {e}")
+    except Exception as e:
+        hibak.append(f"főoldal: {e}")
+    raise RuntimeError(" | ".join(hibak))
+
+
 def hirek_letoltese(forrasok):
     hatar = datetime.now(timezone.utc) - timedelta(hours=MAX_ORA)
     cikkek = []
-    for nev, url in forrasok.items():
+    for nev, cimek in forrasok.items():
         try:
-            valasz = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
-            valasz.raise_for_status()
-            feed = feedparser.parse(valasz.content)
+            feed, hasznalt, megadott = feed_keresese(cimek)
         except Exception as e:
             print(f"  ! {nev}: nem sikerült letölteni ({e})", file=sys.stderr)
             continue
+        if not megadott:
+            print(f"  i {nev}: működő csatorna felfedezve: {hasznalt}")
 
         db = 0
         for b in feed.entries:
