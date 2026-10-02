@@ -1,0 +1,16 @@
+{
+  "name": "Hitéleti hírek",
+  "short_name": "Hitéleti",
+  "description": "A legfontosabb hazai és nemzetközi katolikus hírek egy helyen.",
+  "lang": "hu",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F4F1",
+  "theme_color": "#F1F4F1",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
