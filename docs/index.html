@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Hitéleti hírek</title>
+<meta name="description" content="A legfontosabb hazai és nemzetközi katolikus hírek egy helyen.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Hitéleti hírek">
+<meta name="theme-color" content="#F1F4F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#11181D" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --papir: #F1F4F1;
+    --tinta: #17252E;
+    --halvany: #5B6B72;
+    --vonal: #D3DCD7;
+    --hazai: #8A2E3B;
+    --nk: #2D5C7F;
+    --cimbetu: "Bricolage Grotesque", "Segoe UI", system-ui, -apple-system, sans-serif;
+    --szovegbetu: "Literata", Georgia, "Times New Roman", serif;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --papir: #11181D;
+      --tinta: #E4EBE8;
+      --halvany: #93A3A8;
+      --vonal: #27333B;
+      --hazai: #E89AA4;
+      --nk: #8EC0E6;
+    }
+  }
+  :root[data-theme="dark"] {
+    --papir: #11181D; --tinta: #E4EBE8; --halvany: #93A3A8;
+    --vonal: #27333B; --hazai: #E89AA4; --nk: #8EC0E6;
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  html { font-size: 118%; scroll-padding-top: calc(env(safe-area-inset-top, 0px) + 4rem); -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--papir);
+    color: var(--tinta);
+    font-family: var(--szovegbetu);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    padding-left: env(safe-area-inset-left, 0px);
+    padding-right: env(safe-area-inset-right, 0px);
+  }
+  .keret { max-width: 38rem; margin: 0 auto; padding: 0 1.25rem; }
+  button { font: inherit; color: inherit; }
+  :focus-visible { outline: 2px solid var(--szin, var(--tinta)); outline-offset: 3px; border-radius: 4px; }
+
+  /* Felső sáv */
+  .felso {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    padding-top: 1rem; font-family: var(--cimbetu); font-size: 0.95rem;
+  }
+  .nev { font-weight: 700; letter-spacing: -0.01em; }
+  .gombok { display: flex; gap: 0.5rem; }
+  .kis-gomb {
+    background: none; border: 1px solid var(--vonal); border-radius: 999px;
+    padding: 0.4rem 0.95rem; cursor: pointer; font-family: var(--cimbetu); font-size: 0.95rem;
+  }
+  .kis-gomb:hover { border-color: var(--halvany); }
+
+  /* Nyitó: a nap neve */
+  .nyito { padding-block: 2.25rem 1.5rem; }
+  .nap {
+    font-family: var(--cimbetu); font-weight: 800;
+    font-size: clamp(3.6rem, 19vw, 6.5rem); line-height: 0.88;
+    letter-spacing: -0.045em; margin: 0;
+    font-variation-settings: "opsz" 96;
+  }
+  .datum { margin: 0.6rem 0 0; font-size: 1.2rem; color: var(--halvany); }
+  .allapot {
+    margin: 1rem 0 0; font-size: 0.95rem; color: var(--halvany);
+    display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.25rem 0.75rem;
+  }
+  .allapot:empty { display: none; }
+  .szoveg-gomb {
+    background: none; border: 0; padding: 0; cursor: pointer;
+    color: var(--tinta); text-decoration: underline; text-underline-offset: 3px;
+  }
+
+  /* Fülek */
+  .fulek {
+    position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+    background: var(--papir); border-bottom: 1px solid var(--vonal);
+  }
+  .fulek .keret { display: flex; gap: 1.75rem; }
+  .ful {
+    background: none; border: 0; cursor: pointer;
+    font-family: var(--cimbetu); font-size: 1.15rem; font-weight: 600;
+    padding: 0.85rem 0 0.7rem; color: var(--halvany);
+    border-bottom: 3px solid transparent; margin-bottom: -1px;
+  }
+  .ful[aria-selected="true"] { color: var(--tinta); border-bottom-color: var(--szin-ful); }
+  .ful[data-tab="hazai"] { --szin-ful: var(--hazai); }
+  .ful[data-tab="nemzetkozi"] { --szin-ful: var(--nk); }
+  .db { font-weight: 500; color: var(--halvany); margin-left: 0.3rem; }
+
+  /* Hírek */
+  main[data-tab="hazai"] { --szin: var(--hazai); }
+  main[data-tab="nemzetkozi"] { --szin: var(--nk); }
+  .hir { padding: 1.6rem 0 1.4rem; border-bottom: 1px solid var(--vonal); }
+  .hir h2 {
+    font-family: var(--cimbetu); font-weight: 650; font-size: 1.5rem;
+    line-height: 1.2; letter-spacing: -0.015em; margin: 0 0 0.55rem;
+    text-wrap: balance;
+  }
+  .hir h2 a { color: inherit; text-decoration: none; }
+  .hir h2 a:hover { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; }
+  .hir p { margin: 0; text-wrap: pretty; }
+  .hir-also { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 0.9rem; }
+  details { flex: 1; }
+  summary {
+    cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 0.4rem;
+    font-family: var(--cimbetu); font-size: 1rem; font-weight: 600; color: var(--szin);
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::after {
+    content: ""; width: 0.45em; height: 0.45em; margin-top: -0.2em;
+    border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
+    transform: rotate(45deg); transition: transform 0.15s;
+  }
+  details[open] summary::after { transform: rotate(225deg); margin-top: 0.2em; }
+  .forrasok { list-style: none; margin: 0.7rem 0 0; padding: 0 0 0 0.9rem; border-left: 2px solid var(--szin); }
+  .forrasok li { margin: 0.6rem 0; font-size: 1rem; line-height: 1.45; }
+  .forrasok a { color: var(--tinta); text-decoration-color: var(--vonal); text-underline-offset: 3px; }
+  .forrasok a:hover { text-decoration-color: currentColor; }
+  .forras-nev { font-family: var(--cimbetu); font-weight: 600; margin-right: 0.35rem; }
+  .megoszt {
+    align-self: flex-start; background: none; border: 0; cursor: pointer;
+    font-family: var(--cimbetu); font-size: 1rem; color: var(--halvany); padding: 0;
+  }
+  .megoszt:hover { color: var(--tinta); }
+
+  .uzenet { padding: 2.5rem 0; color: var(--halvany); }
+  .uzenet strong { display: block; color: var(--tinta); font-family: var(--cimbetu); font-size: 1.15rem; margin-bottom: 0.4rem; }
+  .uzenet .kis-gomb { margin-top: 1rem; color: var(--tinta); }
+
+  footer { padding-block: 2rem 3rem; font-size: 0.92rem; line-height: 1.55; color: var(--halvany); }
+  footer p { margin: 0 0 0.6rem; }
+
+  /* Archívum lap */
+  dialog {
+    border: 0; padding: 0; margin: auto auto 0; width: 100%; max-width: 38rem;
+    max-height: 80vh; background: var(--papir); color: var(--tinta);
+    border-radius: 18px 18px 0 0; border-top: 1px solid var(--vonal);
+  }
+  dialog::backdrop { background: rgb(10 16 20 / 0.45); }
+  .lap-fej {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 1.1rem 1.25rem 0.6rem; font-family: var(--cimbetu);
+  }
+  .lap-fej h2 { margin: 0; font-size: 1.25rem; }
+  .datumlista {
+    list-style: none; margin: 0; padding: 0 1.25rem calc(1.25rem + env(safe-area-inset-bottom, 0px));
+    overflow-y: auto; max-height: calc(80vh - 4rem);
+  }
+  .datumlista button {
+    width: 100%; text-align: left; background: none; border: 0; border-bottom: 1px solid var(--vonal);
+    padding: 0.85rem 0; cursor: pointer; display: flex; justify-content: space-between;
+  }
+  .datumlista button[aria-current="true"] { font-weight: 600; }
+  .datumlista .het { color: var(--halvany); }
+  .ios-tipp { padding: 0 1.25rem 1rem; font-size: 0.9rem; color: var(--halvany); }
+
+  [hidden] { display: none !important; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+
+<header class="keret felso">
+  <span class="nev">Hitéleti hírek</span>
+  <div class="gombok">
+    <button class="kis-gomb" id="telepites" hidden>Telepítés</button>
+    <button class="kis-gomb" id="archiv-gomb">Archívum</button>
+  </div>
+</header>
+
+<section class="keret nyito" aria-live="polite">
+  <h1 class="nap" id="nap">&nbsp;</h1>
+  <p class="datum" id="datum">Betöltés…</p>
+  <p class="allapot" id="allapot"></p>
+</section>
+
+<nav class="fulek" aria-label="Kategóriák">
+  <div class="keret" role="tablist">
+    <button class="ful" role="tab" data-tab="hazai" aria-selected="true">Hazai<span class="db" id="db-hazai"></span></button>
+    <button class="ful" role="tab" data-tab="nemzetkozi" aria-selected="false">Nemzetközi<span class="db" id="db-nemzetkozi"></span></button>
+  </div>
+</nav>
+
+<main class="keret" id="lista" data-tab="hazai" role="tabpanel"></main>
+
+<footer class="keret">
+  <p>A hírek a megjelölt katolikus hírportálok nyilvános RSS-csatornáiból származnak, az elmúlt két napból. Az azonos eseményről szóló cikkeket egy hírbe vonjuk össze, a több forrásban szereplők kerülnek előre. A teljes szöveget az eredeti oldalon olvashatod.</p>
+  <p id="fordites-megj" hidden>A nemzetközi hírek címét és rövid leírását gépi fordítás adja, ezért pontatlan lehet. Az eredeti angol címek a források között olvashatók.</p>
+  <p id="meta"></p>
+</footer>
+
+<dialog id="archiv">
+  <div class="lap-fej">
+    <h2>Archívum</h2>
+    <button class="kis-gomb" id="archiv-bezar">Bezárás</button>
+  </div>
+  <p class="ios-tipp" id="ios-tipp" hidden>iPhone-on így teheted a kezdőképernyőre: Safari → Megosztás gomb → Főképernyőhöz adás.</p>
+  <ul class="datumlista" id="datumlista"></ul>
+</dialog>
+
+<script>
+(() => {
+  const HONAPOK = ["január","február","március","április","május","június","július","augusztus","szeptember","október","november","december"];
+  const NAPOK = ["vasárnap","hétfő","kedd","szerda","csütörtök","péntek","szombat"];
+  const $ = (id) => document.getElementById(id);
+  const allapot = { adat: null, tab: "hazai", archivDatum: null };
+
+  const ketjegy = (n) => String(n).padStart(2, "0");
+  const ma = () => { const d = new Date(); return `${d.getFullYear()}-${ketjegy(d.getMonth() + 1)}-${ketjegy(d.getDate())}`; };
+  const datumbol = (s) => { const [e, h, n] = s.split("-").map(Number); return new Date(e, h - 1, n); };
+  const napNeve = (s) => NAPOK[datumbol(s).getDay()];
+  const honapNap = (s) => { const d = datumbol(s); return `${HONAPOK[d.getMonth()]} ${d.getDate()}.`; };
+  const ido = (iso) => { const d = new Date(iso); return isNaN(d) ? "" : `${ketjegy(d.getHours())}:${ketjegy(d.getMinutes())}`; };
+
+  function elem(tag, tul = {}, ...gyerekek) {
+    const e = document.createElement(tag);
+    for (const [k, v] of Object.entries(tul)) {
+      if (k === "text") e.textContent = v;
+      else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+      else e.setAttribute(k, v);
+    }
+    for (const g of gyerekek) if (g) e.append(g);
+    return e;
+  }
+
+  async function jsonLetoltes(ut) {
+    const v = await fetch(ut, { cache: "no-cache" });
+    if (!v.ok) throw new Error(`HTTP ${v.status}`);
+    return v.json();
+  }
+
+  async function betolt(datum = null) {
+    $("datum").textContent = "Betöltés…";
+    try {
+      const adat = await jsonLetoltes(datum ? `archiv/${datum}.json` : "hirek.json");
+      allapot.adat = adat;
+      allapot.archivDatum = datum;
+      megjelenit();
+    } catch (e) {
+      hibaUzenet();
+    }
+  }
+
+  function megjelenit() {
+    const a = allapot.adat;
+    $("nap").textContent = napNeve(a.datum);
+    $("datum").textContent = honapNap(a.datum);
+
+    const al = $("allapot");
+    al.replaceChildren();
+    if (allapot.archivDatum) {
+      al.append(elem("span", { text: "Archív lista." }),
+        elem("button", { class: "szoveg-gomb", text: "Vissza a legfrissebbhez", onclick: () => betolt() }));
+    } else if (a.datum !== ma()) {
+      al.append(elem("span", { text: "A mai hírek még nem készültek el, ez a legutóbbi lista." }));
+    }
+    if (!navigator.onLine) al.append(elem("span", { text: "Nincs internetkapcsolat, a korábban letöltött változatot látod." }));
+
+    $("db-hazai").textContent = (a.hazai || []).length || "";
+    $("db-nemzetkozi").textContent = (a.nemzetkozi || []).length || "";
+    $("fordites-megj").hidden = !a.fordites;
+    const t = ido(a.generalva);
+    $("meta").textContent = t ? `Összeállítva ${honapNap(a.datum)} ${t}-kor.` : "";
+    lista();
+  }
+
+  function lista() {
+    const main = $("lista");
+    main.dataset.tab = allapot.tab;
+    document.querySelectorAll(".ful").forEach((f) => f.setAttribute("aria-selected", f.dataset.tab === allapot.tab));
+    const hirek = (allapot.adat && allapot.adat[allapot.tab]) || [];
+    main.replaceChildren();
+
+    if (!hirek.length) {
+      main.append(elem("div", { class: "uzenet" },
+        elem("strong", { text: "Ebben a kategóriában ma nincs hír." }),
+        elem("span", { text: "Nézd meg a másik fület, vagy válassz egy korábbi napot az archívumból." })));
+      return;
+    }
+
+    for (const h of hirek) {
+      const forrasok = h.forrasok || [];
+      let reszletek = null;
+      if (forrasok.length) {
+        reszletek = elem("details", {},
+          elem("summary", { text: forrasok.length === 1 ? "1 forrás" : `${forrasok.length} forrás` }),
+          elem("ul", { class: "forrasok" }, ...forrasok.map((f) =>
+            elem("li", {}, elem("a", { href: f.url, target: "_blank", rel: "noopener" },
+              elem("span", { class: "forras-nev", text: f.nev }), document.createTextNode(f.cim))))));
+      }
+      const megoszt = navigator.share ? elem("button", {
+        class: "megoszt", text: "Megosztás",
+        onclick: () => navigator.share({ title: h.cim, text: h.cim, url: forrasok[0]?.url }).catch(() => {}),
+      }) : null;
+
+      main.append(elem("article", { class: "hir" },
+        elem("h2", {}, forrasok.length
+          ? elem("a", { href: forrasok[0].url, target: "_blank", rel: "noopener", text: h.cim })
+          : document.createTextNode(h.cim)),
+        (h.lead || h.osszefoglalo) ? elem("p", { text: h.lead || h.osszefoglalo }) : null,
+        (reszletek || megoszt) ? elem("div", { class: "hir-also" }, reszletek || elem("span"), megoszt) : null));
+    }
+  }
+
+  function hibaUzenet() {
+    $("nap").textContent = "\u00a0";
+    $("datum").textContent = "";
+    $("allapot").replaceChildren();
+    $("lista").replaceChildren(elem("div", { class: "uzenet" },
+      elem("strong", { text: "Nem sikerült betölteni a híreket." }),
+      elem("span", { text: navigator.onLine
+        ? "Ha most állítottad be az oldalt, futtasd le a GitHub Actions munkafolyamatot, hogy elkészüljön az első hírlista."
+        : "Nincs internetkapcsolat, és még nincsenek elmentett hírek a készüléken." }),
+      elem("br"),
+      elem("button", { class: "kis-gomb", text: "Újrapróbálás", onclick: () => betolt(allapot.archivDatum) })));
+  }
+
+  // Fülek
+  document.querySelectorAll(".ful").forEach((f) => f.addEventListener("click", () => {
+    allapot.tab = f.dataset.tab;
+    lista();
+    const fulek = document.querySelector(".fulek");
+    if (fulek.getBoundingClientRect().top <= 1) fulek.scrollIntoView();
+  }));
+
+  // Archívum
+  const lap = $("archiv");
+  $("archiv-gomb").addEventListener("click", async () => {
+    const ul = $("datumlista");
+    ul.replaceChildren(elem("li", { class: "uzenet", text: "Betöltés…" }));
+    lap.showModal();
+    try {
+      const datumok = await jsonLetoltes("archiv/index.json");
+      const aktualis = allapot.adat?.datum;
+      ul.replaceChildren(...datumok.map((d) => elem("li", {},
+        elem("button", { "aria-current": d === aktualis, onclick: () => { lap.close(); betolt(d === datumok[0] ? null : d); } },
+          elem("span", { text: honapNap(d) }), elem("span", { class: "het", text: napNeve(d) })))));
+    } catch {
+      ul.replaceChildren(elem("li", { class: "uzenet", text: "Az archívum még üres, vagy most nem érhető el." }));
+    }
+  });
+  $("archiv-bezar").addEventListener("click", () => lap.close());
+  lap.addEventListener("click", (e) => { if (e.target === lap) lap.close(); });
+
+  // Telepítés
+  let telepitoEsemeny = null;
+  window.addEventListener("beforeinstallprompt", (e) => {
+    e.preventDefault();
+    telepitoEsemeny = e;
+    $("telepites").hidden = false;
+  });
+  $("telepites").addEventListener("click", async () => {
+    if (!telepitoEsemeny) return;
+    telepitoEsemeny.prompt();
+    await telepitoEsemeny.userChoice;
+    telepitoEsemeny = null;
+    $("telepites").hidden = true;
+  });
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent);
+  const onalloan = window.matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  if (ios && !onalloan) $("ios-tipp").hidden = false;
+
+  // Frissítés, amikor visszatérsz az appba
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && !allapot.archivDatum && allapot.adat?.datum !== ma()) betolt();
+  });
+
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+  betolt();
+})();
+</script>
+</body>
+</html>
