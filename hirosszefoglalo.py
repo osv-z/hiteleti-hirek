@@ -37,7 +37,6 @@ HAZAI_FORRASOK = {
     "Magyar Kurír": "https://www.magyarkurir.hu/rss",
     "Új Ember": "https://ujember.hu/feed/",
     "Vatican News (magyar)": "https://www.vaticannews.va/hu.rss.xml",
-    "Katolikus.hu": ["https://katolikus.hu/feed", "https://katolikus.hu/rss.xml"],
     "777": "https://777blog.hu/feed/",
     "Zarándok.ma": "https://zarandok.ma/feed/",
     "Szemlélek": "https://szemlelek.net/feed/",
@@ -47,9 +46,7 @@ NEMZETKOZI_FORRASOK = {
     "Vatican News": "https://www.vaticannews.va/en.rss.xml",
     "Catholic News Agency": "https://www.catholicnewsagency.com/feed",
     "National Catholic Reporter": ["https://www.ncronline.org/rss.xml", "https://www.ncronline.org/feed"],
-    "Crux": "https://cruxnow.com/feed",
-    "The Pillar": "https://www.pillarcatholic.com/feed",
-    "America Magazine": ["https://www.americamagazine.org/rss.xml", "https://www.americamagazine.org/feed"],
+    "The Pillar": "https://www.pillarcatholic.com/feed"
 }
 
 HAZAI_DB = 10            # ennyi hazai hír kerüljön a listába
