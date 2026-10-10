@@ -1,36 +1,20 @@
 {
-  "datum": "2026-10-10",
-  "generalva": "2026-10-10T12:47+02:00",
+  "datum": "2026-10-11",
+  "generalva": "2026-10-11T00:18+02:00",
   "hazai": [
     {
-      "cim": "A családok tapasztalatai az Egyház küldetésének középpontjában – Vatikáni püspöktalálkozó (2. nap)",
-      "lead": "Az Amoris laetitia kezdetű apostoli buzdítás megjelenésének 10. évfordulója alkalmából rendezett találkozó második napján, október 8-án a püspökök a családok mai helyzetéről és kihívásairól tanácskoztak. Kevin Joseph Farrell és Mario Grech bíborosok arra buzdították a résztvevőket, hogy figyelmesen hallgassák meg a…",
+      "cim": "Mary Teresa Barron SRA szerzetesnővér az Evangelizációs Dikasztérium új titkárhelyettese",
+      "lead": "XIV. Leó pápa október 8-án Mary Teresa Barron szerzetesnővért, az Apostolok Királynője Missziós Társaság (Societas Missionalis Sororum Reginae Apostolorum, SRA) legfőbb elöljáróját nevezte ki az Evangelizációs Dikasztérium első evangelizációval és az új részegyházakkal foglalkozó részlegének titkárhelyettesévé. Új…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "A családok tapasztalatai az Egyház küldetésének középpontjában – Vatikáni püspöktalálkozó (2. nap)",
-          "url": "https://magyarkurir.hu/hirek/a-csaladok-tapasztalatai-az-egyhaz-kuldetesenek-kozeppontjaban-vatikani-puspoktalalkozo-2-nap"
+          "cim": "Mary Teresa Barron SRA szerzetesnővér az Evangelizációs Dikasztérium új titkárhelyettese",
+          "url": "https://magyarkurir.hu/hirek/mary-teresa-barron-nover-az-evangelizacios-dikaszterium-uj-titkar-helyettese"
         },
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Amoris laetitia – 3. nap: A családok kísérése az egész Egyház feladata",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/amoris-laetitia-talalkozo-3-nap-sajtotajekoztato-csalad-kiseres.html"
-        }
-      ]
-    },
-    {
-      "cim": "Parolin bíboros: Elfogadhatatlan, hogy a halálból látványosságot csináljanak",
-      "lead": "Pietro Parolin bíboros élesen bírálta az Egyesült Államokban tervezett nyilvános kivégzést, amelyet élő internetes közvetítésben kívánnak bemutatni. A vatikáni államtitkár október 9-én, pénteken este válaszolt az újságírók kérdéseire egy római rendezvény alkalmával, melyet John Henry Newman bíboros emlékének…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Parolin bíboros: Elfogadhatatlan, hogy a halálból látványosságot csináljanak",
-          "url": "https://magyarkurir.hu/hirek/parolin-biboros-elfogadhatatlan-hogy-halalbol-latvanyossagot-csinaljanak"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Parolin bíboros: Elfogadhatatlan, hogy a halálból látványosságot csináljanak",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/parolin-biboros-usa-nidal-hassan-tervezett-nyilvanos-kivegzes.html"
+          "cim": "Mary Teresa Barron nővér az Evangelizációs Dikasztérium új titkár-helyettese",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-kinevezes-evangelizacios-dikaszterium-barron-nover.html"
         }
       ]
     },
@@ -51,62 +35,79 @@
       ]
     },
     {
-      "cim": "Parolin bíboros: A Szentszék és Magyarország közti kötelék ezeréves történelemre nyúlik vissza",
-      "lead": "Szűz Mária, Magyarok Nagyasszonya, Magyarország főpátrónája nemzeti ünnepén, október 8-án este hét órakor adott fogadást Magyarország Szentszéki Nagykövetsége és a Szuverén Máltai Katonai Lovagrend a Római Magyar Akadémia épületében, melynek díszvendége Pietro Parolin bíboros-államtitkár volt. Olvasd el mindet",
+      "cim": "Mai evangélium – 2026. október 11., évközi 28. vasárnap",
+      "lead": "Hogy örömhírrel induljon minden nap... – Mt 22,1-14; vagy rövidebb rövidebb forma a *-ig: Mt 22,1-10",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Mai evangélium – 2026. október 11., évközi 28. vasárnap",
+          "url": "https://magyarkurir.hu/hirek/mai-evangelium-2026-oktober-11-evkozi-28-vasarnap"
+        }
+      ]
+    },
+    {
+      "cim": "A HÉT VERSE – Vas István: Október",
+      "lead": "Vészterhes, háborús őszből szól Vas István költeménye. Az ősz sokarcúságát írta versbe a költő. Az őszét, mely varázsolni képes színes pompájával; napja melenget, szerelmes emlékeket idéz. Ugyanakkor hideget, fagyot hoz az ősz, és a bíbor, amivel fest, a vér színe – nem csak a szerelemé, de a halálé is.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "A HÉT VERSE – Vas István: Október",
+          "url": "https://magyarkurir.hu/hirek/a-het-verse-vas-istvan-oktober"
+        }
+      ]
+    },
+    {
+      "cim": "Mindig díjat kapott, amikor kapcsolatba került Szent Ferenccel – Csillag Péter Molnár-C. Pálról",
+      "lead": "Budapesten, a Clark Ádám tér és a Hunyadi János út sarkán lévő Ráth Lépcső Tudásközpont és Galériában az Ars Sacra Fesztivál programjaként szeptember 17-én nyílt meg az Il Cantico della Luce – A fények éneke című tárlat, amely Molnár-C. Pál Assisi Szent Ferenchez kapcsolódó mintegy ötven művét tárja a közönség elé.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Mindig díjat kapott, amikor kapcsolatba került Szent Ferenccel – Csillag Péter Molnár-C. Pálról",
+          "url": "https://magyarkurir.hu/hirek/mindig-dijat-kapott-amikor-kapcsolatba-kerult-szent-ferenccel-csillag-peter-molnar-c-palrol"
+        }
+      ]
+    },
+    {
+      "cim": "Amikor lehull a lepel – Vasárnapi ráhangoló",
+      "lead": "Heiter Robert Gottfried atya az évközi 28. vasárnap olvasmányáról elmélkedve Izajás végidőket idéző képeiből indul ki. A bőséges lakoma és Isten országának ígérete mellett egy kemény mondatra irányítja a figyelmet: amikor lehull a lepel, az igazságban önmagunkat is olyannak kell meglátnunk, amilyenek valójában…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Amikor lehull a lepel – Vasárnapi ráhangoló",
+          "url": "https://zarandok.ma/amikor-lehull-a-lepel-vasarnapi-rahangolo/"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa az antióchiai görög-melkita püspökök szinódusához: Veletek vagyunk gondjaitokban",
+      "lead": "A Szentatya október 10-én szombaton délelőtt fogadta a Vatikánban az antióchiai görög-melkita püspökök szinódusának 37 tagját, akik e napokban tartják Rómában a szinódusukat. Leó pápa elismeréssel szólt a görög-melkita egyház apostoli múltjáról és hogy a jelen nehézségeik közepette is hűségesek hagyományaikhoz és…",
       "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Parolin bíboros: A Szentszék és Magyarország közti kötelék ezeréves történelemre nyúlik vissza",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/parolin-magyarok-nagyasszonya-unnep-szentszek-kovetseg-kveck.html"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Parolin bíboros: A Szentszék és Magyarország közti kötelék ezeréves múltra nyúlik vissza",
-          "url": "https://magyarkurir.hu/hirek/parolin-biboros-szentszek-es-magyarorszag-kozti-kotelek-ezereves-multra-nyulik-vissza"
+          "cim": "Leó pápa az antióchiai görög-melkita püspökök szinódusához: Veletek vagyunk gondjaitokban",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-antiochia-gorog-melchita-puspok-szinodus-egyseg-segites.html"
         }
       ]
     },
     {
-      "cim": "A piaristák két és fél évszázad örökségéről tartottak konferenciát Kolozsváron",
-      "lead": "A piarista rend kolozsvári megtelepedésének 250. évfordulója alkalmából tudományos konferenciát szervezett a Piarista Rend Magyar Tartománya és a Kolozsvári Piarista Misszió. A rendezvénynek Kolozsváron a Farkas utcai Báthory István Elméleti Líceum díszterme adott otthont október 3-án.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A piaristák két és fél évszázad örökségéről tartottak konferenciát Kolozsváron",
-          "url": "https://magyarkurir.hu/hirek/a-piaristak-ket-es-fel-evszazad-oroksegerol-tartottak-konferenciat-kolozsvaron"
-        }
-      ]
-    },
-    {
-      "cim": "„Nem vagyunk egyedül a kusza utakon” – Interjú a lelki egészség világnapja alkalmából",
-      "lead": "Lelki egészségünk legalább olyan fontos, mint a testi, mégis sokszor nehezebben kérünk segítséget, ha belső nehézségekkel küzdünk. Turjányi Katalinnal, a Kilátó Ferences Mentálhigiénés és Lelkigondozói Szolgálat munkatársával beszélgetett – október 10-e, a lelki egészség világnapja alkalmából – Varga Kamill ferences…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "„Nem vagyunk egyedül a kusza utakon” – Interjú a lelki egészség világnapja alkalmából",
-          "url": "https://magyarkurir.hu/hirek/-nem-vagyunk-egyedul-kusza-utakon-interju-lelki-egeszseg-vilagnapja-alkalmabol"
-        }
-      ]
-    },
-    {
-      "cim": "Mary Teresa Barron nővér az Evangelizációs Dikasztérium új titkár-helyettese",
-      "lead": "A szerzetesnő egyúttal a Pápai Missziós Művek elnöki tisztségét is betölti majd. Új megbízatását 2027. január 4-én kezdi meg. Olvasd el mindet",
+      "cim": "XIV. Leó pápa üzenete az Elvándorlók és Menekültek 112. Világnapjára",
+      "lead": "Idén szeptember 27-én tartották az Elvándorlók és Menekültek 112. Világnapját, amikor XIV. Leó pápa franciaországi apostoli látogatása során éppen Lourdes-ban tartózkodott. Egy héttel később, október 4-én pedig Assisi Szent Ferenc Tranzitusának nyolc századik évfordulójára emlékezett a katolikus egyház, így…",
       "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Mary Teresa Barron nővér az Evangelizációs Dikasztérium új titkár-helyettese",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-kinevezes-evangelizacios-dikaszterium-barron-nover.html"
+          "cim": "XIV. Leó pápa üzenete az Elvándorlók és Menekültek 112. Világnapjára",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-tagle-kinevezes-dikaszterium.html"
         }
       ]
     },
     {
-      "cim": "Útravaló – 2026. október 10.",
-      "lead": "Napról napra közreadjuk a napi olvasmányokhoz, illetve az adott nap szentjéhez kapcsolódó gondolatokat az Adoremus liturgikus kiadványból. Októberben Kálmán Peregrin OFM, a pesti ferences templom igazgatója ad útravalót.",
+      "cim": "Amoris laetitia – 3. nap: A családok kísérése az egész Egyház feladata",
+      "lead": "A migráció, a digitális világ, a gazdasági bizonytalanság, az erőszak és a családi kapcsolatok átalakulása állt az Amoris laetitia kezdetű apostoli buzdítás tizedik évfordulója alkalmából rendezett vatikáni találkozó harmadik napjának középpontjában. Az október 9-i sajtótájékoztatón a résztvevők hangsúlyozták: az…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Útravaló – 2026. október 10.",
-          "url": "https://magyarkurir.hu/hirek/utravalo-2026-oktober-10"
+          "nev": "Vatican News (magyar)",
+          "cim": "Amoris laetitia – 3. nap: A családok kísérése az egész Egyház feladata",
+          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/amoris-laetitia-talalkozo-3-nap-sajtotajekoztato-csalad-kiseres.html"
         }
       ]
     },
@@ -118,17 +119,6 @@
           "nev": "Zarándok.ma",
           "cim": "283. nap: Mattatiás harcba száll",
           "url": "https://zarandok.ma/283-nap-mattatias-harcba-szall/"
-        }
-      ]
-    },
-    {
-      "cim": "Napi ráhangoló: Krisztusban értjük meg igazán az Ószövetséget",
-      "lead": "Évközi 27. hét, szombat Gal 3,22-29; Lk 11,27-28 „Ennélfogva a törvény nevelőnk volt Krisztusra, hogy a hit által igazuljunk meg. Amikor azonban elérkezett a hit, már nem vagyunk a nevelő alatt.” A legnagyszerűbb tanítókra, nevelőkre nemcsak addig nézünk fel, amíg a kezük alatt vagyunk, hanem sok-sok évvel a szakmai…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: Krisztusban értjük meg igazán az Ószövetséget",
-          "url": "https://zarandok.ma/napi-rahangolo-krisztusban-ertjuk-meg-igazan-az-oszovetseget/"
         }
       ]
     }
@@ -166,18 +156,28 @@
       ]
     },
     {
-      "cim": "Bishop responds to US plan for public execution",
-      "lead": "The leader of the US bishops’ conference has responded with “shock and great sorrow” to an announcement that the US government plans to live-stream an execution that is scheduled for December. An announcement from what is now known as the US Department of War was made October 8. It said that the execution by firing…",
+      "cim": "Pope Leo’s words on this World Day Against the Death Penalty",
+      "lead": "In a rather remarkable — or some would say Providential — arrangement of events, October 10 is the World Day Against the Death Penalty, marked on this day since 2003. It’s remarkable because this week, international focus is on the death penalty in a striking way, after the Pentagon announced that it would live-stream…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Bishop responds to US plan for public execution",
-          "url": "https://aleteia.org/2026/10/09/bishop-responds-to-us-plan-for-public-execution/"
+          "cim": "Pope Leo’s words on this World Day Against the Death Penalty",
+          "url": "https://aleteia.org/2026/10/10/its-world-day-against-death-penalty/"
         },
         {
           "nev": "Vatican News",
-          "cim": "Cardinal Parolin on US public execution: Death must not be turned into a spectacle",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-parolin-comments-usa-public-execution-announcement.html"
+          "cim": "US Archbishop Coakley: Livestreaming execution promotes a ‘culture of death’",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/united-states-archbishop-coakley-rejects-execution-hassan.html"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo blasts death penalty as US plans to livestream execution",
+          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-blasts-death-penalty-us-plans-livestream-execution"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "US military plans public livestream of Fort Hood shooter’s execution",
+          "url": "https://thecatholicherald.com/article/us-military-plans-public-livestream-of-fort-hood-shooter-s-execution"
         }
       ]
     },
@@ -189,83 +189,88 @@
           "nev": "Vatican News",
           "cim": "Pope appoints Archbishop Viola as Archpriest of St. Peter’s Basilica",
           "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-appoints-francesco-viola-archpriest-saint-peters.html"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo names Archbishop Viola new archpriest of St. Peter's Basilica",
+          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-names-archbishop-viola-new-archpriest-st-peters-basilica"
         }
       ]
     },
     {
-      "cim": "Pope: Art is not ‘mere aestheticism’ but a way to share the Gospel",
-      "lead": "Speaking to members of the Bizot Group, which brings together directors of the world’s largest museums, Pope Leo stresses the importance of works of art as a means of “safeguarding a heritage that belongs to all humanity.” Read all",
+      "cim": "Former Chicago Bears coach Mike Ditka remembered for faith and charity",
+      "lead": "The former Chicago Bears coach, who led the team to a Super Bowl victory in 1986, spoke openly about his Catholic faith and supported charitable causes in Chicago",
+      "forrasok": [
+        {
+          "nev": "Catholic Herald",
+          "cim": "Former Chicago Bears coach Mike Ditka remembered for faith and charity",
+          "url": "https://thecatholicherald.com/article/former-chicago-bears-coach-mike-ditka-remembered-for-faith-and-charity"
+        }
+      ]
+    },
+    {
+      "cim": "Bishops from violence-stricken countries emphasize importance of mental health",
+      "lead": "During a press conference at the Vatican at the end of the gathering, “A Healing Presence: The Church’s Call to Mental Health Ministry,” several bishops from countries faced with war, violence and poverty insisted on the importance of ministering to those struggling with mental health, echoing also Pope Leo XIV’s…",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Pope: Art is not ‘mere aestheticism’ but a way to share the Gospel",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-art-is-not-mere-aestheticism-but-a-way-to-share-the-gospel.html"
+          "cim": "Bishops from violence-stricken countries emphasize importance of mental health",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/mental-health-ministry-pope-prayer-intention-bishops-war-support.html"
         }
       ]
     },
     {
-      "cim": "Holy See reiterates its position on chivalric orders",
-      "lead": "The Secretariat of State reaffirms its position on chivalric orders, noting that the Holy See recognizes and protects only the Sovereign Military Order of Malta and the Equestrian Order of the Holy Sepulcher of Jerusalem, besides its own chivalric orders. Read all",
+      "cim": "Mike Ditka dies at 86: A life of football, fire and Catholic faith",
+      "lead": "Known as \"Iron Mike\" and \"Da Coach,\" his public reflections on faith revealed a man unembarrassed to credit his mother, his Catholic schooling and the sacraments for shaping his life.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Mike Ditka dies at 86: A life of football, fire and Catholic faith",
+          "url": "https://www.ncronline.org/news/mike-ditka-dies-86-life-football-fire-and-catholic-faith"
+        }
+      ]
+    },
+    {
+      "cim": "Understanding mental health through listening and sharing",
+      "lead": "The second day of the conference, “A Healing Presence: The Church’s Call to Mental Health Ministry,” reflects on the state of mental health among young people and the relationship between psychological distress and drug use. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Holy See reiterates its position on chivalric orders",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/holy-see-secretariat-state-position-chivalric-orders.html"
+          "cim": "Understanding mental health through listening and sharing",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/di-liegro-foundation-mental-health-conference-listening-sharing.html"
         }
       ]
     },
     {
-      "cim": "A spotted sandpiper dances as I birdwatch with Kierkegaard",
-      "lead": "The Danish Christian thinker Søren Kierkegaard envisioned birds as teachers worthy of our attention. What can birdwatching teach us about joy?",
+      "cim": "Cardinal Pizzaballa: Keep attention on the Holy Land, West Bank, and Gaza",
+      "lead": "Three years after the October 7 attacks, the Latin Patriarch of Jerusalem describes a Holy Land gripped by mistrust in an interview with the Vatican's media outlets. He also expresses concern over the West Bank, where he denounces “a total absence of law,” and Gaza, where “the humanitarian situation has not improved…",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Cardinal Pizzaballa: Keep attention on the Holy Land, West Bank, and Gaza",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/cardinal-pizzaballa-on-holy-land-and-a-need-to-rediscover-hope.html"
+        }
+      ]
+    },
+    {
+      "cim": "Pete Hegseth would like you to watch a public execution",
+      "lead": "Americans have a choice about the planned livestream, writes Joe Ferullo: \" To protest. To yell. To march. Or to watch. These choices will tell us just how far we have fallen, and who we really are.\"",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "A spotted sandpiper dances as I birdwatch with Kierkegaard",
-          "url": "https://www.ncronline.org/spirituality/spotted-sandpiper-dances-i-birdwatch-kierkegaard"
+          "cim": "Pete Hegseth would like you to watch a public execution",
+          "url": "https://www.ncronline.org/opinion/guest-voices/pete-hegseth-would-you-watch-public-execution"
         }
       ]
     },
     {
-      "cim": "Off-Broadway show about cancer invites audience into healing liturgy",
-      "lead": "How do we mourn the people we have lost? Live with the wounds we've endured? Face the specters of mortality that haunt us? In \"Night Side Songs,\" the Lazours reveal how much can be accomplished together, and in song.",
+      "cim": "VATICAN DISPATCH: Leo XIV, Amoris Laetitia and a renewed debate over ‘Co-Redemptrix’",
+      "lead": "The question of Mary as ‘Co-Redemptrix’ returned to the Vatican as Leo XIV opened a conference on Amoris Laetitia and news emerged of the forthcoming publication of Pope Francis’s diaries",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "Off-Broadway show about cancer invites audience into healing liturgy",
-          "url": "https://www.ncronline.org/culture/broadway-show-about-cancer-invites-audience-healing-liturgy"
-        }
-      ]
-    },
-    {
-      "cim": "Museum mix-up: The true story behind Fulton Sheen and the ‘Patronal Medal’",
-      "lead": "“This University ... must seek to make the presence of God and His saints felt by faculty and students alike.”",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Museum mix-up: The true story behind Fulton Sheen and the ‘Patronal Medal’",
-          "url": "https://www.pillarcatholic.com/p/museum-mix-up-the-true-story-behind"
-        }
-      ]
-    },
-    {
-      "cim": "Bonus: Choices",
-      "lead": "Many choices are being made.",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Bonus: Choices",
-          "url": "https://www.pillarcatholic.com/p/bonus-choices"
-        }
-      ]
-    },
-    {
-      "cim": "Ep. 281: A man without a country, and a conversation without winners and losers",
-      "lead": "Ed’s choice of news this week!",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Ep. 281: A man without a country, and a conversation without winners and losers",
-          "url": "https://www.pillarcatholic.com/p/ep-281-a-man-without-a-country-and"
+          "nev": "Catholic Herald",
+          "cim": "VATICAN DISPATCH: Leo XIV, Amoris Laetitia and a renewed debate over ‘Co-Redemptrix’",
+          "url": "https://thecatholicherald.com/article/vatican-dispatch-leo-xiv-amoris-laetitia-and-a-renewed-debate-over-co-redemptrix"
         }
       ]
     }
