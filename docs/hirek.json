@@ -1,91 +1,102 @@
 {
-  "datum": "2026-10-11",
-  "generalva": "2026-10-11T12:59+02:00",
+  "datum": "2026-10-12",
+  "generalva": "2026-10-12T14:23+02:00",
   "hazai": [
     {
-      "cim": "Amoris laetitia – 3. nap: A családok kísérése az egész Egyház feladata",
-      "lead": "A migráció, a digitális világ, a gazdasági bizonytalanság, az erőszak és a családi kapcsolatok átalakulása állt az Amoris laetitia kezdetű apostoli buzdítás tizedik évfordulója alkalmából rendezett vatikáni találkozó harmadik napjának középpontjában. Az október 9-i sajtótájékoztatón a résztvevők hangsúlyozták: az…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Amoris laetitia – 3. nap: A családok kísérése az egész Egyház feladata",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/amoris-laetitia-talalkozo-3-nap-sajtotajekoztato-csalad-kiseres.html"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A családok kísérése az egész Egyház feladata – Vatikáni püspöktalálkozó (3. nap)",
-          "url": "https://magyarkurir.hu/hirek/a-csaladok-kiserese-az-egesz-egyhaz-feladata-vatikani-puspoktalalkozo-3-nap"
-        }
-      ]
-    },
-    {
-      "cim": "Tagle bíboros a Bíborosi Kollégium új dékánja Giovanni Battista Re lemondása után",
-      "lead": "A Szentatya október 8-án elfogadta Giovanni Battista Re bíboros lemondását a Bíborosi Kollégium dékáni tisztségéről – és jóváhagyva a püspöki rendhez tartozó bíborosok döntését – helyette Luis Antonio Tagle bíborost, az Evangelizáció Dikasztériuma első evangelizációval és az új részegyházakkal foglalkozó részlegének…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Tagle bíboros a Bíborosi Kollégium új dékánja Giovanni Battista Re lemondása után",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-kinevezes-tagle-biboros-dekan-battista-re-lemondas-emeritus.html"
-        },
-        {
-          "nev": "777",
-          "cim": "Tagle bíborost választották a Bíborosi Kollégium új dékánjává",
-          "url": "https://777blog.hu/2026/10/10/tagle-biborost-valasztottak-a-biborosi-kollegium-uj-dekanjava/"
-        }
-      ]
-    },
-    {
-      "cim": "Tevékeny részvétel",
-      "lead": "Gérecz Imre OSB liturgikus jegyzetét olvashatják.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Tevékeny részvétel",
-          "url": "https://magyarkurir.hu/hirek/tevekeny-reszvetel"
-        }
-      ]
-    },
-    {
-      "cim": "Legyünk mi, akik valami szépet nyújtanak e világnak – Felvidéki magyarok búcsúja Máriavölgyben",
-      "lead": "Negyedik évtizedébe lépett a felvidéki Máriavölgybe vezető őszi zarándoklatok hagyománya. Október 10-én, Magyarok Nagyasszonya ünnepe alkalmából a Felvidékről és az anyaországból érkező Mária-tisztelők Fazekas Ferenc szabadkai megyéspüspökkel ünnepeltek, kifejezve, hogy Szent István népeként, mai keresztény…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Legyünk mi, akik valami szépet nyújtanak e világnak – Felvidéki magyarok búcsúja Máriavölgyben",
-          "url": "https://magyarkurir.hu/hirek/legyunk-mi-akik-valami-szepet-nyujtanak-e-vilagnak-felvideki-magyarok-bucsuja-mariavolgyben"
-        }
-      ]
-    },
-    {
-      "cim": "Jó fa akarok lenni",
-      "lead": "1858. október tizedikén született Székesfehérvár néhai püspöke, Prohászka Ottokár – halálának száz éves évfordulójára közel fél év múlva emlékezünk. Az alábbiakban egyetlen, ma is tanulságos gondolatát idézzük fel. Köztudott, hogy Prohászka Ottokár 1920 tavaszán politikai szerepet vállalt, püspöki székhelyén…",
+      "cim": "Hirdessük mindig hittel és bátran Krisztus örömét – Leó pápa Úrangyala imája",
+      "lead": "Vasárnap délben, az Úrangyala elimádkozása előtt mondott beszédében XIV. Leó pápa arra buzdított katekézisében, hogy legyünk Krisztus örömének hirdetői. Az Úr arra választott ki bennünket, hogy vele együtt legyünk az élet hordozói. Jézus Krisztus minden nap eljön, hogy kinyilvánítsa irántunk való szeretetét, és várja…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Jó fa akarok lenni",
-          "url": "https://zarandok.ma/jo-fa-akarok-lenni/"
-        }
-      ]
-    },
-    {
-      "cim": "Szent XXIII. János, a jó pápa",
-      "lead": "Korunk szentjére, XXIII. János pápára emlékezünk október 11-én. Hosszú csendes, szolgáló évek után került Szent Péter székébe, és felismerve az idők jeleit elindította az Egyház megújulását.",
-      "forrasok": [
+          "cim": "Hirdessük mindig hittel és bátran Krisztus örömét – Leó pápa Úrangyala imája",
+          "url": "https://zarandok.ma/hirdessuk-mindig-hittel-es-batran-krisztus-oromet-leo-papa-urangyala-imaja/"
+        },
         {
-          "nev": "Magyar Kurír",
-          "cim": "Szent XXIII. János, a jó pápa",
-          "url": "https://magyarkurir.hu/hirek/szent-xxiii-janos-jo-papa"
+          "nev": "Vatican News (magyar)",
+          "cim": "Hirdessük mindig hittel és bátran Krisztus örömét – Leó pápa Úrangyala imája",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-urangyala-oktober-11-krisztus-oromenek-hirdetoi.html"
         }
       ]
     },
     {
-      "cim": "284. nap: Bűnre vezető alkalom",
-      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, magasztalunk és dicsőítünk téged. Köszönjük ezt az ajándékot, hogy elmondod nekünk a történetünket a Makkabeusok könyvében – talán azt a történetünket, amit még nem is ismerünk. Köszönjük azt is, hogy megadod nekünk bölcsességedet, hogy éjjel-nappal elmélkedhessünk…",
+      "cim": "XIV. Leó pápát hamarosan tüdőműtétnek vetik alá",
+      "lead": "XIV. Leó a vasárnapi Úrangyala-imádság alkalmával bejelentette, hogy az orvosok egy korai stádiumban lévő, jól körülhatárolható göböt fedeztek fel a tüdejében, amelyet műtéti úton távolítanak el –adja híról a Vatican News. A beavatkozást a következő napokban végzik el a római Gemelli-kórházban. A Szentatya megköszönte…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "284. nap: Bűnre vezető alkalom",
-          "url": "https://zarandok.ma/284-nap-bunre-vezeto-alkalom/"
+          "cim": "XIV. Leó pápát hamarosan tüdőműtétnek vetik alá",
+          "url": "https://zarandok.ma/xiv-leo-papat-hamarosan-tudomutetnek-vetik-ala/"
+        },
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó pápát hamarosan tüdőműtétnek vetik alá",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-oktober-11-urangyala-tudomutet-gob-gemelli-korhaz.html"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa októberi imaszándéka a mentális egészség támogatásáért",
+      "lead": "Imádkozzunk, hogy a mentális egészség támogatása az egész egyházba beépüljön, segítve a mentális betegségekkel élő emberekkel szembeni megbélyegzés és diszkrimináció leküzdését – kéri XIV. Leó pápa októberi imaszándékában. Az ehhez kapcsolódó videót október 1-jén tették közzé.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Leó pápa októberi imaszándéka a mentális egészség támogatásáért",
+          "url": "https://magyarkurir.hu/hirek/leo-papa-oktoberi-imaszandeka-mentalis-egeszseg-tamogatasaert"
+        }
+      ]
+    },
+    {
+      "cim": "Itt van az ősz, itt van újra, filmszüret és filmmustra! – CineFest 2026",
+      "lead": "A 22. CineFest Nemzetközi Filmfesztivált szeptember 4. és 12. között rendezték meg Miskolcon. A programban az elmúlt egy év legújabb nemzetközi és magyar alkotásait láthattuk: nagyjátékfilmeket, dokumentum-, rövid- és animációs filmeket egyaránt bemutattak. Összesen 90 alkotást vetítettek, melyek közül 57…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Itt van az ősz, itt van újra, filmszüret és filmmustra! – CineFest 2026",
+          "url": "https://magyarkurir.hu/hirek/itt-van-az-osz-itt-van-ujra-filmszuret-es-filmmustra-cinefest-2026"
+        }
+      ]
+    },
+    {
+      "cim": "Kövek, melyek Isten felé emelnek – Összefogással újult meg a kisvaszari templom",
+      "lead": "Összefogott a lakosság a Baranya megyei Kisvaszaron, hogy megmentsék a falu 1790-ben épült, Szent György vértanú tiszteletére felszentelt templomát. Kormányzati és egyházi forrásból megvalósult a tető és a födém halaszthatatlanná vált felújítása, majd a helyiek nagylelkű adományoknak köszönhetően több mint három…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Kövek, melyek Isten felé emelnek – Összefogással újult meg a kisvaszari templom",
+          "url": "https://magyarkurir.hu/hirek/kovek-melyek-isten-fele-emelnek-osszefogassal-ujult-meg-kisvaszari-templom"
+        }
+      ]
+    },
+    {
+      "cim": "A Hodász–Bese–Osztie-dilemma: politizálhat-e egy pap?",
+      "lead": "A történelemben számos esetben merült fel a kérdés, hogy politizálhatnak-e a katolikus papok. Noha a kánonjog ezt szűk keretek közé szorítja, attól, hogy valakit felszentelnek, még nem veszti el a jogát a véleménynyilvánításra. De vajon az egyházi vezetés egyforma mércével méri-e a különféle politikai előjelű…",
+      "forrasok": [
+        {
+          "nev": "Szemlélek",
+          "cim": "A Hodász–Bese–Osztie-dilemma: politizálhat-e egy pap?",
+          "url": "https://szemlelek.net/a-hodasz-bese-osztie-dilemma-politizalhat-e-egy-pap/"
+        }
+      ]
+    },
+    {
+      "cim": "A szőlő az aszályban is terem – de vajon a mi életünk milyen gyümölcsöt hoz? – Lelkesítő",
+      "lead": "Vajon képesek vagyunk szeretetet teremni akkor is, amikor életünket nehézségek, fájdalmak és megpróbáltatások érik? A Lelkesítő legújabb epizódjában Bartha Angéla szociális testvér a szőlő példáján keresztül beszél a lelki gyümölcstermés titkáról, és egy megható családi történettel mutatja meg, hogyan formálhatja át…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "A szőlő az aszályban is terem – de vajon a mi életünk milyen gyümölcsöt hoz? – Lelkesítő",
+          "url": "https://zarandok.ma/a-szolo-az-aszalyban-is-terem-de-vajon-a-mi-eletunk-milyen-gyumolcsot-hoz-lelkesito/"
+        }
+      ]
+    },
+    {
+      "cim": "285. nap: A Hanuka története",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk és áldunk téged. Köszönjük ennek a napnak, és igéidnek minden ajándékát. Köszönjük Júdás Makkabeus és a hozzád hűséges zsidók történetét, akik érted harcoltak. Tudjuk, hogy Júdás Makkabeus és testvérei küzdöttek a görögök ellen, de azt is tudjuk, hogy a mi…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "285. nap: A Hanuka története",
+          "url": "https://zarandok.ma/285-nap-a-hanuka-tortenete/"
         }
       ]
     },
@@ -101,166 +112,140 @@
       ]
     },
     {
-      "cim": "Leó pápa az antióchiai görög-melkita püspökök szinódusához: Veletek vagyunk gondjaitokban",
-      "lead": "A Szentatya október 10-én szombaton délelőtt fogadta a Vatikánban az antióchiai görög-melkita püspökök szinódusának 37 tagját, akik e napokban tartják Rómában a szinódusukat. Leó pápa elismeréssel szólt a görög-melkita egyház apostoli múltjáról és hogy a jelen nehézségeik közepette is hűségesek hagyományaikhoz és…",
+      "cim": "Élőben közvetítenék a hírhedt tömeggyilkos kivégzését – az amerikai püspökök és a pápa is szót emelt",
+      "lead": "Élőben közvetítenék egy tömeggyilkos kivégzését Amerikában. A kivégzést osztag általi sortűzzel élőben megtekintheti bárki – közölte a Pentagon. Az esetre elsőként Paul S. Coakley érsek, az Egyesült Államok Katolikus Püspöki Konferenciájának elnöke reagált, majd a vatikáni államtitkár is hangot adott nemtetszésének…",
       "forrasok": [
         {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa az antióchiai görög-melkita püspökök szinódusához: Veletek vagyunk gondjaitokban",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-antiochia-gorog-melchita-puspok-szinodus-egyseg-segites.html"
-        }
-      ]
-    },
-    {
-      "cim": "XIV. Leó pápa üzenete az Elvándorlók és Menekültek 112. Világnapjára",
-      "lead": "Idén szeptember 27-én tartották az Elvándorlók és Menekültek 112. Világnapját, amikor XIV. Leó pápa franciaországi apostoli látogatása során éppen Lourdes-ban tartózkodott. Egy héttel később, október 4-én pedig Assisi Szent Ferenc Tranzitusának nyolc századik évfordulójára emlékezett a katolikus egyház, így…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó pápa üzenete az Elvándorlók és Menekültek 112. Világnapjára",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-tagle-kinevezes-dikaszterium.html"
+          "nev": "777",
+          "cim": "Élőben közvetítenék a hírhedt tömeggyilkos kivégzését – az amerikai püspökök és a pápa is szót emelt",
+          "url": "https://777blog.hu/2026/10/11/eloben-kozvetitenek-a-hirhedt-tomeggyilkos-kivegzeset-az-amerikai-puspokok-es-a-papa-is-szot-emelt/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Cardinal Tagle chosen as new Dean of College of Cardinals",
-      "lead": "Filipino Cardinal Luis Antonio Tagle was elected the Dean of the College of Cardinals, succeeding the 92-year-old Italian, Cardinal Giovanni Battista Re. The primary duty of a Dean of the College is convening and, presuming he is under age 80, presiding over a Conclave. Cardinal Re’s service at the funeral of Pope…",
+      "cim": "Pope Leo XIV to have lump removed from lung",
+      "lead": "Pope Leo announced to the faithful today that doctors have found a “small, localized nodule in my lung” and that he will have surgery to remove it in “the coming days.” He said he entrusts himself to our prayers. After praying the midday Angelus, Pope Leo said this: Dear friends, during some recent medical…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Cardinal Tagle chosen as new Dean of College of Cardinals",
-          "url": "https://aleteia.org/2026/10/09/cardinal-tagle-chosen-as-new-dean-of-college-of-cardinals/"
+          "cim": "Pope Leo XIV to have lump removed from lung",
+          "url": "https://aleteia.org/2026/10/11/pope-leo-xiv-to-have-lump-removed-from-long/"
         },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo lays groundwork for future conclave by naming Filipino cardinal as dean of cardinals",
-          "url": "https://www.ncronline.org/vatican/pope-leo-lays-groundwork-future-conclave-naming-filipino-cardinal-dean-cardinals"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Filipino Cardinal Tagle named as Dean of the College of Cardinals",
-          "url": "https://thecatholicherald.com/article/filipino-cardinal-tagle-named-as-dean-of-the-college-of-cardinals"
-        },
-        {
-          "nev": "The Pillar",
-          "cim": "Tagle elected Dean of College of Cardinals",
-          "url": "https://www.pillarcatholic.com/p/tagle-elected-dean-of-college-of"
-        }
-      ]
-    },
-    {
-      "cim": "Pope Leo’s words on this World Day Against the Death Penalty",
-      "lead": "In a rather remarkable — or some would say Providential — arrangement of events, October 10 is the World Day Against the Death Penalty, marked on this day since 2003. It’s remarkable because this week, international focus is on the death penalty in a striking way, after the Pentagon announced that it would live-stream…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "Pope Leo’s words on this World Day Against the Death Penalty",
-          "url": "https://aleteia.org/2026/10/10/its-world-day-against-death-penalty/"
-        },
-        {
-          "nev": "Vatican News",
-          "cim": "US Archbishop Coakley: Livestreaming execution promotes a ‘culture of death’",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/united-states-archbishop-coakley-rejects-execution-hassan.html"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo blasts death penalty as US plans to livestream execution",
-          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-blasts-death-penalty-us-plans-livestream-execution"
-        }
-      ]
-    },
-    {
-      "cim": "Pope appoints Archbishop Viola as Archpriest of St. Peter’s Basilica",
-      "lead": "Pope Leo XIV appoints Archbishop Vittorio Francesco Viola as Archpriest of St. Peter’s Basilica and Bishop Aurelio García Macías as Secretary of the Dicastery for Divine Worship and the Discipline of the Sacraments. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope appoints Archbishop Viola as Archpriest of St. Peter’s Basilica",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-appoints-francesco-viola-archpriest-saint-peters.html"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo names Archbishop Viola new archpriest of St. Peter's Basilica",
-          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-names-archbishop-viola-new-archpriest-st-peters-basilica"
-        }
-      ]
-    },
-    {
-      "cim": "Pope at Angelus: Christian joy is ‘gift of God for world’s salvation’",
-      "lead": "At the Angelus on Sunday, Pope Leo XIV reflects on Jesus’ parable of the wedding feast, and recalls that Christian joy impels us to share it with others, even at the risk of misunderstandings. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope at Angelus: Christian joy is ‘gift of God for world’s salvation’",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-angelus-christian-joy-salvation.html"
-        }
-      ]
-    },
-    {
-      "cim": "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
-      "lead": "Pope Leo XIV reveals that he is set to undergo surgery to remove a “localized nodule in my lung,” noting that it is at a “very early stage and is well localized.” The operation will take place in the coming days at Rome's Gemelli Hospital. Read all",
-      "forrasok": [
         {
           "nev": "Vatican News",
           "cim": "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
           "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-to-undergo-surgery-remove-nodule-lung.html"
-        }
-      ]
-    },
-    {
-      "cim": "Everything 'begins with God' for first Black female president of Denver's Regis University",
-      "lead": "\"I don't come here to build something from scratch, I come to receive what has been entrusted to me,\" Shawna Cooper Whitehead said.",
-      "forrasok": [
+        },
         {
           "nev": "National Catholic Reporter",
-          "cim": "Everything 'begins with God' for first Black female president of Denver's Regis University",
-          "url": "https://www.ncronline.org/news/everything-begins-god-first-black-female-president-denvers-regis-university"
+          "cim": "Pope Leo to undergo surgery to remove lung nodule",
+          "url": "https://www.ncronline.org/vatican/pope-leo-undergo-surgery-remove-lung-nodule"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "The Week Ahead: Pope Leo’s surgery, midterm crunch and a possible Irish saint",
+          "url": "https://thecatholicherald.com/article/the-week-ahead-pope-leo-s-surgery-midterm-crunch-and-a-possible-irish-saint"
         }
       ]
     },
     {
-      "cim": "‘Something greater than Solomon is here’",
-      "lead": "From St Edward the Confessor to St Ignatius of Antioch, this week’s Magnificat explores holiness, mission and the courage of Christian witness",
+      "cim": "Trump honours Christopher Columbus as a hero of the Christian faith",
+      "lead": "In his annual Columbus Day proclamation, President Donald Trump praised the explorer’s Christian faith, his role in the history of exploration and his place in Italian-American heritage",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "‘Something greater than Solomon is here’",
-          "url": "https://thecatholicherald.com/article/something-greater-than-solomon-is-here"
+          "cim": "Trump honours Christopher Columbus as a hero of the Christian faith",
+          "url": "https://thecatholicherald.com/article/trump-honours-christopher-columbus-as-a-hero-of-the-christian-faith"
         }
       ]
     },
     {
-      "cim": "Former Chicago Bears coach Mike Ditka remembered for faith and charity",
-      "lead": "The former Chicago Bears coach, who led the team to a Super Bowl victory in 1986, spoke openly about his Catholic faith and supported charitable causes in Chicago",
+      "cim": "Cardinal Müller says livestreamed US execution a ‘frightening example for the world’",
+      "lead": "The German cardinal warned that President Trump is “undermining, not increasing his authority” with the plans to livestream Nidal Hasan’s execution.",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Former Chicago Bears coach Mike Ditka remembered for faith and charity",
-          "url": "https://thecatholicherald.com/article/former-chicago-bears-coach-mike-ditka-remembered-for-faith-and-charity"
+          "cim": "Cardinal Müller says livestreamed US execution a ‘frightening example for the world’",
+          "url": "https://thecatholicherald.com/article/cardinal-muller-says-livestreamed-us-execution-a-frightening-example-for-the-world"
         }
       ]
     },
     {
-      "cim": "Bishops from violence-stricken countries emphasize importance of mental health",
-      "lead": "During a press conference at the Vatican at the end of the gathering, “A Healing Presence: The Church’s Call to Mental Health Ministry,” several bishops from countries faced with war, violence and poverty insisted on the importance of ministering to those struggling with mental health, echoing also Pope Leo XIV’s…",
+      "cim": "Vatican scholarships to keep Christians in the Middle East",
+      "lead": "Pope Leo XIV received the Synod of Bishops of the Greek-Melkite Church of Antioch on October 10, offering words of solidarity with a community that has lived for decades under the weight of war, religious extremism, forced migration, and economic collapse. “I am with you,” he told the bishops — and through them, the…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Vatican scholarships to keep Christians in the Middle East",
+          "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/"
+        }
+      ]
+    },
+    {
+      "cim": "Leo keeping regular schedule in lead-up to surgery",
+      "lead": "Leo XIV is carrying on with his duties as usual at the Vatican this Monday morning, October 12, 2026, the Holy See Press Office reported. It also stated that the pulmonary nodule was detected during “routine check-ups.” The date of the Holy Father’s admission to hospital for surgery is not yet confirmed. On Sunday…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Leo keeping regular schedule in lead-up to surgery",
+          "url": "https://aleteia.org/2026/10/12/leo-keeping-regular-schedule-in-lead-up-to-surgery/"
+        }
+      ]
+    },
+    {
+      "cim": "Scores of people die in migrant boat tragedy off Horn of Africa",
+      "lead": "A migrant boat attempting to cross the Bab al-Mandeb Strait between Djibouti, in the Horn of Africa, and Yemen, on the Arabian Peninsula, leaves more than 130 dead and over 80 people still missing, Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Bishops from violence-stricken countries emphasize importance of mental health",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/mental-health-ministry-pope-prayer-intention-bishops-war-support.html"
+          "cim": "Scores of people die in migrant boat tragedy off Horn of Africa",
+          "url": "https://www.vaticannews.va/en/world/news/2026-10/migrants-shipwreck-djibouti-yemen-iom-appeal.html"
         }
       ]
     },
     {
-      "cim": "Mike Ditka dies at 86: A life of football, fire and Catholic faith",
-      "lead": "Known as \"Iron Mike\" and \"Da Coach,\" his public reflections on faith revealed a man unembarrassed to credit his mother, his Catholic schooling and the sacraments for shaping his life.",
+      "cim": "Pope: Charity is source of prayer, soul of action, expression of sacrifice",
+      "lead": "In a meeting with members of the “Circolo di San Pietro,” an organisation in Rome that assists the most vulnerable, Pope Leo XIV emphasizes the importance of Christian charity as a guiding force. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope: Charity is source of prayer, soul of action, expression of sacrifice",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-charity-prayer-service-action-circolo-san-pietro.html"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo and Blessed Fulton on 100th year of World Mission Sunday",
+      "lead": "Pope Pius XI instituted World Mission Sunday 100 years ago, but Pope Leo XIV – a missionary for many years himself – is the first pontiff to release a video specifically to celebrate this day. With this year’s theme “One in Christ, united in mission,” the Holy Father calls for a “deeper understanding of the greatness…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Pope Leo and Blessed Fulton on 100th year of World Mission Sunday",
+          "url": "https://aleteia.org/2026/10/12/pope-leo-and-blessed-fulton-on-100th-year-of-world-mission-sunday/"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo thanks Cardinal Re for service as Dean of College of Cardinals",
+      "lead": "After receiving his resignation as Dean of the College of Cardinals, Pope Leo XIV sends a letter to Cardinal Giovanni Battista Re, expressing his gratitude for all his years of service with the Holy See, and stresses that the Cardinal is “one of the best-known and most highly esteemed servants of the Holy See.” Read…",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo thanks Cardinal Re for service as Dean of College of Cardinals",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-sends-letter-former-dean-college-cardinals-battista-re.html"
+        }
+      ]
+    },
+    {
+      "cim": "Podcast: 'Catholicism has something vital to learn from other religious traditions,' says Cyprian Consiglio",
+      "lead": "On this week's episode of \"The Nonviolent Jesus Podcast,\" John Dear hosts Cyprian Consiglio, a well-known composer, musician and Camaldolese monk.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Mike Ditka dies at 86: A life of football, fire and Catholic faith",
-          "url": "https://www.ncronline.org/news/mike-ditka-dies-86-life-football-fire-and-catholic-faith"
+          "cim": "Podcast: 'Catholicism has something vital to learn from other religious traditions,' says Cyprian Consiglio",
+          "url": "https://www.ncronline.org/opinion/podcast-catholicism-has-something-vital-learn-other-religious-traditions-says-cyprian"
         }
       ]
     }
