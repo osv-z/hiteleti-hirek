@@ -1,16 +1,43 @@
 {
-  "datum": "2026-10-17",
-  "generalva": "2026-10-17T10:46+02:00",
+  "datum": "2026-10-18",
+  "generalva": "2026-10-18T11:02+02:00",
   "hazai": [
     {
-      "cim": "XIV. Leó telefonon beszélt Putyin orosz elnökkel",
-      "lead": "Leó pápa október 16-án, pénteken telefonbeszélgetést folytatott Vlagyimir Putyinnal, az Oroszországi Föderáció elnökével. A Szentatya mély aggodalmát fejezte ki a Herszoni régióban fekvő Oleski városának súlyos humanitárius helyzete miatt, és tűzszünetet sürgetett, hogy lehetővé váljon az élelmiszer és orvosi segítség…",
+      "cim": "Mosolyogva hagyta el a kórházat XIV. Leó pápa",
+      "lead": "Négynapos kórházi kezelés után, október 17-én, szombaton délután visszatért a Vatikánba XIV. Leó pápa. A kedden tüdőműtéten átesett Szentatyát orvosai a kedvező vizsgálati eredmények alapján hazabocsáthatónak ítélték. A Gemelli-klinika előtt összegyűlt hívek hosszan tartó tapssal búcsúztatták a mosolygó pápát, aki…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "XIV. Leó telefonon beszélt Putyin orosz elnökkel",
-          "url": "https://magyarkurir.hu/hirek/xiv-leo-telefonon-beszelt-putyin-orosz-elnokkel"
+          "nev": "Zarándok.ma",
+          "cim": "Mosolyogva hagyta el a kórházat XIV. Leó pápa",
+          "url": "https://zarandok.ma/mosolyogva-hagyta-el-a-korhazat-xiv-leo-papa/"
         },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Leó pápa visszatért a Vatikánba, miután kiengedték a kórházból",
+          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-visszatert-vatikanba-miutan-kiengedtek-korhazbol"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa üzenete a guadalupei szentévre: Erősítsük meg az evangelizáció küldetését",
+      "lead": "XIV. Leó az evangelizációs küldetés megerősítésére buzdította a mexikói híveket a Guadalupei Szűzanya-bazilika felszentelésének 50. évfordulója alkalmából. A Szentatya hangsúlyozta, hogy Isten igéjének világosságát, a szentségek vigasztalását és az imádság támogatását mindenkihez el kell juttatni, különös figyelmet…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa üzenete a guadalupei szentévre: Erősítsük meg az evangelizáció küldetését",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-uzenet-guadalupei-szentevre-oktober-12-evangelizalas.html"
+        },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Egyek Krisztusban, egységben a küldetésben – Leó pápa üzenete a missziók 100. világnapjára",
+          "url": "https://magyarkurir.hu/hirek/egyek-krisztusban-egysegben-kuldetesben-leo-papa-uzenete-missziok-100-vilagnapjara-159368"
+        }
+      ]
+    },
+    {
+      "cim": "XIV. Leó telefonon beszélt Putyin orosz elnökkel",
+      "lead": "Leó pápa október 16-án, pénteken telefonbeszélgetést folytatott Vlagyimir Putyinnal, az Oroszországi Föderáció elnökével. A Szentatya mély aggodalmát fejezte ki a Herszon régióban fekvő Oleski városának súlyos humanitárius helyzete miatt, és tűzszünetet sürgetett, hogy lehetővé váljon az élelmiszer- és orvosi segítség…",
+      "forrasok": [
         {
           "nev": "Vatican News (magyar)",
           "cim": "XIV. Leó telefonon beszélt Putyin orosz elnökkel",
@@ -20,22 +47,6 @@
           "nev": "777",
           "cim": "XIV. Leó pápa telefonon beszélt Putyinnal, tűzszünetet sürgetett",
           "url": "https://777blog.hu/2026/10/16/xiv-leo-papa-telefonon-beszelt-putyinnal-tuzszunetet-surgetett/"
-        }
-      ]
-    },
-    {
-      "cim": "Gallagher érsek Londonban: A párbeszéd nélkülözhetetlen ahhoz, hogy életben tartsuk a béke álmát",
-      "lead": "Paul Richard Gallagher érsek, a Szentszék államokkal és nemzetközi szervezetekkel fenntartott kapcsolatokért felelős titkára október 13-án Londonban, a The Tablet katolikus hetilap által szervezett előadáson beszélt a pápai diplomácia sajátosságairól, a nemzetközi jog jelentőségéről és az emberi méltóság védelméről.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Gallagher érsek Londonban: A párbeszéd nélkülözhetetlen ahhoz, hogy életben tartsuk a béke álmát",
-          "url": "https://magyarkurir.hu/hirek/gallagher-ersek-londonban-parbeszed-nelkulozhetetlen-ahhoz-hogy-eletben-tartsuk-beke-almat"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Gallagher érsek Londonban: A párbeszéd nélkülözhetetlen a béke álma életben tartásához",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/gallagher-ersek-london-the-tablet-eloadas-szentszeki-diplomacia.html"
         }
       ]
     },
@@ -56,94 +67,68 @@
       ]
     },
     {
-      "cim": "A családok az Egyház életének középpontjában – Véget ért a vatikáni Amoris laetitia-találkozó",
-      "lead": "Lezárult az Amoris laetitia apostoli buzdítás megjelenésének 10. évfordulója alkalmából október 7–14. között rendezett találkozó. A szimpózium eredményeiről szóló sajtótájékoztatón elhangzott: az Egyháznak figyelemmel kell kísérnie a házasságot és a családi életet érintő társadalmi változásokat, meg kell hallgatnia a…",
+      "cim": "Aki megfestette a Szűzanya arcát – Szent Lukács evangélista",
+      "lead": "Október 18-án Szent Lukácsra emlékezünk, aki orvosként Krisztusban fedezte fel az emberiség gyógyítóját, és akit a festők védőszentjeként is tisztelünk. Evangéliumában különös tisztelettel írt Szűz Máriáról, mintegy hiteles képet festve így Krisztus édesanyjáról.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "A családok az Egyház életének középpontjában – Véget ért a vatikáni Amoris laetitia-találkozó",
-          "url": "https://magyarkurir.hu/hirek/a-csaladok-az-egyhaz-eletenek-kozeppontjaban-veget-ert-vatikani-i-amoris-laetitia-i-talalkozo"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Amoris laetitia találkozó: A keresztény családok az élet és a szeretet közösségei",
-          "url": "https://www.vaticannews.va/hu/vatikan/news/2026-10/amoris-laetitia-talalkozo-oktober-13-kereszteny-csaladok-misszio.html"
+          "cim": "Aki megfestette a Szűzanya arcát – Szent Lukács evangélista",
+          "url": "https://magyarkurir.hu/hirek/szent-lukacs-evangelista"
         }
       ]
     },
     {
-      "cim": "XIV. Leó üzenete a Boldog I. János Pál pápának szentelt nemzetközi konferenciára",
-      "lead": "A béke megőrzése és előmozdítása nem csupán a politikai és nemzetközi intézmények feladata, hanem minden ember személyes felelőssége – hangsúlyozta XIV. Leó a Boldog I. János Pál pápának szentelt nemzetközi konferenciára küldött üzenetében. A Szentatya szerint a béke az emberi méltóság tiszteletén, az igazságosságon…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó üzenete a Boldog I. János Pál pápának szentelt nemzetközi konferenciára",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-uzenet-boldog-i-janos-pal-konferencia-gergely-egyetem.html"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "XIV. Leó üzenete a Boldog I. János Pál pápának szentelt nemzetközi konferenciára",
-          "url": "https://magyarkurir.hu/hirek/xiv-leo-uzenete-boldog-i-janos-pal-papanak-szentelt-nemzetkozi-konferenciara"
-        }
-      ]
-    },
-    {
-      "cim": "Bíztató ütemben halad a pápa felépülése – már munkába is állt a kórházban",
-      "lead": "Megnyugtató hírek érkeztek XIV. Leó pápa egészségi állapotáról. A műtét óta eltelt napokban felépülése a várakozásoknak megfelelően halad – tudatta a Vatican News. XIV. Leó pápa kedd délutáni műtétjét követően szépen lábadozik: felépülése továbbra is szabályosan zajlik a római Gemelli-kórházban. Ezt csütörtökön, az…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "Bíztató ütemben halad a pápa felépülése – már munkába is állt a kórházban",
-          "url": "https://777blog.hu/2026/10/16/biztato-utemben-halad-a-papa-felepulese-mar-munkaba-is-allt-a-korhazban/"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó pápa újra munkába állt a Gemelli-kórházban – Felépülése szabályosan halad",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-orvosi-jelentes-oktober-15-delutan-munka-allt.html"
-        }
-      ]
-    },
-    {
-      "cim": "Isten gabonája, melyet a vadállatok foga őrölt tiszta kenyérré – Antiochiai Szent Ignác",
-      "lead": "A lángoló hite miatt Theophorosznak, azaz Istenhordozónak is nevezett Antiochiai Szent Ignác püspökre és vértanúra emlékezünk liturgikus emléknapján, október 17-én.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Isten gabonája, melyet a vadállatok foga őrölt tiszta kenyérré – Antiochiai Szent Ignác",
-          "url": "https://magyarkurir.hu/hirek/isten-gabonaja-melyet-vadallatok-foga-orolt-tiszta-kenyerre-antiochiai-szent-ignac"
-        }
-      ]
-    },
-    {
-      "cim": "Útravaló – 2026. október 17., Antiochiai Szent Ignác püspök és vértanú",
+      "cim": "Útravaló – 2026. október 18., évközi 29. vasárnap, missziós vasárnap",
       "lead": "Napról napra közreadjuk a napi olvasmányokhoz, illetve az adott nap szentjéhez kapcsolódó gondolatokat az Adoremus liturgikus kiadványból. Októberben Kálmán Peregrin OFM, a pesti ferences templom igazgatója ad útravalót.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Útravaló – 2026. október 17., Antiochiai Szent Ignác püspök és vértanú",
-          "url": "https://magyarkurir.hu/hirek/utravalo-2026-oktober-17-antiochiai-szent-ignac-puspok-es-vertanu"
+          "cim": "Útravaló – 2026. október 18., évközi 29. vasárnap, missziós vasárnap",
+          "url": "https://magyarkurir.hu/hirek/utravalo-2026-oktober-18-evkozi-29-vasarnap-misszios-vasarnap"
         }
       ]
     },
     {
-      "cim": "290. nap: Júdás Makkabeus halála",
-      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged és hálát adunk neked. Köszönjük ezt a napot, és köszönjük azt az ajándékot, hogy a te népeddel együtt járhatunk a sötétségben, a bizonytalanság idején, az erőszak és a bátor helytállás idején is. Uram, látjuk mindazokat az utakat, amelyeken a bölcsesség…",
+      "cim": "291. nap: Alexander király felemelkedése",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged, és hálát adunk neked. Köszönjük ezt a napot, köszönjük az igét, a te igédet, melyet a szívünkbe és elménkbe ültettél. Segíts, hogy gyümölcsöt teremjen! Jézus nevében kérünk, segíts, hogy az igédet hallgatva és a te szemeddel nézve a világot mi is…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "290. nap: Júdás Makkabeus halála",
-          "url": "https://zarandok.ma/290-nap-judas-makkabeus-halala/"
+          "cim": "291. nap: Alexander király felemelkedése",
+          "url": "https://zarandok.ma/291-nap-alexander-kiraly-felemelkedese/"
         }
       ]
     },
     {
-      "cim": "Napi ráhangoló: A Szentlélek nyitja meg előttünk az Írásokat",
-      "lead": "Évközi 28. hét, szombat Ef 1,15-23; Lk 12,8-12 „Urunk, Jézus Krisztus Istene, a dicsőség Atyja adja meg nektek a bölcsesség és a kinyilatkoztatás Lelkét, hogy megismerjétek őt.” A napi szentírásolvasás és elmélkedés néha vigasztalással tölt el, máskor felszólít, ismét máskor pedig olyan, mintha holt szöveg lenne…",
+      "cim": "Napi ráhangoló: Isten munkatársaiként az üdvösség szolgálatában",
+      "lead": "Évközi 29. vasárnap Iz 45,1.4-6; 1Tessz 1,1-5b; Mt 22,15-21 „Tudjuk, Istentől szeretett testvéreim, hogy választottak vagytok.” A mai Olvasmány tanúsága szerint Isten nem csupán a benne hívőket, a szenteket választhatja ki és használhatja föl terveinek véghezvitelében, hanem olyanokat is, mint Círusz perzsa király…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: A Szentlélek nyitja meg előttünk az Írásokat",
-          "url": "https://zarandok.ma/napi-rahangolo-a-szentlelek-nyitja-meg-elottunk-az-irasokat/"
+          "cim": "Napi ráhangoló: Isten munkatársaiként az üdvösség szolgálatában",
+          "url": "https://zarandok.ma/napi-rahangolo-isten-munkatarsaikent-az-udvosseg-szolgalataban/"
+        }
+      ]
+    },
+    {
+      "cim": "A HÉT VERSE – Szabó Lőrinc: Meglepetések",
+      "lead": "„Szabadság, itt hordozta hős / zászlaidat az ifjúság! / S a sírt, melyből nép lép ki, már / ámulva nézte a világ.” Szabó Lőrinc megrendítő versciklusát olvassuk az 1956-os forradalom és szabadságharc 70. évfordulójára készülve.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "A HÉT VERSE – Szabó Lőrinc: Meglepetések",
+          "url": "https://magyarkurir.hu/hirek/a-het-verse-szabo-lorinc-meglepetesek"
+        }
+      ]
+    },
+    {
+      "cim": "XIV. Leó szombat délután elhagyja a Gemelli-kórházat – Vasárnap Úrangyala a Vatikánban",
+      "lead": "XIV. Leó pápa október 17-én, szombaton kora délután elhagyja a római Agostino Gemelli Egyetemi Kórházat, és visszatér a Vatikánba – jelentette be a Szentszéki Sajtóiroda. A Szentatyát a keddi tüdőműtétet követően orvosai hazabocsáthatónak ítélték. A pápa vasárnap délben az Apostoli Palota pápai lakosztályának…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó szombat délután elhagyja a Gemelli-kórházat – Vasárnap Úrangyala a Vatikánban",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/leo-papa-orvosi-jelentes-oktober-17-hazater-vasarnap-urangyala.html"
         }
       ]
     }
@@ -160,13 +145,34 @@
         },
         {
           "nev": "Vatican News",
-          "cim": "Pope Leo's postoperative recovery 'progressing normally'",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-s-postoperative-recovery-progressing-normally.html"
+          "cim": "Pope’s surgeon: No clinical reason to cancel visit to South America",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-interview-surgeon-stefano-margaritora.html"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo's surgeon says he should be fit for Latin America tour",
+          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leos-surgeon-says-he-should-be-fit-latin-america-tour"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo XIV to be discharged from hospital",
+      "lead": "On his fifth day in hospital, Pope Leo XIV's doctors say he can be discharged from Gemelli Hospital, with the Holy See Press Office confirming that he will return to the Vatican on Saturday afternoon and pray the Angelus on Sunday from the window of the papal apartment. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo XIV to be discharged from hospital",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-fifth-day-health-update-gemelli-hospital.html"
         },
         {
           "nev": "Catholic Herald",
-          "cim": "Week in Review: Pope Leo XIV recovers from surgery, US bishops address midterms and an SSPX update",
-          "url": "https://thecatholicherald.com/article/week-in-review-pope-leo-xiv-recovers-from-lung-surgery-us-bishops-address-midterms-and-oregon-school-shooting"
+          "cim": "Pope Leo to be discharged from hospital today",
+          "url": "https://thecatholicherald.com/article/pope-leo-to-be-discharged-from-hospital-today"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo leaves hospital, returns to Vatican earlier than planned after operation",
+          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-leaves-hospital-returns-vatican-earlier-planned-after-operation"
         }
       ]
     },
@@ -213,13 +219,29 @@
       ]
     },
     {
-      "cim": "Pope Leo recommended this prayer for the sick",
-      "lead": "In his message for this year’s World Day of the Sick, celebrated annually on the February 11 feast of Our Lady of Lourdes, Pope Leo XIV offered the faithful an “ancient prayer” to Mary. Now, as the Holy Father continues his recovery in the hospital, and as we await further news on the tumor, we unite ourselves with…",
+      "cim": "As Pope Leo XIV recovers, beware fake photos",
+      "lead": "A photo appearing to show a young Robert Francis Prevost smoking a cigarette has circulated on social media in recent days. However, I.MEDIA has discovered that the image was created by editing a real photograph. On October 13, 2026, Pope Leo XIV underwent surgery to remove the lower lobe of his right lung, which…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Pope Leo recommended this prayer for the sick",
-          "url": "https://aleteia.org/2026/10/15/pope-leo-recommended-this-prayer-for-the-sick/"
+          "cim": "As Pope Leo XIV recovers, beware fake photos",
+          "url": "https://aleteia.org/2026/10/17/as-pope-leo-xiv-recovers-beware-fake-photos/"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "VATICAN DISPATCH: As Pope Leo recovers, the Vatican confronts uncertainty at home and abroad",
+          "url": "https://thecatholicherald.com/article/as-pope-leo-recovers-the-vatican-confronts-uncertainty-at-home-and-abroad"
+        }
+      ]
+    },
+    {
+      "cim": "Join Saturday: Missionary Rosary to include prayers for Pope Leo",
+      "lead": "October 18 marks the 100th anniversary of World Mission Sunday, and to honor that anniversary, a variety of events have been planned in Rome. One such event is the International Missionary Rosary, which is scheduled for 3 p.m. Rome time (9 am New York time) on Saturday, October 17. You can join the livestream at…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Join Saturday: Missionary Rosary to include prayers for Pope Leo",
+          "url": "https://aleteia.org/2026/10/16/join-saturday-missionary-rosary-to-include-prayers-for-pope-leo/"
         },
         {
           "nev": "Vatican News",
@@ -229,88 +251,46 @@
       ]
     },
     {
-      "cim": "Oregon bishops offer prayers following Silver Rail school shooting",
-      "lead": "Oregon's Catholic bishops expressed sympathy and encouraged the community to support those affected by a shooting at a Bend, Oregon, elementary school that left five dead and two wounded.",
+      "cim": "'To see the face of God in wartime': A Jesuit's mission in Siberia",
+      "lead": "Fr. Wojciech Ziólek's parish covers Tomsk Oblast, a region of more than 122,000 square miles with just two Catholic churches.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Oregon bishops offer prayers following Silver Rail school shooting",
-          "url": "https://www.ncronline.org/news/oregon-bishops-offer-prayers-following-silver-rail-school-shooting"
-        },
+          "cim": "'To see the face of God in wartime': A Jesuit's mission in Siberia",
+          "url": "https://www.ncronline.org/news/see-face-god-wartime-jesuits-mission-siberia"
+        }
+      ]
+    },
+    {
+      "cim": "‘Keep your lamps burning’",
+      "lead": "This week’s readings and meditations explore spiritual combat, the demands of discipleship and the strength needed to persevere, with reflections from St John Paul II and other saints",
+      "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Oregon bishop offers prayers after elementary school shooting kills four",
-          "url": "https://thecatholicherald.com/article/oregon-bishop-offers-prayers-after-elementary-school-shooting-kills-four"
+          "cim": "‘Keep your lamps burning’",
+          "url": "https://thecatholicherald.com/article/keep-your-lamps-burning"
         }
       ]
     },
     {
-      "cim": "South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit",
-      "lead": "Roman Catholics across South America responded to news of Pope Leo XIV’s lung cancer diagnosis with an outpouring of prayers and support, along with concerns about whether the first American pope will make his highly anticipated and physically demanding visit to the region next month.",
+      "cim": "The surgeon who operated on Leo XIV: “An ideal patient”",
+      "lead": "Doctor Stefano Margaritora, Professor of Thoracic Surgery at the Catholic University of the Sacred Heart, performed the operation on Pope Leo XIV on October 13. In an interview with Vatican News, he described a procedure that was medically routine — and personally unlike anything he had experienced before: “A deep…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "The surgeon who operated on Leo XIV: “An ideal patient”",
+          "url": "https://aleteia.org/2026/10/17/the-surgeon-who-operated-on-leo-xiv-an-ideal-patient/"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo's brother shares his own cancer battle, the role of faith and his 1 request",
+      "lead": "\"I always ask people, 'Keep praying for my brother, that he makes a full recovery,' \" Louis Prevost said, \"because I think he's the pope the church needs at this time.\"",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "South Americans pray for Pope Leo's recovery as uncertainty hangs over his visit",
-          "url": "https://www.ncronline.org/vatican/south-americans-pray-pope-leos-recovery-uncertainty-hangs-over-his-visit"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "More than 9,000 Southwark pupils pray rosary for Pope Leo’s recovery",
-          "url": "https://thecatholicherald.com/article/more-than-9-000-southwark-pupils-pray-rosary-for-pope-leo-xiv-s-recovery"
-        }
-      ]
-    },
-    {
-      "cim": "Pope Leo resumes working, sees top aide in hospital as doctors say lung recovered from surgery",
-      "lead": "Pope Leo XIV met with a top aide on Thursday and resumed working from the hospital, as doctors reported his lung had recovered well from surgery to remove a cancerous nodule.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo resumes working, sees top aide in hospital as doctors say lung recovered from surgery",
-          "url": "https://www.ncronline.org/vatican/pope-leo-resumes-working-sees-top-aide-hospital-doctors-say-lung-recovered-surgery"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Tests showing ‘good recovery’ of Pope’s lung, doctors say",
-          "url": "https://thecatholicherald.com/article/tests-showing-good-recovery-of-pope-s-lung-doctors-say"
-        }
-      ]
-    },
-    {
-      "cim": "Trump calls off Hegseth plan to livestream execution denounced by Catholic leaders",
-      "lead": "President Donald Trump on Oct. 15 called off Secretary of Defense Pete Hegseth's plans to livestream the execution of Fort Hood shooter Nidal Malik Hasan by firing squad in December.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Trump calls off Hegseth plan to livestream execution denounced by Catholic leaders",
-          "url": "https://www.ncronline.org/news/trump-calls-hegseth-plan-livestream-execution-denounced-catholic-leaders"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Trump abandons plan to livestream execution of Fort Hood shooter",
-          "url": "https://thecatholicherald.com/article/trump-abandons-plan-to-livestream-execution-of-fort-hood-shooter"
-        }
-      ]
-    },
-    {
-      "cim": "Lord's Day Reflection: Whose image do we bear?",
-      "lead": "As the Church celebrates the Twenty-Ninth Sunday in Ordinary Time, Fr. Marion Nguyen, OSB, offers his thoughts on the day’s liturgical readings under the theme: “Whose image do we bear?\" Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Lord's Day Reflection: Whose image do we bear?",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/gospel-reflection-twenty-ninth-sunday-ordinary-time.html"
-        }
-      ]
-    },
-    {
-      "cim": "New book carries Ignatian prayer into myths and fairy tales",
-      "lead": "NCR Book Club: In Where Wonder Leads, author Eric Clayton does for the reader what Gandalf does for a hobbit and Dumbledore does for an orphan: He points the way, names the dangers and steps aside.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "New book carries Ignatian prayer into myths and fairy tales",
-          "url": "https://www.ncronline.org/culture/book-reviews/new-book-carries-ignatian-prayer-myths-and-fairy-tales"
+          "cim": "Pope Leo's brother shares his own cancer battle, the role of faith and his 1 request",
+          "url": "https://www.ncronline.org/news/pope-leos-brother-shares-his-own-cancer-battle-role-faith-and-his-1-request"
         }
       ]
     }
