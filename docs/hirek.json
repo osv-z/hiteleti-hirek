@@ -1,6 +1,6 @@
 {
-  "datum": "2026-10-19",
-  "generalva": "2026-10-19T12:13+02:00",
+  "datum": "2026-10-20",
+  "generalva": "2026-10-20T11:36+02:00",
   "hazai": [
     {
       "cim": "Isten Országát helyezzük mindennél előbbre – Leó pápa Úrangyala imája",
@@ -19,106 +19,143 @@
       ]
     },
     {
-      "cim": "Ünnepélyesen megnyitották Martincsevits Pál boldoggáavatási eljárásának egyházmegyei szakaszát",
-      "lead": "Október 15-én ünnepélyesen megnyitották a vértanúság hírében elhunyt egykori gyékényesi plébános, Martincsevits Pál boldoggáavatási eljárásának egyházmegyei szakaszát a kaposvári püspökségen. Az egyházmegyei vizsgálat céljáról, menetéről és jelenlegi állásáról Balog Márta CB, a Nyolc Boldogság Közösség…",
+      "cim": "Leó pápa telefonon beszélt Zelenszkijjel: Tűzszünetet sürget Oleskiben, a civilek evakuálását kéri",
+      "lead": "Miután október 16-án beszélt Vlagyimir Putyin orosz elnökkel, a pápa 19-én egyeztetett Volodimir Zelenszkij ukrán elnökkel is az orosz megszállás alatt álló Oleski helyzetéről. A település lakói a végsőkig kimerültek, és minden menekülési útvonal lezárult. A Szentatya mindkét fél együttműködését kéri a segélyek…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Ünnepélyesen megnyitották Martincsevits Pál boldoggáavatási eljárásának egyházmegyei szakaszát",
-          "url": "https://magyarkurir.hu/hirek/unnepelyesen-megnyitottak-martincsevits-pal-boldoggaavatasi-eljarasanak-egyhazmegyei-szakaszat"
+          "cim": "Leó pápa telefonon beszélt Zelenszkijjel: Tűzszünetet sürget Oleskiben, a civilek evakuálását kéri",
+          "url": "https://magyarkurir.hu/hirek/leo-papa-telefonon-beszelt-zelenszkijjel-tuzszunetet-surget-oleskiben-civilek-evakualasat-keri"
         }
       ]
     },
     {
-      "cim": "Két út, egy cél: teljesítménytúra és zarándoklat – „Pálos 70” tizenhatodszor",
-      "lead": "Az idei „Pálos 70” teljesítménytúra és zarándoklat programja alapvetően két nagy pillérre épült – kiszolgálva a sportos kihívást keresőket és a csendes elmélyülésre vágyókat. A program több útvonalon hívta zarándokolni, elmélyülni, felfedezni október 2–4. között mindazokat, akikben meghívást ébresztett a találkozás…",
+      "cim": "Rómában is megemlékeztek Márton Áron püspök lelki örökségéről",
+      "lead": "Október 18–19-én két rangos egyházi és diplomáciai esemény keretében emlékeztek meg Rómában Márton Áron püspökről, a 20. századi erdélyi egyháztörténelem kiemelkedő alakjáról, aki a történelem viharaiban rendíthetetlen hűséggel szolgálta az Egyházat, bátran kiállt az emberi méltóság és a lelkiismereti szabadság…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Két út, egy cél: teljesítménytúra és zarándoklat – „Pálos 70” tizenhatodszor",
-          "url": "https://magyarkurir.hu/hirek/ket-ut-egy-cel-teljesitmenytura-es-zarandoklat-palos-70-tizenhatodszor"
+          "cim": "Rómában is megemlékeztek Márton Áron püspök lelki örökségéről",
+          "url": "https://magyarkurir.hu/hirek/romaban-is-megemlekeztek-marton-aron-puspok-lelki-oroksegerol"
         }
       ]
     },
     {
-      "cim": "Hallássérültként Isten hangját viszi el az emberekhez – egy fiatal pap tanúságtétele",
-      "lead": "A Bizony, Isten! podcastban Bacsa Dávid, 34 éves pap tett tanúságot hivatásáról, Isten hívásáról az életében. Mesélt a hallássérültségéről, és hogy édesapja halála után hogyan tért meg felnőttként. Nagyon őszinte, friss és mély gondolatok hangoztak el ebben a videóban, amelyből néhány részletet lentebb olvashattok…",
+      "cim": "A szentségek és a találkozás ereje – A Szent Dömötör Kórházlelkészi Szolgálat szakmai napja Szegeden",
+      "lead": "Idén hetedik alkalommal tartották meg éves találkozójukat a szegedi Szent Dömötör Kórházlelkészi Szolgálat tagjai. Az eseménynek a Katolikus Ház adott otthont október 13-án.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "A szentségek és a találkozás ereje – A Szent Dömötör Kórházlelkészi Szolgálat szakmai napja Szegeden",
+          "url": "https://magyarkurir.hu/hirek/a-szentsegek-es-talalkozas-ereje-szent-domotor-korhazlelkeszi-szolgalat-szakmai-napja-szegeden"
+        }
+      ]
+    },
+    {
+      "cim": "Stanisław Dziwisz homíliája a II. János Pál Vatikáni Alapítvány 45. évfordulóján",
+      "lead": "A Szent Péter térre vezető Via della Conciliazione sugárút jobb oldalán áll a sarutlan kármeliták Santa Maria in Traspontina temploma, melyben október 19-én hétfőn reggel 9 órakor Stanisław Dziwisz bíboros, nyugalmazott krakkói érsek hálaadó szentmisét mutatott be a 45 évvel ezelőtt alapított II. János Pál Vatikáni…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Stanisław Dziwisz homíliája a II. János Pál Vatikáni Alapítvány 45. évfordulóján",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/dziwisz-biboros-mise-vatikan-ii-janos-pal-alapitvany-lengyelek.html"
+        }
+      ]
+    },
+    {
+      "cim": "Fennmaradt az utolsó vacsora kelyhe és a Jézus kezét átütő szög? – Krisztus ereklyéinek nyomában",
+      "lead": "Az utolsó vacsorán használt kehely, Jézus tunikája, Veronika kendője, a megfeszítéskor bevert szög, vagy a kis Jézus születésekor a bölcsőt helyettesítő jászol darabjai tényleg máig fennmaradtak? 11 Jézushoz köthető ereklye története. Számos olyan tárgy maradt fenn, amellyel Jézus kapcsolatba kerülhetett élete során…",
       "forrasok": [
         {
           "nev": "777",
-          "cim": "Hallássérültként Isten hangját viszi el az emberekhez – egy fiatal pap tanúságtétele",
-          "url": "https://777blog.hu/2026/10/19/hallasserultkent-isten-hangjat-viszi-el-az-emberekhez-egy-fiatal-pap-tanusagtetele/"
+          "cim": "Fennmaradt az utolsó vacsora kelyhe és a Jézus kezét átütő szög? – Krisztus ereklyéinek nyomában",
+          "url": "https://777blog.hu/2026/10/20/fennmaradt-az-utolso-vacsora-kelyhe-es-a-jezus-kezet-atuto-szog-krisztus-ereklyeinek-nyomaban/"
         }
       ]
     },
     {
-      "cim": "Pályázati forrást nyert roma fiatalok komplex támogatására a miskolci görögkatolikus szakkollégium",
-      "lead": "A Görögkatolikus Felsőoktatási és Kulturális Diákotthon, Görögkatolikus Roma Szakkollégium 123,94 millió forint vissza nem térítendő támogatásból valósítja meg Miskolcon a ROMA – Ráhangolódás, Orientáció, Mentorálás és Ambíció projektet, amely az Európai Unió támogatásával, a magyar állam társfinanszírozásával valósul…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Pályázati forrást nyert roma fiatalok komplex támogatására a miskolci görögkatolikus szakkollégium",
-          "url": "https://magyarkurir.hu/hirek/palyazati-forrast-nyert-roma-fiatalok-komplex-tamogatasara-miskolci-gorogkatolikus-szakkollegium"
-        }
-      ]
-    },
-    {
-      "cim": "Tragédia a szentmisén: rázuhant egy hatalmas feszület az oltárnál szolgáló papra Ecuadorban",
-      "lead": "Tragikus baleset történt október 17-én, szombaton Ecuadorban: szentmise bemutatása közben életét vesztette Patricio Alfredo Sánchez Molinari redemptorista szerzetes pap, miután egy hatalmas, fából készült feszület leszakadt az oltár mögötti falról, és rázuhant. A megrázó eseményt a szentmise élő internetes közvetítése…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Tragédia a szentmisén: rázuhant egy hatalmas feszület az oltárnál szolgáló papra Ecuadorban",
-          "url": "https://zarandok.ma/tragedia-a-szentmisen-razuhant-egy-hatalmas-feszulet-az-oltarnal-szolgalo-papra-ecuadorban/"
-        }
-      ]
-    },
-    {
-      "cim": "Református választások: mi marad a vezető hatalmából, amikor már nincs tisztsége?",
-      "lead": "„Persze nem minden korábbi vezető akarja a háttérből irányítani az eseményeket. Van, aki örömmel adja át a helyét, és valóban szabad kezet hagy az utódainak. De az évek alatt kialakult kapcsolatok és függőségek akkor is tovább élhetnek, ha már senki nem beszél róluk.” Gondolatok a Magyarországi Református Egyház…",
+      "cim": "Máté-Tóth András: A katolikus püspökök társadalmi körlevelének színe és fonákja",
+      "lead": "Az 1996-os körlevél 30. évfordulóján a Magyar Katolikus Püspöki Konferencia ismét megszólítja a társadalmat. A tegnap bemutatott dokumentum a teremtésvédelemben korszerű, a bántalmazások ügyében önkritikus, a társadalmi problémák elemzésében helyenként szelektív, s többnyire hallgat az egyház és a NER viszonyáról. Az…",
       "forrasok": [
         {
           "nev": "Szemlélek",
-          "cim": "Református választások: mi marad a vezető hatalmából, amikor már nincs tisztsége?",
-          "url": "https://szemlelek.net/reformatus-valasztasok-mi-marad-a-vezeto-hatalmabol-amikor-mar-nincs-tisztsege/"
+          "cim": "Máté-Tóth András: A katolikus püspökök társadalmi körlevelének színe és fonákja",
+          "url": "https://szemlelek.net/mate-toth-andras-a-katolikus-puspokok-tarsadalmi-korlevelenek-szine-es-fonakja/"
         }
       ]
     },
     {
-      "cim": "Az öröm gyümölcse. Hogyan találhatunk rá a Szentlélek maradandó örömére? – Lelkesítő",
-      "lead": "Mi a különbség a pillanatnyi boldogság és a Szentlélektől kapott, maradandó öröm között? A Lelkesítő legújabb adásában Bartha Angéla szociális testvér a Lélek gyümölcseiről szóló sorozatot folytatva az öröm titkáról elmélkedik. Személyes tapasztalatain keresztül mutatja meg, hogyan kapcsol össze bennünket az öröm…",
+      "cim": "293. nap: Szeretetből fakadó fegyelmezés",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsérünk és imádunk téged. Nagyon köszönjük ezt az ajándékot: az igédet. Köszönjük, hogy feltárod előttünk a szívedet. Istenem, te jó apa vagy és fegyelemre nevelsz minket. Segíts nekünk, hogy elfogadjuk a helyes és megfelelő fegyelmezést! Jézus nevében kérünk, segíts…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Az öröm gyümölcse. Hogyan találhatunk rá a Szentlélek maradandó örömére? – Lelkesítő",
-          "url": "https://zarandok.ma/az-orom-gyumolcse-hogyan-talalhatunk-ra-a-szentlelek-maradando-oromere-lelkesito/"
+          "cim": "293. nap: Szeretetből fakadó fegyelmezés",
+          "url": "https://zarandok.ma/293-nap-szeretetbol-fakado-fegyelmezes/"
         }
       ]
     },
     {
-      "cim": "292. nap: A szavak ereje",
-      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged és hálát adunk neked. Köszönjük nagy ajándékodat, hogy feltárod nekünk ezt a történetet. Ez, a Makkabeusok története a mi történetünk is, Izrael népének története és a világtörténelem része. Urunk és Istenünk, mivel kezed munkája megnyilvánul életünk…",
+      "cim": "Napi ráhangoló: Kit keresünk, amikor békére és reményre vágyunk?",
+      "lead": "Évközi 29. hét, kedd Ef 2,12-22; Lk 12,35-38 „Akkoriban Krisztus nélkül éltetek…, remény nélkül és Isten nélkül éltetek ezen a világon. Most azonban Jézus Krisztusban ti, akik egykor távol voltatok, közel jutottatok Krisztus vére által. Mert ő a mi békességünk…” Három nagy valóság hiányzik a hitre nem jutott ember…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "292. nap: A szavak ereje",
-          "url": "https://zarandok.ma/292-nap-a-szavak-ereje/"
+          "cim": "Napi ráhangoló: Kit keresünk, amikor békére és reményre vágyunk?",
+          "url": "https://zarandok.ma/napi-rahangolo-krisztus-a-mi-bekessegunk-es-remenysegunk/"
         }
       ]
     },
     {
-      "cim": "Dohányzott vagy sem? – manipulált képek terjednek XIV. Leó pápa betegsége kapcsán",
-      "lead": "Álhírek, AI-generált, manipulált képek és káros találgatások XIV. Leó pápa betegsége kapcsán. Szinte meg sem lepődhetünk, hogy XIV. Leó pápa tüdődaganatának híre az álhírgyártókat is megihlette. Miután a Szentatyát kedden megműtötték és az orvosai által közzétett transzparens közlemény által a nyilvánosság előtt is…",
+      "cim": "Harminc év után újra megszólaltak a magyar püspökök – Kemény társadalomkritika az új körlevélben",
+      "lead": "Harminc évvel az 1996-os, nagy visszhangot kiváltó szociális körlevél megjelenése után ismét átfogó helyzetértékelést adott a magyar társadalom állapotáról a Magyar Katolikus Püspöki Konferencia. Az Igazságosabb és testvériesebb világot! 30 év után című új dokumentum egyszerre ismeri el az elmúlt évtizedek…",
       "forrasok": [
         {
-          "nev": "777",
-          "cim": "Dohányzott vagy sem? – manipulált képek terjednek XIV. Leó pápa betegsége kapcsán",
-          "url": "https://777blog.hu/2026/10/18/dohanyzott-vagy-sem-manipulalt-kepek-terjednek-xiv-leo-papa-betegsege-kapcsan/"
+          "nev": "Zarándok.ma",
+          "cim": "Harminc év után újra megszólaltak a magyar püspökök – Kemény társadalomkritika az új körlevélben",
+          "url": "https://zarandok.ma/harminc-ev-utan-ujra-megszolaltak-a-magyar-puspokok-kemeny-tarsadalomkritika-az-uj-korlevelben/"
         }
       ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "Pope Leo speaks with Zelensky, renews ceasefire plea",
+      "lead": "Three days after a phone call with Russian President Vladimir Putin, Pope Leo XIV spoke with Ukrainian President Volodymyr Zelensky on October 19, 2026, the Vatican announced. Once again, the humanitarian crisis in Oleshky was central to their discussion, with the Pope renewing his appeal for a “humanitarian…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Pope Leo speaks with Zelensky, renews ceasefire plea",
+          "url": "https://aleteia.org/2026/10/19/pope-leo-speaks-with-zelensky-renews-ceasefire-plea/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo speaks with President Zelensky, calls for humanitarian aid",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-phone-call-president-zelensky-19-october-2026.html"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Fr Ripperger instructed to cease public speaking",
+          "url": "https://thecatholicherald.com/article/fr-chad-ripperger-given"
+        }
+      ]
+    },
+    {
+      "cim": "Pope names members of Vatican’s key advisory theology commission",
+      "lead": "The members will serve for a five-year term, with some of the new intake raising eyebrows due to their questioning of Catholic teaching on ordination and homosexuality.",
+      "forrasok": [
+        {
+          "nev": "Catholic Herald",
+          "cim": "Pope names members of Vatican’s key advisory theology commission",
+          "url": "https://thecatholicherald.com/article/pope-names-members-of-vatican-s-key-advisory-theology-commission"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo XIV appoints members of International Theological Commission",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-appoints-members-international-theological-commissi.html"
+        }
+      ]
+    },
     {
       "cim": "Cancer may change 'how' but not 'what' of Leo's papacy, pope's friend says",
       "lead": "\"I hope we'll see a little bit of a slowing down in the pace, but other than that, I'll be surprised if there were any change in the velocity of the change in personnel\" at the Vatican, Fr. Arthur Purcaro said.",
@@ -136,121 +173,79 @@
       ]
     },
     {
-      "cim": "World Mission Sunday’s link to St. John Vianney and St. Philomena",
-      "lead": "Each year parishes across the globe participate in World Mission Sunday on the 2nd to last Sunday of October. This annual day dedicated to spreading the Gospel to all corners of the world owes its origin to the Society of the Propagation of the Faith. In 1926, the Society petitioned Pope Pius XI to establish “a day of…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "World Mission Sunday’s link to St. John Vianney and St. Philomena",
-          "url": "https://aleteia.org/2026/10/17/world-mission-sundays-link-to-st-john-vianney-and-st-philomena/"
-        },
-        {
-          "nev": "Vatican News",
-          "cim": "Pope grants plenary indulgence for 100th World Mission Sunday",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-plenary-indulgence-100th-world-mission-sunday-angelus.html"
-        }
-      ]
-    },
-    {
-      "cim": "How much missionary history in these 100 years!",
-      "lead": "Pope Leo XVI has shown ample support for World Mission Day, as he has commented on several occasions that in Peru, his faithful benefitted from it. This October 18, the initiative marks 100 years, and the Holy Father released a video message for the occasion (you can watch it in the article linked below). After…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "How much missionary history in these 100 years!",
-          "url": "https://aleteia.org/2026/10/18/how-much-missionary-history-in-these-100-years/"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "From Pius XI to Leo XIV: World Mission Day marks 100 years",
-          "url": "https://www.ncronline.org/opinion/guest-voices/pius-xi-leo-xiv-world-mission-day-marks-100-years"
-        }
-      ]
-    },
-    {
-      "cim": "Pope’s surgeon: No clinical reason to cancel visit to South America",
-      "lead": "In an interview with Vatican News, Professor Stefano Margaritora, who operated on Pope Leo XIV on October 13, says the surgery was routine, though he experienced “a deep feeling I cannot describe.” The Pope needs about another ten days to recover fully and “was an ideal patient.” Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope’s surgeon: No clinical reason to cancel visit to South America",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-interview-surgeon-stefano-margaritora.html"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo's surgeon says he should be fit for Latin America tour",
-          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leos-surgeon-says-he-should-be-fit-latin-america-tour"
-        }
-      ]
-    },
-    {
-      "cim": "Pope Leo XIV returns to Vatican after being discharged from hospital",
-      "lead": "Pope Leo XIV has been discharged from Gemelli Hospital and has returned to the papal apartments in Vatican City State, where he will lead the Angelus on Sunday. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope Leo XIV returns to Vatican after being discharged from hospital",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-discharged-from-hospital-lung-surgery.html"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope Leo leaves hospital, returns to Vatican earlier than planned after operation",
-          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-leaves-hospital-returns-vatican-earlier-planned-after-operation"
-        }
-      ]
-    },
-    {
-      "cim": "Nigeria: Sisters providing a space for rest, renewal and human growth to all",
-      "lead": "Among their other busy Apostolates of Education, Health Care, Pastoral and Social services, the Missionary Sisters of Our Lady of the Holy Rosary (MSHR), Southern Nigerian Region, are providing an enabling environment, suitable for rest, spiritual renewal and human growth to all, including priests, religious and lay…",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Nigeria: Sisters providing a space for rest, renewal and human growth to all",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/sisters-project-nigeria-missionaries-rosary-health-education.html"
-        }
-      ]
-    },
-    {
-      "cim": "Pope continues recovery in Vatican, weekly General Audience confirmed",
-      "lead": "Pope Leo XIV will not travel to his residence in Castel Gandolfo this week but instead continue his recovery at the Vatican, and will hold his Wednesday General Audience on October 21, according to the Holy See Press Office. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope continues recovery in Vatican, weekly General Audience confirmed",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-continues-recovery-at-vatican-general-audience-confirmed.html"
-        }
-      ]
-    },
-    {
-      "cim": "Podcast: Dorothy Day and the call to live the Sermon on the Mount",
-      "lead": "On this week's episode of \"The Nonviolent Jesus Podcast,\" John Dear reflects on the life and witness of Dorothy Day, co-founder of the Catholic Worker.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Podcast: Dorothy Day and the call to live the Sermon on the Mount",
-          "url": "https://www.ncronline.org/opinion/podcast-dorothy-day-and-call-live-sermon-mount"
-        }
-      ]
-    },
-    {
-      "cim": "Editorial: Immigration, war, democracy should be front of mind for Catholic voters",
-      "lead": "As Catholic voters consider how to cast their ballots in November, the issues that have the greatest claim on our attention can be discerned from NCR's headlines since the 2024 election swept Trump back into power.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Editorial: Immigration, war, democracy should be front of mind for Catholic voters",
-          "url": "https://www.ncronline.org/opinion/editorial/editorial-immigration-war-democracy-should-be-front-mind-catholic-voters"
-        }
-      ]
-    },
-    {
-      "cim": "The Week Ahead: Pope Leo's recovery and midterm elections loom",
-      "lead": "The Pope celebrated Mass in hospital as doctors reported continued improvement, while attention turns to his Wednesday audience and the return of the Ad Petri Sedem pilgrimage to Rome",
+      "cim": "Stephen Wang consecrated Bishop of Arundel and Brighton",
+      "lead": "The former rector of the Venerable English College in Rome has become the diocese’s sixth bishop, pledging to promote holiness, serve those in need and spread the Gospel",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "The Week Ahead: Pope Leo's recovery and midterm elections loom",
-          "url": "https://thecatholicherald.com/article/the-week-ahead-pope-leo-s-recovery-and-midterm-elections-loom"
+          "cim": "Stephen Wang consecrated Bishop of Arundel and Brighton",
+          "url": "https://thecatholicherald.com/article/stephen-wang-consecrated-bishop-of-arundel-and-brighton"
+        }
+      ]
+    },
+    {
+      "cim": "Trump's deportation crackdown may influence how Catholics vote in midterms",
+      "lead": "Catholics and advocates spoke to NCR about how Trump's aggressive immigration enforcement is creating political tensions ahead of the 2026 midterms.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Trump's deportation crackdown may influence how Catholics vote in midterms",
+          "url": "https://www.ncronline.org/news/trumps-deportation-crackdown-may-influence-how-catholics-vote-midterms"
+        }
+      ]
+    },
+    {
+      "cim": "The Leo Chronicles: Brother Leo in Somalia",
+      "lead": "The Leo Chronicles: Brother Leo finds himself in Mogadishu, Somalia, looking for a friend.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "The Leo Chronicles: Brother Leo in Somalia",
+          "url": "https://www.ncronline.org/vatican/leo-chronicles/leo-chronicles-brother-leo-somalia"
+        }
+      ]
+    },
+    {
+      "cim": "Restorative justice gave Ann Grosmaire’s parents a voice",
+      "lead": "Deacon Andy and Kate Grosmaire describe how facing their daughter’s killer helped them seek accountability and healing, sustained by their Catholic faith and belief in the possibility of redemption. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Restorative justice gave Ann Grosmaire’s parents a voice",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/united-states-restorative-justice-grosmaires-interview.html"
+        }
+      ]
+    },
+    {
+      "cim": "Cardinal Koovakad: Nonviolence is courageous commitment to justice",
+      "lead": "Speaking at an Ahimsa Day celebration at the British Parliament, Cardinal George Jacob Koovakad highlights the shared commitment of Jains and Catholics to nonviolence, urging religious communities to become bridges of peace in a world marked by conflict and division. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Cardinal Koovakad: Nonviolence is courageous commitment to justice",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-koovakad-nonviolence-is-a-courageous-commitment.html"
+        }
+      ]
+    },
+    {
+      "cim": "In Utah, Catholic church meets ‘new urbanism’",
+      "lead": "“We see a real opportunity to integrate the parish community into a neighborhood.”",
+      "forrasok": [
+        {
+          "nev": "The Pillar",
+          "cim": "In Utah, Catholic church meets ‘new urbanism’",
+          "url": "https://www.pillarcatholic.com/p/in-utah-catholic-church-meets-new"
+        }
+      ]
+    },
+    {
+      "cim": "A Catholic voter’s guide to the 2026 midterm elections",
+      "lead": "What should Catholics consider as they prepare to vote in the 2026 midterm elections?",
+      "forrasok": [
+        {
+          "nev": "Catholic Herald",
+          "cim": "A Catholic voter’s guide to the 2026 midterm elections",
+          "url": "https://thecatholicherald.com/article/a-catholic-voter-s-guide-to-the-2026-midterm-elections"
         }
       ]
     }
