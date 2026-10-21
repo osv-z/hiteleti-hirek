@@ -1,119 +1,114 @@
 {
-  "datum": "2026-10-20",
-  "generalva": "2026-10-20T11:36+02:00",
+  "datum": "2026-10-21",
+  "generalva": "2026-10-21T11:34+02:00",
   "hazai": [
     {
-      "cim": "Isten Országát helyezzük mindennél előbbre – Leó pápa Úrangyala imája",
-      "lead": "Vasárnap délben, az Úrangyala elimádkozása előtt, a szokásosnál is nagyobb örömmel és ünnepi hangulattal várakozott a Szent Péter teret és a környező utcákat megtöltő nemzetközi hívősereg a Szentatyára, aki szombaton délután tért vissza öt napos kórházi kezeléséből a Vatikánba. Kedves testvéreim, szép vasárnapot…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Isten Országát helyezzük mindennél előbbre – Leó pápa Úrangyala imája",
-          "url": "https://zarandok.ma/isten-orszagat-helyezzuk-mindennel-elobbre-leo-papa-urangyala-imaja/"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Isten Országát helyezzük mindennél előbbre – Leó pápa Úrangyala imája",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-urangyala-isten-orszaga-mindennel-elobb-penz-isten-csaszar.html"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa telefonon beszélt Zelenszkijjel: Tűzszünetet sürget Oleskiben, a civilek evakuálását kéri",
-      "lead": "Miután október 16-án beszélt Vlagyimir Putyin orosz elnökkel, a pápa 19-én egyeztetett Volodimir Zelenszkij ukrán elnökkel is az orosz megszállás alatt álló Oleski helyzetéről. A település lakói a végsőkig kimerültek, és minden menekülési útvonal lezárult. A Szentatya mindkét fél együttműködését kéri a segélyek…",
+      "cim": "A ferences lelki örökségről tartottak konferenciát Szegeden",
+      "lead": "Nyolcszáz év telt el Szent Ferenc halála óta, de példája ma is megszólít. Október 12–13-án Ferencesek: Létünk a közösségben – létünk a világban címmel rendeztek konferenciát Szegeden, melyen a rend történetének fejezetei, az egykori testvérek életpéldái, a közösségek szellemi öröksége hozták közelebb a résztvevőkhöz a…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Leó pápa telefonon beszélt Zelenszkijjel: Tűzszünetet sürget Oleskiben, a civilek evakuálását kéri",
-          "url": "https://magyarkurir.hu/hirek/leo-papa-telefonon-beszelt-zelenszkijjel-tuzszunetet-surget-oleskiben-civilek-evakualasat-keri"
+          "cim": "A ferences lelki örökségről tartottak konferenciát Szegeden",
+          "url": "https://magyarkurir.hu/hirek/a-ferences-lelki-oroksegrol-tartottak-konferenciat-szegeden"
         }
       ]
     },
     {
-      "cim": "Rómában is megemlékeztek Márton Áron püspök lelki örökségéről",
-      "lead": "Október 18–19-én két rangos egyházi és diplomáciai esemény keretében emlékeztek meg Rómában Márton Áron püspökről, a 20. századi erdélyi egyháztörténelem kiemelkedő alakjáról, aki a történelem viharaiban rendíthetetlen hűséggel szolgálta az Egyházat, bátran kiállt az emberi méltóság és a lelkiismereti szabadság…",
+      "cim": "Közös tér, hosszú távú jövő – A Pázmány Péter Katolikus Egyetem campusfejlesztéséről",
+      "lead": "Az új campus körül számos félreértés terjedt el az elmúlt időszakban. Ám fontos leszögezni, hogy a Pázmány nem új szereplőként érkezne a Palotanegyedbe: évtizedek óta része a városrész életének. A tervezett fejlesztés célja, hogy otthont teremtsen a jelenleg több helyszínen működő Bölcsészet- és Társadalomtudományi…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Rómában is megemlékeztek Márton Áron püspök lelki örökségéről",
-          "url": "https://magyarkurir.hu/hirek/romaban-is-megemlekeztek-marton-aron-puspok-lelki-oroksegerol"
+          "cim": "Közös tér, hosszú távú jövő – A Pázmány Péter Katolikus Egyetem campusfejlesztéséről",
+          "url": "https://magyarkurir.hu/hirek/kozos-ter-hosszu-tavu-jovo-pazmany-peter-katolikus-egyetem-campusfejleszteserol"
         }
       ]
     },
     {
-      "cim": "A szentségek és a találkozás ereje – A Szent Dömötör Kórházlelkészi Szolgálat szakmai napja Szegeden",
-      "lead": "Idén hetedik alkalommal tartották meg éves találkozójukat a szegedi Szent Dömötör Kórházlelkészi Szolgálat tagjai. Az eseménynek a Katolikus Ház adott otthont október 13-án.",
+      "cim": "Lelkinapon találkoztak a Debrecen-Nyíregyházi Egyházmegye akolitusai",
+      "lead": "A Debrecen-Nyíregyházi Egyházmegyében szolgáló akolitusok számára rendeztek lelkinapot október 17-én, szombaton Nyíregyházán, az Egyházmegyei Lelkipásztori Intézetben. A találkozó középpontjában a hivatás, a szolgálat és a Krisztus melletti tanúságtétel állt.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "A szentségek és a találkozás ereje – A Szent Dömötör Kórházlelkészi Szolgálat szakmai napja Szegeden",
-          "url": "https://magyarkurir.hu/hirek/a-szentsegek-es-talalkozas-ereje-szent-domotor-korhazlelkeszi-szolgalat-szakmai-napja-szegeden"
+          "cim": "Lelkinapon találkoztak a Debrecen-Nyíregyházi Egyházmegye akolitusai",
+          "url": "https://magyarkurir.hu/hirek/lelkinapon-talalkoztak-debrecen-nyiregyhazi-egyhazmegye-akolitusai"
         }
       ]
     },
     {
-      "cim": "Stanisław Dziwisz homíliája a II. János Pál Vatikáni Alapítvány 45. évfordulóján",
-      "lead": "A Szent Péter térre vezető Via della Conciliazione sugárút jobb oldalán áll a sarutlan kármeliták Santa Maria in Traspontina temploma, melyben október 19-én hétfőn reggel 9 órakor Stanisław Dziwisz bíboros, nyugalmazott krakkói érsek hálaadó szentmisét mutatott be a 45 évvel ezelőtt alapított II. János Pál Vatikáni…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Stanisław Dziwisz homíliája a II. János Pál Vatikáni Alapítvány 45. évfordulóján",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/dziwisz-biboros-mise-vatikan-ii-janos-pal-alapitvany-lengyelek.html"
-        }
-      ]
-    },
-    {
-      "cim": "Fennmaradt az utolsó vacsora kelyhe és a Jézus kezét átütő szög? – Krisztus ereklyéinek nyomában",
-      "lead": "Az utolsó vacsorán használt kehely, Jézus tunikája, Veronika kendője, a megfeszítéskor bevert szög, vagy a kis Jézus születésekor a bölcsőt helyettesítő jászol darabjai tényleg máig fennmaradtak? 11 Jézushoz köthető ereklye története. Számos olyan tárgy maradt fenn, amellyel Jézus kapcsolatba kerülhetett élete során…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "Fennmaradt az utolsó vacsora kelyhe és a Jézus kezét átütő szög? – Krisztus ereklyéinek nyomában",
-          "url": "https://777blog.hu/2026/10/20/fennmaradt-az-utolso-vacsora-kelyhe-es-a-jezus-kezet-atuto-szog-krisztus-ereklyeinek-nyomaban/"
-        }
-      ]
-    },
-    {
-      "cim": "Máté-Tóth András: A katolikus püspökök társadalmi körlevelének színe és fonákja",
-      "lead": "Az 1996-os körlevél 30. évfordulóján a Magyar Katolikus Püspöki Konferencia ismét megszólítja a társadalmat. A tegnap bemutatott dokumentum a teremtésvédelemben korszerű, a bántalmazások ügyében önkritikus, a társadalmi problémák elemzésében helyenként szelektív, s többnyire hallgat az egyház és a NER viszonyáról. Az…",
+      "cim": "Demokratikus külső, feudális jegyekkel – tisztújítási anomáliák a reformátusoknál",
+      "lead": "Lezárult a jelöltállítás a Magyarországi Református Egyház hatévente esedékes tisztújításán, így hamarosan a presbitériumok döntenek az egyházmegyék és -kerületek új vezetőiről. A választás időszaka azokat a hatalmi dinamikákat és függőségi viszonyokat is felszínre hozza, amelyek meghatározzák a helyi közösségek…",
       "forrasok": [
         {
           "nev": "Szemlélek",
-          "cim": "Máté-Tóth András: A katolikus püspökök társadalmi körlevelének színe és fonákja",
-          "url": "https://szemlelek.net/mate-toth-andras-a-katolikus-puspokok-tarsadalmi-korlevelenek-szine-es-fonakja/"
+          "cim": "Demokratikus külső, feudális jegyekkel – tisztújítási anomáliák a reformátusoknál",
+          "url": "https://szemlelek.net/demokratikus-kulso-feudalis-jegyekkel-tisztujitasi-anomaliak-a-reformatusoknal/"
         }
       ]
     },
     {
-      "cim": "293. nap: Szeretetből fakadó fegyelmezés",
-      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsérünk és imádunk téged. Nagyon köszönjük ezt az ajándékot: az igédet. Köszönjük, hogy feltárod előttünk a szívedet. Istenem, te jó apa vagy és fegyelemre nevelsz minket. Segíts nekünk, hogy elfogadjuk a helyes és megfelelő fegyelmezést! Jézus nevében kérünk, segíts…",
+      "cim": "294. nap: Júdea függetlenné válik",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged. Nagyon köszönjük ezt a napot. Hálásak vagyunk igédért. Köszönjük a te bölcsességed. Vezet minket és arra hív, hogy hozzád tartozzunk. Arra hív, hogy ne balgán éljünk, hanem bölcsen. Kérünk téged, őrizd meg gondolatainkat és elménket, hogy minden, amit…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "293. nap: Szeretetből fakadó fegyelmezés",
-          "url": "https://zarandok.ma/293-nap-szeretetbol-fakado-fegyelmezes/"
+          "cim": "294. nap: Júdea függetlenné válik",
+          "url": "https://zarandok.ma/294-nap-judea-fuggetlenne-valik/"
         }
       ]
     },
     {
-      "cim": "Napi ráhangoló: Kit keresünk, amikor békére és reményre vágyunk?",
-      "lead": "Évközi 29. hét, kedd Ef 2,12-22; Lk 12,35-38 „Akkoriban Krisztus nélkül éltetek…, remény nélkül és Isten nélkül éltetek ezen a világon. Most azonban Jézus Krisztusban ti, akik egykor távol voltatok, közel jutottatok Krisztus vére által. Mert ő a mi békességünk…” Három nagy valóság hiányzik a hitre nem jutott ember…",
+      "cim": "Napi ráhangoló: Valóban Krisztus a mindenünk?",
+      "lead": "Évközi 29. hét, szerda Ef 3,2-12; Lk 12,39-48 „Nekem, az összes szent közül a legkisebbnek jutott osztályrészül ez a kegyelem: hirdetni a pogányoknak Krisztus felfoghatatlan gazdagságát.” Ha kis kegyelmet kapunk Istentől (bár a kis kegyelem is nagy, csak nem értékeljük eléggé), attól még lehet, hogy nagyra tartjuk…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: Kit keresünk, amikor békére és reményre vágyunk?",
-          "url": "https://zarandok.ma/napi-rahangolo-krisztus-a-mi-bekessegunk-es-remenysegunk/"
+          "cim": "Napi ráhangoló: Valóban Krisztus a mindenünk?",
+          "url": "https://zarandok.ma/napi-rahangolo-valoban-krisztus-a-mindenunk/"
         }
       ]
     },
     {
-      "cim": "Harminc év után újra megszólaltak a magyar püspökök – Kemény társadalomkritika az új körlevélben",
-      "lead": "Harminc évvel az 1996-os, nagy visszhangot kiváltó szociális körlevél megjelenése után ismét átfogó helyzetértékelést adott a magyar társadalom állapotáról a Magyar Katolikus Püspöki Konferencia. Az Igazságosabb és testvériesebb világot! 30 év után című új dokumentum egyszerre ismeri el az elmúlt évtizedek…",
+      "cim": "Franciaország: Az Egyház segíteni akar, hogy az emberek újra megtalálják életük értelmét",
+      "lead": "A közelmúlt erőszakos eseményei fényében a franciaországi egyház arra szólít fel, hogy adjanak választ a szorongásra, amelyet a fiatalok, valamint a kirekesztettek vagy hátrahagyottak juttatnak kifejezésre. A tours-i érsek pedig a demokratikus párbeszéd helyreállítását szorgalmazza közvetítő intézményeken keresztül…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Franciaország: Az Egyház segíteni akar, hogy az emberek újra megtalálják életük értelmét",
+          "url": "https://www.vaticannews.va/hu/egyhaz/news/2026-10/franciaorszag-zavargasok-egyhaz-segiteni-akar-isten-a-valasz.html"
+        }
+      ]
+    },
+    {
+      "cim": "Miért engedte ezt meg Isten? – Kováts Adél színművész bátorítása a fogyatékossággal született gyermeket nevelőkhöz",
+      "lead": "„Miért épp velünk történik ez?” A fogyatékossággal élőknek gyakran kell megküzdeniük a többségi társadalom előítéletével, amely elsősorban a sérültségre összpontosít és nem a mögötte lévő ember egyéniségére. Lehet változtatni a sorrenden? Ez a kérdés is fókuszba kerül a Mélyvíz – mentőöv mindenkinek legújabb adásában…",
+      "forrasok": [
+        {
+          "nev": "777",
+          "cim": "Miért engedte ezt meg Isten? – Kováts Adél színművész bátorítása a fogyatékossággal született gyermeket nevelőkhöz",
+          "url": "https://777blog.hu/2026/10/20/miert-engedte-ezt-meg-isten-kovats-adel-szinmuvesz-batoritasa-a-fogyatekossaggal-szuletett-gyermeket-nevelokhoz/"
+        }
+      ]
+    },
+    {
+      "cim": "80 éve kapta a világot megváltoztató hivatását Teréz anya",
+      "lead": "Szeptember 10-én volt éppen nyolcvan éve, hogy Indiában egy katolikus apáca vonatra szállt, és ott olyan elhívást kapott, amely megváltoztatta a világot. Nem volt pénze, sem szervezete vagy médiaplatformja, nem volt körülötte követők hada. De volt mindezeknél sokkal hatalmasabb támasza: az a szilárd meggyőződése, hogy…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Harminc év után újra megszólaltak a magyar püspökök – Kemény társadalomkritika az új körlevélben",
-          "url": "https://zarandok.ma/harminc-ev-utan-ujra-megszolaltak-a-magyar-puspokok-kemeny-tarsadalomkritika-az-uj-korlevelben/"
+          "cim": "80 éve kapta a világot megváltoztató hivatását Teréz anya",
+          "url": "https://zarandok.ma/80-eve-kapta-a-vilagot-megvaltoztato-hivatasat-terez-anya/"
+        }
+      ]
+    },
+    {
+      "cim": "Tisztújítás a református egyházban – új püspök és főgondnok a Dunántúlon",
+      "lead": "Főgondnokot és püspököt választottak a dunántúli reformátusok. Márkus Mihályt püspöknek, Nemes Pált pedig főgondnoknak választották a Dunántúli Református Egyházkerületben. A választás eredménye öt nap múlva emelkedik jogerőre. A Dunántúli Református Egyházkerület Választási Bizottsága közölte, hogy az egyházkerületi…",
+      "forrasok": [
+        {
+          "nev": "777",
+          "cim": "Tisztújítás a református egyházban – új püspök és főgondnok a Dunántúlon",
+          "url": "https://777blog.hu/2026/10/20/tisztujitas-a-reformatus-egyhazban-uj-puspok-es-fogondnok-a-dunantulon/"
         }
       ]
     }
@@ -135,8 +130,56 @@
         },
         {
           "nev": "Catholic Herald",
-          "cim": "Fr Ripperger instructed to cease public speaking",
-          "url": "https://thecatholicherald.com/article/fr-chad-ripperger-given"
+          "cim": "After Putin, Pope calls Zelensky to discuss ‘humanitarian ceasefire’",
+          "url": "https://thecatholicherald.com/article/after-putin-pope-calls-zelensky-to-discuss-humanitarian-ceasefire"
+        }
+      ]
+    },
+    {
+      "cim": "French bishops condemn 'unacceptable violence' as riots sweep nation",
+      "lead": "French Church leaders have strongly condemned a wave of violence that swept across France over the Oct. 17-18 weekend during demonstrations that began as protests against the rising cost of living.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "French bishops condemn 'unacceptable violence' as riots sweep nation",
+          "url": "https://www.ncronline.org/news/french-bishops-condemn-unacceptable-violence-riots-sweep-nation"
+        },
+        {
+          "nev": "The Pillar",
+          "cim": "What are French bishops saying about the riots?",
+          "url": "https://www.pillarcatholic.com/p/what-are-french-bishops-saying-about"
+        }
+      ]
+    },
+    {
+      "cim": "Holy Land Church leaders condemn settler attack on Christian village, European diplomats",
+      "lead": "In an Oct. 20 statement, the Latin Patriarchate of Jerusalem said the attack reflected broader settler violence affecting Palestinian villages and peaking during harvest season, when families gather olives that support their livelihoods and ties to the land.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Holy Land Church leaders condemn settler attack on Christian village, European diplomats",
+          "url": "https://www.ncronline.org/news/holy-land-church-leaders-condemn-settler-attack-christian-village-european-diplomats"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Jerusalem Church leaders condemn settler attack on Christian village of Taybeh",
+          "url": "https://thecatholicherald.com/article/jerusalem-church-leaders-condemn-settler-attack-on-christian-village-of-taybeh"
+        }
+      ]
+    },
+    {
+      "cim": "Priest in Ecuador, 53, struck and killed by falling crucifix during Mass",
+      "lead": "A priest in Ecuador was struck and killed by a falling crucifix while celebrating Mass, a tragedy captured during a livestream of the service on Oct. 17.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Priest in Ecuador, 53, struck and killed by falling crucifix during Mass",
+          "url": "https://www.ncronline.org/news/priest-ecuador-53-struck-and-killed-falling-crucifix-during-mass"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Ecuadorian priest killed after crucifix falls on him during Mass",
+          "url": "https://thecatholicherald.com/article/ecuadorian-priest-killed-after-crucifix-falls-on-him-during-mass"
         }
       ]
     },
@@ -157,95 +200,57 @@
       ]
     },
     {
-      "cim": "Cancer may change 'how' but not 'what' of Leo's papacy, pope's friend says",
-      "lead": "\"I hope we'll see a little bit of a slowing down in the pace, but other than that, I'll be surprised if there were any change in the velocity of the change in personnel\" at the Vatican, Fr. Arthur Purcaro said.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Cancer may change 'how' but not 'what' of Leo's papacy, pope's friend says",
-          "url": "https://www.ncronline.org/vatican/vatican-news/cancer-may-change-how-not-what-leos-papacy-popes-friend-says"
-        },
-        {
-          "nev": "The Pillar",
-          "cim": "Ep. 282: Pope Leo’s cancer, and the last word on Amoris?",
-          "url": "https://www.pillarcatholic.com/p/ep-282-pope-leos-cancer-and-the-last"
-        }
-      ]
-    },
-    {
-      "cim": "Stephen Wang consecrated Bishop of Arundel and Brighton",
-      "lead": "The former rector of the Venerable English College in Rome has become the diocese’s sixth bishop, pledging to promote holiness, serve those in need and spread the Gospel",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "Stephen Wang consecrated Bishop of Arundel and Brighton",
-          "url": "https://thecatholicherald.com/article/stephen-wang-consecrated-bishop-of-arundel-and-brighton"
-        }
-      ]
-    },
-    {
-      "cim": "Trump's deportation crackdown may influence how Catholics vote in midterms",
-      "lead": "Catholics and advocates spoke to NCR about how Trump's aggressive immigration enforcement is creating political tensions ahead of the 2026 midterms.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Trump's deportation crackdown may influence how Catholics vote in midterms",
-          "url": "https://www.ncronline.org/news/trumps-deportation-crackdown-may-influence-how-catholics-vote-midterms"
-        }
-      ]
-    },
-    {
-      "cim": "The Leo Chronicles: Brother Leo in Somalia",
-      "lead": "The Leo Chronicles: Brother Leo finds himself in Mogadishu, Somalia, looking for a friend.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "The Leo Chronicles: Brother Leo in Somalia",
-          "url": "https://www.ncronline.org/vatican/leo-chronicles/leo-chronicles-brother-leo-somalia"
-        }
-      ]
-    },
-    {
-      "cim": "Restorative justice gave Ann Grosmaire’s parents a voice",
-      "lead": "Deacon Andy and Kate Grosmaire describe how facing their daughter’s killer helped them seek accountability and healing, sustained by their Catholic faith and belief in the possibility of redemption. Read all",
+      "cim": "Pope at Audience: We must urgently protect families and marriage",
+      "lead": "At his first Wednesday General Audience after having undergone surgery, Pope Leo XIV thanks everyone for their prayers and reflects on the role of families as the foundation of society, emphasizing the important bond between spouses and the gift of having children. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Restorative justice gave Ann Grosmaire’s parents a voice",
-          "url": "https://www.vaticannews.va/en/church/news/2026-10/united-states-restorative-justice-grosmaires-interview.html"
+          "cim": "Pope at Audience: We must urgently protect families and marriage",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-general-audience-family-marriage-gaudium-et-spes.html"
         }
       ]
     },
     {
-      "cim": "Cardinal Koovakad: Nonviolence is courageous commitment to justice",
-      "lead": "Speaking at an Ahimsa Day celebration at the British Parliament, Cardinal George Jacob Koovakad highlights the shared commitment of Jains and Catholics to nonviolence, urging religious communities to become bridges of peace in a world marked by conflict and division. Read all",
+      "cim": "Pope Leo: Saints show us 'history shaped by faith'",
+      "lead": "Pope Leo XIV greets participants in the “Holiness in History” Conference organized by Dicastery for the Causes of Saints, taking place at the Pontifical Augustinianum Patristic Institute in Rome. Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Cardinal Koovakad: Nonviolence is courageous commitment to justice",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-koovakad-nonviolence-is-a-courageous-commitment.html"
+          "cim": "Pope Leo: Saints show us 'history shaped by faith'",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-saints-show-us-history-shaped-by-faith.html"
         }
       ]
     },
     {
-      "cim": "In Utah, Catholic church meets ‘new urbanism’",
-      "lead": "“We see a real opportunity to integrate the parish community into a neighborhood.”",
+      "cim": "Vatican upholds excommunication of La. deacon who left church after son abused by priest",
+      "lead": "The ruling notes that the circumstances helped explain Scott Peyton's motives, but said his decision to formally join the Anglican church was deliberate and schismatic.",
       "forrasok": [
         {
-          "nev": "The Pillar",
-          "cim": "In Utah, Catholic church meets ‘new urbanism’",
-          "url": "https://www.pillarcatholic.com/p/in-utah-catholic-church-meets-new"
+          "nev": "National Catholic Reporter",
+          "cim": "Vatican upholds excommunication of La. deacon who left church after son abused by priest",
+          "url": "https://www.ncronline.org/news/vatican-upholds-excommunication-la-deacon-who-left-church-after-son-abused-priest"
         }
       ]
     },
     {
-      "cim": "A Catholic voter’s guide to the 2026 midterm elections",
-      "lead": "What should Catholics consider as they prepare to vote in the 2026 midterm elections?",
+      "cim": "Congressman Jim McGovern: I'm a progressive Democrat because I'm Catholic",
+      "lead": "\"I'm a progressive Democrat because of my faith — not in spite of it. And I think it's time more of us said so,\" Rep. Jim McGovern writes.",
       "forrasok": [
         {
-          "nev": "Catholic Herald",
-          "cim": "A Catholic voter’s guide to the 2026 midterm elections",
-          "url": "https://thecatholicherald.com/article/a-catholic-voter-s-guide-to-the-2026-midterm-elections"
+          "nev": "National Catholic Reporter",
+          "cim": "Congressman Jim McGovern: I'm a progressive Democrat because I'm Catholic",
+          "url": "https://www.ncronline.org/opinion/guest-voices/congressman-jim-mcgovern-im-progressive-democrat-because-im-catholic"
+        }
+      ]
+    },
+    {
+      "cim": "Two powerful talks show why the world needs Catholic higher education",
+      "lead": "All of our Catholic schools can and should see the challenges of our times as opportunities for which the particular gifts of Catholic higher education are ideally suited, Michael Sean Winters writes.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Two powerful talks show why the world needs Catholic higher education",
+          "url": "https://www.ncronline.org/opinion/ncr-voices/two-powerful-talks-show-why-world-needs-catholic-higher-education"
         }
       ]
     }
