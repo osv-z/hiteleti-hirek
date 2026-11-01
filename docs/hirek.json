@@ -1,7 +1,106 @@
 {
-  "datum": "2026-10-31",
-  "generalva": "2026-10-31T11:34+01:00",
+  "datum": "2026-11-01",
+  "generalva": "2026-11-01T12:28+01:00",
   "hazai": [
+    {
+      "cim": "Az Eucharisztia ünneplése 171/8",
+      "lead": "Sztankó Attila liturgikus jegyzetét olvashatják.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Az Eucharisztia ünneplése 171/8",
+          "url": "https://magyarkurir.hu/hirek/az-eucharisztia-unneplese-171-8"
+        }
+      ]
+    },
+    {
+      "cim": "A találkozás reménye – Erdő Péter bíboros gondolatai mindenszentek napján",
+      "lead": "Egy szeretett tanár elvesztését és egy máig elevenen élő diákkori emlékét idézte fel Erdő Péter bíboros, prímás a Kossuth Rádióban mindenszentek napján. Személyes történetén keresztül arról az összetartozásról beszélt, amely az élőket és a holtakat Istenben összekapcsolja és reményt ad a viszontlátásra.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "A találkozás reménye – Erdő Péter bíboros gondolatai mindenszentek napján",
+          "url": "https://magyarkurir.hu/hirek/a-talalkozas-remenye-erdo-peter-biboros-gondolatai-mindenszentek-napjan"
+        }
+      ]
+    },
+    {
+      "cim": "Nem pótlásként születtél erre a Földre, ahogy más sem",
+      "lead": "Az életünk során emberek jönnek és mennek, kapcsolataink átalakulnak, munkahelyeket váltunk. A szerepeinket és a feladatainkat betölti majd valaki más. De vajon pótolható-e az az ember, aki egyszer már nyomot hagyott a szívünkben? És mi történik akkor, amikor valakitől végleg el kell búcsúznunk? Amikor valaki…",
+      "forrasok": [
+        {
+          "nev": "777",
+          "cim": "Nem pótlásként születtél erre a Földre, ahogy más sem",
+          "url": "https://777blog.hu/2026/11/01/nem-potlaskent-szulettel-erre-a-foldre-ahogy-mas-sem/"
+        }
+      ]
+    },
+    {
+      "cim": "Mindenszentek ünnepe",
+      "lead": "November 1-jén közös napon ünnepeljük az összes szentet, vagyis valamennyi megdicsőült lelket, akikről sokaságuk miatt a kalendárium külön, név szerint nem emlékezhet meg. Mindenszentek ünnepe a kötelező egyházi ünnepek közé tartozik, ezért a hívek számára előírás a szentmisén való részvétel.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Mindenszentek ünnepe",
+          "url": "https://magyarkurir.hu/hirek/mindenszentek-unnepe-159633"
+        }
+      ]
+    },
+    {
+      "cim": "305. nap: A védelmező",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged. Köszönjük a te igédet ma is. Magasztaljuk nevedet, és kérünk, fogadd el magasztalásunkat, imádságunkat, és hálát adó szavainkat! Mert te vagy a mi Istenünk. Olyan vagy, amilyennek a Makkabeusok második könyvében mutatod magadat a pogányok elleni…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "305. nap: A védelmező",
+          "url": "https://zarandok.ma/305-nap-a-vedelmezo/"
+        }
+      ]
+    },
+    {
+      "cim": "Napi ráhangoló: A szentek fényét követve az örök haza felé",
+      "lead": "Mindenszentek Jel 7,2-4.9-14; 1Jn 3,1-3; Mt 5,1-12a „Ezután nagy sereget láttam, amelyet senki sem volt képes megszámlálni, minden nemzetből, néptörzsből, népből és nyelvből a trón előtt és a Bárány előtt állni, hosszú fehér ruhába öltözve, kezükben pálmaággal…” Ha egyik vagy másik szent sugárzó életpéldája…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Napi ráhangoló: A szentek fényét követve az örök haza felé",
+          "url": "https://zarandok.ma/napi-rahangolo-a-szentek-fenyet-kovetve-az-orok-haza-fele/"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa a Villanova és Notre Dame egyetemek zarándokaihoz: a szeretet versenyében",
+      "lead": "A maga nemében páratlan esemény színhelye lett a vatikáni VI. Pál aula, hiszen az Egyesült Államok Villanova és Notre Dame egyetemeinek hétezer zarándoka jött át a Tengerentúlról, hogy október utolsó napján, szombaton délben találkozzanak a „honfitárs pápával”. Jóllehet Leó pápa megválasztásával jelentősen megnőtt az…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa a Villanova és Notre Dame egyetemek zarándokaihoz: a szeretet versenyében",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-usa-villanova-notre-dame-egyetem-sport-zarandoklas.html"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa a földrengés-sújtotta térségek képviselőihez: távolra tekintő közös összefogással",
+      "lead": "Tíz éve, 2016. október 30-án súlyos földrengés pusztított a közép-olaszországi Norcia térségében, ahol összedőlt Európa védőszentje, Szent Benedek szülővárosának gyönyörű románkori bazilikája. Az évforduló emlékére a térség városainak és falvainak 350 fős küldöttségét fogadta szombaton délelőtt a Kelemen-teremben Leó…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa a földrengés-sújtotta térségek képviselőihez: távolra tekintő közös összefogással",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-foldrenges-norcia-ujjaepites-egyutt-felelosseg-sziv-kozpont.html"
+        }
+      ]
+    },
+    {
+      "cim": "Vasárnapi ráhangoló: A szentek megszámlálhatatlan sokaságának ünnepe",
+      "lead": "Mindenszentek főünnepén Heiter Robert Gottfried atya a Jelenések könyvének látomásából indul ki, amelyben János akkora sereget lát, hogy meg sem lehet számlálni. Az elmélkedés azokra irányítja figyelmünket, akiknek nincs külön ünnepük, oltárképük vagy ereklyéjük, mégis ott lehetnek a szentek megszámlálhatatlan…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Vasárnapi ráhangoló: A szentek megszámlálhatatlan sokaságának ünnepe",
+          "url": "https://zarandok.ma/vasarnapi-rahangolo-a-szentek-megszamlalhatatlan-sokasaganak-unnepe/"
+        }
+      ]
+    },
     {
       "cim": "„Nem volt olyan, aki ebben a helyzetben elutasította a hitet” – papok adnak reményt a spanyol vonatkatasztrófa sebesültjeinek",
       "lead": "Az elmúlt napokban történt spanyol vonatbaleset helyszínén katolikus papok adnak reményt a sebesülteknek és családtagjaiknak: imádkoznak, betegek szentségében részesítik embertársaikat és meghallgatják őket. A Spanyolországban történt súlyos vonatbaleset már több mint 100 sebesültet és 69 halálos áldozatot számlál. A…",
@@ -10,115 +109,27 @@
           "nev": "777",
           "cim": "„Nem volt olyan, aki ebben a helyzetben elutasította a hitet” – papok adnak reményt a spanyol vonatkatasztrófa sebesültjeinek",
           "url": "https://777blog.hu/2026/10/31/nem-volt-olyan-aki-ebben-a-helyzetben-elutasitotta-a-hitet-papok-adnak-remenyt-a-spanyol-vonatkatasztrofa-sebesultjeinek/"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa részvéttávirata a spanyolországi vonatszerencsétlenség áldozataiért",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-tavirat-vonatszerencsetlenseg-spanyolorszag-ima-urda.html"
-        }
-      ]
-    },
-    {
-      "cim": "Zsódi Viktor: A láng átadása egy posztkeresztény korban – Mit kér Róma a katolikus iskoláktól?",
-      "lead": "Jöjjetek hozzám! Gondolatok a hit továbbadásáról a korszakváltás idején – ezzel a címmel jelent meg a Hittani Dikasztérium október 22-én közzétett dokumentuma. A szerzetesi iroda Vigilate csoportjával együttműködésben három részes sorozatot indítunk. Az első részben Zsódi Viktor piarista tartományfőnök a vatikáni…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Zsódi Viktor: A láng átadása egy posztkeresztény korban – Mit kér Róma a katolikus iskoláktól?",
-          "url": "https://magyarkurir.hu/hirek/zsodi-viktor-lang-atadasa-egy-posztkereszteny-korban-mit-ker-roma-katolikus-iskolaktol"
-        }
-      ]
-    },
-    {
-      "cim": "Ördögűzők figyelmeztettek a Halloween-nel kapcsolatban",
-      "lead": "Ma van Halloween, az Ördögűzők Nemzetközi Szövetsége közleményt adott ki, melyben az okkultizmus elbagatellizálásának veszélyeire hívták fel a figyelmet. Mint minden évben, az Ördögűzők Nemzetközi Szövetsége (AIE) most figyelmeztet Halloween veszélyeire, amely korántsem ártalmatlan „ünnep”. Az október 27-én közzétett…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "Ördögűzők figyelmeztettek a Halloween-nel kapcsolatban",
-          "url": "https://777blog.hu/2026/10/31/ordoguzok-figyelmeztettek-a-halloween-nel-kapcsolatban/"
-        }
-      ]
-    },
-    {
-      "cim": "Boldog Romzsa Tódor püspök és vértanú",
-      "lead": "Boldog Romzsa Tódor görögkatolikus püspökre emlékezünk liturgikus emléknapján, október 31-én. A püspök a szovjet vallás- és egyházüldözés idején elutasította a Rómával való egység megtagadását, és egészen a vértanúságig hűségesen szolgálta híveit.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Boldog Romzsa Tódor püspök és vértanú",
-          "url": "https://magyarkurir.hu/hirek/boldog-romzsa-todor-puspok-es-vertanu"
-        }
-      ]
-    },
-    {
-      "cim": "Útravaló – 2026. október 31.",
-      "lead": "Napról napra közreadjuk a napi olvasmányokhoz, illetve az adott nap szentjéhez kapcsolódó gondolatokat az Adoremus liturgikus kiadványból. Októberben Kálmán Peregrin OFM, a pesti ferences templom igazgatója ad útravalót.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Útravaló – 2026. október 31.",
-          "url": "https://magyarkurir.hu/hirek/utravalo-2026-oktober-31"
-        }
-      ]
-    },
-    {
-      "cim": "304. nap: Élet a halálon túl",
-      "lead": "Korszak: Makkabeus-felkelés Ima Istenünk, dicsőítünk téged és nagyon köszönjük a mai napot… Urunk, hálát adunk a hűségedért. Köszönjük a te hűségedet. Segíts nekünk megérteni, hogyan lehetünk mi is hűségesek hozzád! Segíts megérteni, mikor van itt az ideje annak, hogy tanúságot tegyünk rólad! Segíts megérteni, mikor…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "304. nap: Élet a halálon túl",
-          "url": "https://zarandok.ma/304-nap-elet-a-halalon-tul/"
-        }
-      ]
-    },
-    {
-      "cim": "Napi ráhangoló: A szeretet összeköt, nem megkötöz",
-      "lead": "Évközi 30. hét, péntek Fil 1,1-11; Lk 14,1-6 „Valahányszor megemlékezem rólatok, hálát adok Istenemnek, és mindig, minden imádságomban örömmel könyörgök mindnyájatokért.” Mit tehet az a szülő, nagyszülő, nevelő, atyai jó barát, akitől messze kerültek gyermekei, unokái, tanítványai? Hogyan tarthatja fenn a közösséget…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: A szeretet összeköt, nem megkötöz",
-          "url": "https://zarandok.ma/napi-rahangolo-a-szeretet-osszekot-nem-megkotoz/"
-        }
-      ]
-    },
-    {
-      "cim": "„Nem tökéletes, hanem Isten szíve szerinti anya szeretnék lenni” – Lábánné Hollai Katalin a NőiTérErő podcastben",
-      "lead": "Az anyaság egyszerre ajándék, öröm és olykor embert próbáló küzdelem. Hogyan lehet a kimerültség, a bűntudat és a társadalmi elvárások közepette megtalálni a belső békét? Miként formálja Isten az édesanyák szívét a mindennapi nehézségeken keresztül? A NőiTérErő legújabb adásában Till Judit Lábánné Hollai Katalinnal…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "„Nem tökéletes, hanem Isten szíve szerinti anya szeretnék lenni” – Lábánné Hollai Katalin a NőiTérErő podcastben",
-          "url": "https://zarandok.ma/nem-tokeletes-hanem-isten-szive-szerinti-anya-szeretnek-lenni-labanne-hollai-katalin-a-noiterero-podcastben/"
-        }
-      ]
-    },
-    {
-      "cim": "„Szinte fizikailag éreztem, hogy egy kéz felemel” – Varga Miklós a Szín-Vallás podcastben",
-      "lead": "A 777 Szín – Vallás című műsorának vendége a Máté Péter-díjas zenész, énekes, érdemes művész, Varga Miklós volt. A stúdióban kihelyezett, sarkalatos és isteni erényt jelképező kártyák mentén kibontakozó interjúban az István, a király ikonikus címszereplője és az Európa című dal megalkotója ritkán látható…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "„Szinte fizikailag éreztem, hogy egy kéz felemel” – Varga Miklós a Szín-Vallás podcastben",
-          "url": "https://777blog.hu/2026/10/30/szinte-fizikailag-ereztem-hogy-egy-kez-felemel-varga-miklos-a-szin-vallas-podcastben/"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa új titkárhelyetteseket nevezett ki a Szinódusi Főtitkárság vezetőségébe",
-      "lead": "A Szentatya október 30-án pénteken két szerzetest nevezett ki a Szinódus Főtitkárság titkárhelyetteseivé, Giacomo Costa jezsuita atyát, aki korábban a Főtitkárság tanácsosa volt és Elena Massimi szalézi nővért, a római Pápai Szalézi Egyetem professzorát. Olvasd el mindet",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa új titkárhelyetteseket nevezett ki a Szinódusi Főtitkárság vezetőségébe",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-10/papa-kinevezes-szinodus-titkarhelyettes-costa-atya-elena-nover.html"
         }
       ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "Vatican hosts dialogue on AI and human dignity",
+      "lead": "AI experts and Vatican representatives gather at the Casina Pio IV to discuss how artificial intelligence can serve humanity, with calls for binding safeguards and international cooperation to protect human dignity and promote the common good. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Vatican hosts dialogue on AI and human dignity",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-10/vatican-artificial-intelligence-conference-interdicasterial-comm.html"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Civil rights leader Dolores Huerta remembered for her faith, defense of human dignity",
+          "url": "https://www.ncronline.org/news/civil-rights-leader-dolores-huerta-remembered-her-faith-defense-human-dignity"
+        }
+      ]
+    },
     {
       "cim": "Pope Leo has cast his ballot in US midterms, voting by mail",
       "lead": "“Pope Leo XIV has exercised his right to vote as a United States citizen,” the Holy See Press Office announced on October 30, 2026. The Vatican thus confirmed that the Pontiff, who considers voting a “duty,” has cast a mail-in ballot in his home state of Illinois for the upcoming U.S. midterm elections. The news first…",
@@ -132,120 +143,94 @@
           "nev": "Vatican News",
           "cim": "Pope Leo XIV votes in US midterm elections via mail-in ballot",
           "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-votes-usa-midterm-elections.html"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Pope Leo XIV confirms he has voted in the 2026 US midterm elections",
-          "url": "https://thecatholicherald.com/article/pope-leo-xiv-requests-mail-in-ballot-for-us-midterm-elections"
         }
       ]
     },
     {
-      "cim": "What we often forget about the saints",
-      "lead": "Monsignor Robert Sarno has worked on canonization causes for decades. He has met people who are today recognized as saints, and knows the ins and outs of the canonization causes for many men and women who may be canonized as saints in the future. Recently, he spoke at the Seton Shrine’s second annual Saints on Their…",
+      "cim": "Pope at Angelus: May we never grow weary of fostering peace in all situations",
+      "lead": "In his Angelus message on the Solemnity of All Saints, Pope Leo XIV recalled the countless saints who have dedicated their life to Christ and emphasized how we are all called to be holy and make choices of love that transcend evil. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope at Angelus: May we never grow weary of fostering peace in all situations",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-angelus-message-feast-all-saints-holiness-peace-love.html"
+        }
+      ]
+    },
+    {
+      "cim": "Vatican Museum exhibit celebrates almost a century of popemobiles",
+      "lead": "\"The exhibition offers an opportunity to reflect on the remarkable advances in automotive technology, as well as the deeper significance of the journeys undertaken by the Successors of Peter,\" Pope Leo said in a speech.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Vatican Museum exhibit celebrates almost a century of popemobiles",
+          "url": "https://www.ncronline.org/vatican/vatican-museum-exhibit-celebrates-almost-century-popemobiles"
+        }
+      ]
+    },
+    {
+      "cim": "On this All Saints' Day, we pray with people killed by ICE",
+      "lead": "\"Those who hunger and thirst for justice, practice mercy and pursue peace are the ones who most closely embody the holiness to which we are all called,\" writes Yunuen Trujillo",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "On this All Saints' Day, we pray with people killed by ICE",
+          "url": "https://www.ncronline.org/spirituality/all-saints-day-we-pray-people-killed-ice"
+        }
+      ]
+    },
+    {
+      "cim": "Passing time with the saints: Who would you spend your day with?",
+      "lead": "The Life - For All Saints' Day, our panelists chose to spend a day with a saint. Who they chose and what they did yielded some delightful surprises. What saint would you choose?",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Passing time with the saints: Who would you spend your day with?",
+          "url": "https://www.ncronline.org/spirituality/passing-time-saints-who-would-you-spend-your-day"
+        }
+      ]
+    },
+    {
+      "cim": "‘Behold, this is our God’",
+      "lead": "Beginning with All Souls and ending with the parable of the wise virgins, this week’s readings invite reflection on purgatory, Christian charity and preparation for eternal life",
+      "forrasok": [
+        {
+          "nev": "Catholic Herald",
+          "cim": "‘Behold, this is our God’",
+          "url": "https://thecatholicherald.com/article/behold-this-is-our-god"
+        }
+      ]
+    },
+    {
+      "cim": "Pope Leo mourns Archbishop Richard Alarcón of Cusco",
+      "lead": "Pope Leo XIV expresses his deep sorrow at the death of Archbishop Richard Daniel Alarcón Urrutia of Cusco, who died after a long illness, just days before the Pope's arrival in the Peruvian city. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo mourns Archbishop Richard Alarcón of Cusco",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/cusco-peru-archbishop-richard-alarcon-urrutia-died-illness-pray.html"
+        }
+      ]
+    },
+    {
+      "cim": "Five Franciscan missionaries beatified in Georgia",
+      "lead": "Cardinal Frank Leo, papal legate, presides over beatification in Savannah, highlighting the missionaries’ witness to Christ, their commitment to evangelization, and their enduring example for the Church. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Five Franciscan missionaries beatified in Georgia",
+          "url": "https://www.vaticannews.va/en/church/news/2026-10/franciscan-missionaries-beatified-georgia-cardinal-leo.html"
+        }
+      ]
+    },
+    {
+      "cim": "Meet the first native Nigerian priest",
+      "lead": "Nigeria has emerged as one of the world’s leading sources of priests, helping to fill many vacancies left by declining numbers of seminarians in Western nations. But Nigeria did not have its first native Catholic priest until the 1920 ordination of Fr. Paul Emechete. When Emechete was born in southern Nigeria in 1888…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "What we often forget about the saints",
-          "url": "https://aleteia.org/2026/10/30/what-we-often-forget-about-the-saints/"
-        },
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "What's really spooky about Halloween",
-          "url": "https://www.ncronline.org/opinion/whats-really-spooky-about-halloween"
-        }
-      ]
-    },
-    {
-      "cim": "Pope Leo, the Vatican and the politics of the Traditional Mass pilgrimage",
-      "lead": "Traditionalist pilgrims were welcomed at two of Rome’s major basilicas but refused organised access to St Peter’s, raising questions about papal authority and the influence of senior Vatican officials",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "Pope Leo, the Vatican and the politics of the Traditional Mass pilgrimage",
-          "url": "https://thecatholicherald.com/article/pope-leo-the-vatican-and-the-politics-of-the-traditional-mass-pilgrimage"
-        },
-        {
-          "nev": "The Pillar",
-          "cim": "Vatican spokesman ‘not aware’ of TLM pilgrimage correspondence",
-          "url": "https://www.pillarcatholic.com/p/vatican-spokesman-not-aware-of-tlm"
-        }
-      ]
-    },
-    {
-      "cim": "VATICAN DISPATCH: Liturgy wars, but no Just War",
-      "lead": "As Pope Leo prepares for his South American tour, disputes over the Latin Mass, kneeling for Communion and the Church’s Just War tradition dominate another contentious week in Rome",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "VATICAN DISPATCH: Liturgy wars, but no Just War",
-          "url": "https://thecatholicherald.com/article/liturgy-wars-but-no-just-war"
-        }
-      ]
-    },
-    {
-      "cim": "Mark Kermode on restoration of 'The Devils' and the director's Catholicism",
-      "lead": "The movie, based on a 1951 Aldous Huxley book, met intense controversy, and it was heavily edited and censored. Now the full version is in theaters, tackling topics of power and corruption between church and state.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Mark Kermode on restoration of 'The Devils' and the director's Catholicism",
-          "url": "https://www.ncronline.org/culture/mark-kermode-restoration-devils-and-directors-catholicism"
-        }
-      ]
-    },
-    {
-      "cim": "Remembering the 'forgotten lilies'",
-      "lead": "When seen through the eyes of the soul, forgotten lilies are a reminder to hold onto that which can resurrect: goodness, goodwill and decency.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Remembering the 'forgotten lilies'",
-          "url": "https://www.ncronline.org/spirituality/soul-seeing/remembering-forgotten-lilies"
-        }
-      ]
-    },
-    {
-      "cim": "Catholicism's haunting strangeness warrants celebration, says author",
-      "lead": "\"These things are not just sideshow attractions,\" said W. Tyler Allen, who wrote A Catechism of the Strange. \"They're not just cool little things that make Catholicism creepy and fun. They all point back to the soul.\"",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Catholicism's haunting strangeness warrants celebration, says author",
-          "url": "https://www.ncronline.org/culture/book-reviews/catholicisms-haunting-strangeness-warrants-celebration-says-author"
-        }
-      ]
-    },
-    {
-      "cim": "The Week in Review: Pope Leo heads to the polls, Ukraine solidarity initiative and assisted dying debate rages",
-      "lead": "Pope Leo votes in US midterms as bishops face criticism, Ukraine receives aid and Catholic institutions confront fresh challenges",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "The Week in Review: Pope Leo heads to the polls, Ukraine solidarity initiative and assisted dying debate rages",
-          "url": "https://thecatholicherald.com/article/week-in-review-october-31"
-        }
-      ]
-    },
-    {
-      "cim": "Bonus: Recreational companionship",
-      "lead": "JD seeks some advice.",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Bonus: Recreational companionship",
-          "url": "https://www.pillarcatholic.com/p/bonus-recreational-companionship"
-        }
-      ]
-    },
-    {
-      "cim": "Ep. 284: A frontier pastor and the Great Commission",
-      "lead": "JD and Ed debate recent comments by Algeria’s Cardinal Jean-Paul Vesco’s recent comments about the Catholic Church’s relationship with Muslim and Jewish believers.",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Ep. 284: A frontier pastor and the Great Commission",
-          "url": "https://www.pillarcatholic.com/p/ep-284-a-frontier-pastor-and-the"
+          "cim": "Meet the first native Nigerian priest",
+          "url": "https://aleteia.org/2026/10/31/meet-the-first-native-nigerian-priest/"
         }
       ]
     }
