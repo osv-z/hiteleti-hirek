@@ -1,7 +1,23 @@
 {
-  "datum": "2026-11-02",
-  "generalva": "2026-11-02T13:50+01:00",
+  "datum": "2026-11-03",
+  "generalva": "2026-11-03T13:16+01:00",
   "hazai": [
+    {
+      "cim": "A világ számára ismeretlenek, de Isten ismeri őket – Leó pápa Úrangyala imája mindenszentek ünnepén",
+      "lead": "A szentek, Isten Országának legerőteljesebb jelei, a legkülönfélébb származásokat, kultúrákat és élethelyzeteket képviselik. Az életszentség ugyanis nem néhányak kiváltsága, hanem mindnyájan meghívást kaptunk rá, hogy Jézust követve életünket Istennek és embertársainknak ajándékozzuk – fejtette ki beszédében XIV. Leó…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "A világ számára ismeretlenek, de Isten ismeri őket – Leó pápa Úrangyala imája mindenszentek ünnepén",
+          "url": "https://zarandok.ma/a-vilag-szamara-ismeretlenek-de-isten-ismeri-oket-leo-papa-urangyala-imaja-mindenszentek-unnepen/"
+        },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "„Isten hazavár bennünket” – Mindenszentek ünnepe egyházmegyéinkben",
+          "url": "https://magyarkurir.hu/hirek/-isten-hazavar-bennunket-mindenszentek-unnepe-egyhazmegyeinkben"
+        }
+      ]
+    },
     {
       "cim": "Hogyan szavazhat Leó pápa az amerikai választásokon, miközben Vatikánváros államfője?",
       "lead": "Leó pápa történelmet írt azzal, hogy szavazott az amerikai félidős választásokon. Ő az első pápa, aki szavazott egy amerikai választáson, és valószínűleg az első az egyház 2000 éves történetében, aki világi demokratikus választáson szavazott. A Szentszék Sajtóirodája pénteken megerősítette, hogy a chicagói születésű…",
@@ -19,106 +35,90 @@
       ]
     },
     {
-      "cim": "Az életszentség egyetemes hivatás – Leó pápa Úrangyala imája Mindenszentek ünnepén",
-      "lead": "A szentek, Isten Országának legerőteljesebb jelei, a legkülönfélébb származásokat, kultúrákat és élethelyzeteket képviselik. Az életszentség ugyanis nem néhányak kiváltsága, hanem mindnyájan meghívást kaptunk rá, hogy Jézust követve életünket Istennek és embertársainknak ajándékozzuk – fejtette ki beszédében XIV. Leó…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Az életszentség egyetemes hivatás – Leó pápa Úrangyala imája Mindenszentek ünnepén",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-angelus-mindenszentek-eletszentseg-egyetemes-hivatas.html"
-        },
-        {
-          "nev": "Zarándok.ma",
-          "cim": "A világ számára ismeretlenek, de Isten ismeri őket – Leó pápa Úrangyala imája mindenszentek ünnepén",
-          "url": "https://zarandok.ma/a-vilag-szamara-ismeretlenek-de-isten-ismeri-oket-leo-papa-urangyala-imaja-mindenszentek-unnepen/"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa új titkárhelyetteseket nevezett ki a Püspöki Szinódus Főtitkársága vezetőségébe",
-      "lead": "A Szentatya október 30-án Giacomo Costa jezsuitát, a Püspöki Szinódus Főtitkárságának korábbi tanácsosát és Elena Massimi szalézi nővért, a római Pápai Szalézi Egyetem professzorát nevezte ki a Püspöki Szinódus Főtitkársága titkárhelyetteseivé.",
+      "cim": "Leó pápa az adventi időben öt római plébánián tesz lelkipásztori látogatást",
+      "lead": "Advent idején XIV. Leó pápa folytatja római egyházmegyéje plébániáinak a látogatását – adta hírül október 26-án, szerdán a Szentatya római helynökségének hivatalos honlapja. Eszerint Leó pápa a nagyböjti időszakhoz hasonlóan november végétől kezdve az egyházmegyéje minden nagyobb lelkipásztori kerületének egy-egy…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Leó pápa új titkárhelyetteseket nevezett ki a Püspöki Szinódus Főtitkársága vezetőségébe",
-          "url": "https://magyarkurir.hu/hirek/leo-papa-uj-titkarhelyetteseket-nevezett-ki-puspoki-szinodus-fotitkarsaga-vezetosegebe"
+          "cim": "Leó pápa az adventi időben öt római plébánián tesz lelkipásztori látogatást",
+          "url": "https://magyarkurir.hu/hirek/leo-papa-az-adventi-idoben-ot-romai-plebanian-tesz-lelkipasztori-latogatast"
         }
       ]
     },
     {
-      "cim": "Figyelem! Visszaélnek a Pannonhalmi Főapátság és szerzetesei nevével",
-      "lead": "A Pannonhalmi Főapátság felhívja a figyelmet, hogy internetes és közösségi médiában megjelenő hirdetésekben valós vagy kitalált szerzetesek és más egyházi személyek nevével, képmásával visszaélve különböző egészségügyi termékeket kínálnak. A Pannonhalmi Főapátságnak és bencés szerzeteseinek semmi közük ezekhez a…",
+      "cim": "Elhunyt Szalai Jeremiás nyugalmazott göllei plébános",
+      "lead": "A Kaposvári Egyházmegye papsága, testvérei, rokonai fájdalommal, de a feltámadás reményében tudatják, hogy Szalai Jeremiás címzetes prépost, nyugalmazott göllei plébános életének 74., áldozópapságának 49. évében, 2026. október 30-án szentségekkel megerősítve elhunyt.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Figyelem! Visszaélnek a Pannonhalmi Főapátság és szerzetesei nevével",
-          "url": "https://magyarkurir.hu/hirek/figyelem-visszaelnek-pannonhalmi-foapatsag-es-szerzetesei-nevevel"
+          "cim": "Elhunyt Szalai Jeremiás nyugalmazott göllei plébános",
+          "url": "https://magyarkurir.hu/hirek/elhunyt-szalai-jeremias-nyugalmazott-gollei-plebanos"
         }
       ]
     },
     {
-      "cim": "Lámpással a versek mélységében – Naputas szerzők művei Halmai Tamás hangjára hangolva",
-      "lead": "Halmai Tamás alkotói termékenységét (csak az idei évben eddig tizenegy könyvet jegyez), írásainak sokműfajúságát mindenki ismerheti, aki számára ismerősen cseng a neve. Hetvennyolc könyve után szinte kiapadhatatlannak hihető most már számunkra szerzői kútja.",
+      "cim": "Kovács Gergely érsek véleményezte a gyulafehérvári főegyházmegyei ifjúsági lelkészség stratégiáját",
+      "lead": "A gyulafehérvári Főegyházmegyei Ifjúsági Főlelkészség (FIF) munkájában végéhez érkezett egy hároméves folyamat. Ennek apropóján a FIF munkatársai Kovács Gergely gyulafehérvári érsekkel találkoztak, hogy átbeszéljék az elkövetkezendő öt év terveit.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Lámpással a versek mélységében – Naputas szerzők művei Halmai Tamás hangjára hangolva",
-          "url": "https://magyarkurir.hu/hirek/lajtos-nora-halmai-tamas-koteterol"
+          "cim": "Kovács Gergely érsek véleményezte a gyulafehérvári főegyházmegyei ifjúsági lelkészség stratégiáját",
+          "url": "https://magyarkurir.hu/hirek/kovacs-gergely-ersek-velemenyezte-gyulafehervari-foegyhazmegyei-ifjusagi-folelkeszseg-strategiajat"
         }
       ]
     },
     {
-      "cim": "„A temető nem a vég, hanem a kezdet” – Kosztolányi Dezső hite és gondolatai a halálról",
-      "lead": "Kilencven évvel ezelőtt, 1936. november harmadikán hunyt el Kosztolányi Dezső. A nagy költő, író fiatalon távozott, 51 évet élt. Betegségével 1933-ban szembesült; többször is megoperálták, élete utolsó hónapjaiban sokat szenvedett, erről, kortársi beszámolók mellett, úgynevezett „beszélgetőlapjai” is tudósítanak…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "„A temető nem a vég, hanem a kezdet” – Kosztolányi Dezső hite és gondolatai a halálról",
-          "url": "https://zarandok.ma/a-temeto-nem-a-veg-hanem-a-kezdet-kosztolanyi-dezso-hite-es-gondolatai-a-halalrol/"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa üzenete a cuscói érsek halálára: rendíthetetlen hűségű pásztor",
-      "lead": "Leó pápa szombaton kézzel írt, autográf üzenetet küldött Estrada Herrera cuscói érseknek, melyben részvétét nyilvánítja Richard Alarcón Urrutia érsek halála miatt, aki október 30-án pénteken hunyt el 74 éves korában, hosszú betegség után. A pápa üzenete emlékeztet az elhunyt cuscói érsek Istennek és az Egyháznak…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa üzenete a cuscói érsek halálára: rendíthetetlen hűségű pásztor",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-uzenet-reszvet-elhunyt-cuscoi-ersek-halala-ima-egyutt.html"
-        }
-      ]
-    },
-    {
-      "cim": "XIV. Leó pápa felhívásai és köszöntései az Úrangyala elimádkozása után",
-      "lead": "A pápa az új boldogok közbenjárását kérte a misszionáriusokért, elismerését fejezte ki az ukrajnai Oleski város lakossága számára szervezett humanitárius akcióért, áldását küldte a dakari Ifjúsági Olimpiai Játékok résztvevőinek. Bejelentette, hogy halottak napján szentmisét mutat be Róma Verano-i történelmi…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó pápa felhívásai és köszöntései az Úrangyala elimádkozása után",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-angelus-felhivas-ukrajna-beke-boldog-maria-olimpia-dakar.html"
-        }
-      ]
-    },
-    {
-      "cim": "A Tisza-kormány költségvetése ennyi pénzt szán az egyházaknak",
-      "lead": "Egyházi körökben sokan fokozott érdeklődéssel várták az új kormány első költségvetését. Mert miközben a vallási közösségek finanszírozásának átalakítását célzó törvény tavaszra születhet meg, a 2027-es büdzsé az első támpont, amelyből következtetéseket lehet levonni a kabinet szándékairól. A legtöbb soron ugyanakkora…",
+      "cim": "Mit keres az összes magyar katolikus püspök a pápánál?",
+      "lead": "Tegnap valamennyi magyar katolikus egyházmegye vezetője felkerekedett, Rómába utazott az ötévente esedékes úgynevezett ad limina Apostolorum látogatásra. De miről kell számot adniuk a pápának, és mi történik azzal az egyházmegyével, amelynek püspöke máshová került, utódját viszont még nem nevezték ki? A Mit keres az…",
       "forrasok": [
         {
           "nev": "Szemlélek",
-          "cim": "A Tisza-kormány költségvetése ennyi pénzt szán az egyházaknak",
-          "url": "https://szemlelek.net/a-tisza-kormany-koltsegvetese-ennyi-penzt-szan-az-egyhazaknak/"
+          "cim": "Mit keres az összes magyar katolikus püspök a pápánál?",
+          "url": "https://szemlelek.net/mit-keres-az-osszes-magyar-katolikus-puspok-a-papanal/"
         }
       ]
     },
     {
-      "cim": "A Lélek gyümölcse a türelem: Esterházy János élete megmutatja, mit jelent kitartani a kereszt mellett – Lelkesítő",
-      "lead": "Mit jelent valóban türelmesnek lenni? Hogyan lehet megőrizni a hitet, a békességet és a kitartást akkor is, amikor minden remény elveszni látszik? A Lelkesítő legújabb epizódjában Bartha Angéla szociális testvér a Szentlélek egyik különösen fontos gyümölcséről, a türelemről elmélkedik, Esterházy János megrendítő…",
+      "cim": "307. nap: Bátorság a csatában",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged. Köszönjük, Istenünk a jóságodat, köszönjük ezt az új napot. Tudjuk, hogy minden új nappal megújul a te irgalmad is, és szereteted irántunk állandó. Te ugyanaz vagy tegnap, ma és mindörökké, és ezért magasztalunk téged. Segíts, hogy úgy éljük ezt a…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "A Lélek gyümölcse a türelem: Esterházy János élete megmutatja, mit jelent kitartani a kereszt mellett – Lelkesítő",
-          "url": "https://zarandok.ma/a-lelek-gyumolcse-a-turelem-esterhazy-janos-elete-megmutatja-mit-jelent-kitartani-a-kereszt-mellett-lelkesito/"
+          "cim": "307. nap: Bátorság a csatában",
+          "url": "https://zarandok.ma/307-nap-batorsag-a-csataban/"
+        }
+      ]
+    },
+    {
+      "cim": "Napi ráhangoló: Az Atyának való feltétlen engedelmesség",
+      "lead": "Évközi 31. hét, kedd Fil 2,5-11; Lk 14,15-24 „Ezért Isten felmagasztalta őt.” Jézus Krisztus önkiüresítése nem más, mint az Atyának való feltétlen engedelmesség. Jézus mindig engedelmes volt az Atyának, élete minden pillanatában, minden szavával és tettével az Atya irgalmasságát nyilatkoztatta ki, s a vele való élő…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Napi ráhangoló: Az Atyának való feltétlen engedelmesség",
+          "url": "https://zarandok.ma/napi-rahangolo-az-atyanak-valo-feltetlen-engedelmesseg/"
+        }
+      ]
+    },
+    {
+      "cim": "Az evangélikus egyház esete a meleg keresztényekről szóló képregénnyel",
+      "lead": "Keresztény és meleg – Az meg hogy lehet? Ez annak a képregénynek a címe, amelyet nemrég mutattak be a fasori Evangélikus Egyházközségben. Johanna Wikberg svéd – leszbikus kapcsolatban élő – evangélikus lelkész műve komoly vitát váltott ki, a Magyarországi Evangélikus Egyház püspökei pedig közleményben bírálták az…",
+      "forrasok": [
+        {
+          "nev": "Szemlélek",
+          "cim": "Az evangélikus egyház esete a meleg keresztényekről szóló képregénnyel",
+          "url": "https://szemlelek.net/az-evangelikus-egyhaz-esete-a-meleg-keresztenyekrol-szolo-kepregennyel/"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa homíliája Halottak napján: A temető küszöbként szolgál e világ és a túlvilág közt",
+      "lead": "November 2-án hétfőn délután négy órakor Leó pápa a római Verano központi temetőben szentmisét mutatott be az elhunyt lelkekért. Az értük mondott imáink közbenjárnak az örök élet közösségének megvalósulásáért, amelyet a Jó Pásztor ígért juhainak. Ez az üdvösség-üzenet különös lelki erővel visszhangzik egy temetőben…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa homíliája Halottak napján: A temető küszöbként szolgál e világ és a túlvilág közt",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-halottak-napja-verano-temeto-mise-temeto-kuszob-ima.html"
         }
       ]
     }
@@ -155,102 +155,107 @@
           "url": "https://aleteia.org/2026/11/01/pope-leo-xiv-will-go-to-roman-cemetery-for-all-souls-day/"
         },
         {
-          "nev": "Vatican News",
-          "cim": "Carriquiry: Pope’s visit will reconnect Uruguay with its Catholic roots",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/apostolic-journey-uruguay-former-ambassador-carriquiry.html"
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo XIV offers All Souls' Day Mass in cemetery, encouraging Catholics to pray for the dead",
+          "url": "https://www.ncronline.org/vatican/vatican-news/pope-leo-xiv-offers-all-souls-day-mass-cemetery-encouraging-catholics-pray"
         }
       ]
     },
     {
-      "cim": "Becoming a saint is not reserved to a select few people",
-      "lead": "Whenever we celebrate All Saints Day, we are drawn to the multitude of men and women who lived lives of heroic virtue. The Church lifts them up as examples and urges us to imitate them. However, whenever we look at the saints, we inevitably look back at ourselves and think that it is impossible for us to become like…",
+      "cim": "Ukraine ceasefire enables families to reunite before drones start up again",
+      "lead": "In his All Saints Day Angelus on Sunday, November 1, Pope Leo XIV urged new peace efforts in the Russia-Ukraine conflict, following the brief localized ceasefire he had helped to negotiate. “In recent days, a humanitarian operation has been carried out to assist the civilian population in the city of Oleshky,” Pope…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Becoming a saint is not reserved to a select few people",
-          "url": "https://aleteia.org/2026/11/01/becoming-a-saint-is-not-reserved-to-a-select-few-people/"
+          "cim": "Ukraine ceasefire enables families to reunite before drones start up again",
+          "url": "https://aleteia.org/2026/11/03/ukraine-ceasefire-enables-families-to-reunite-before-drones-start-up-again/"
         },
         {
-          "nev": "National Catholic Reporter",
-          "cim": "On this All Saints' Day, we pray with people killed by ICE",
-          "url": "https://www.ncronline.org/spirituality/all-saints-day-we-pray-people-killed-ice"
+          "nev": "Vatican News",
+          "cim": "Ukrainian families reunited as Pope welcomes Oleshky humanitarian ceasefire",
+          "url": "https://www.vaticannews.va/en/world/news/2026-11/ukraine-russia-war-humanitarian-ceasefire-oleshky-evacuations.html"
         }
       ]
     },
     {
-      "cim": "Poll finds 44 per cent of German Catholics back union with Protestants",
-      "lead": "The survey found that 44 per cent of German Catholics favour uniting the country’s two largest Christian denominations, while 30 per cent oppose the proposal. Nationally, 31 per cent of respondents backed a merger",
+      "cim": "NY archbishop joins nuns’ assisted suicide lawsuit",
+      "lead": "The loving care of Catholic religious sisters has surrounded dying New Yorkers for decades, but now, plaintiffs say a new law would force healthcare workers to take an active part in promoting assisted suicide. Aleteia previously reported that Bishop John O. Barres of the Diocese of Rockville Centre sued the state…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "NY archbishop joins nuns’ assisted suicide lawsuit",
+          "url": "https://aleteia.org/2026/11/01/ny-archbishop-joins-nuns-assisted-suicide-lawsuit/"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Archdiocese of New York joins legal fight over assisted suicide",
+          "url": "https://thecatholicherald.com/article/archdiocese-of-new-york-joins-legal-fight-over-assisted-suicide"
+        }
+      ]
+    },
+    {
+      "cim": "Head of German bishops: We want ‘full communion’ with the Pope",
+      "lead": "Bishop Wilmer’s comments to the European bishops indicate the pressure the German episcopate is facing from the Vatican, which is pushing back on plans for the Synodal Conference.",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Poll finds 44 per cent of German Catholics back union with Protestants",
-          "url": "https://thecatholicherald.com/article/poll-finds-44-per-cent-of-german-catholics-back-union-with-protestants"
+          "cim": "Head of German bishops: We want ‘full communion’ with the Pope",
+          "url": "https://thecatholicherald.com/article/head-of-german-bishops-we-want-full-communion-with-the-pope"
         }
       ]
     },
     {
-      "cim": "Catholic nuns take part in Buddhist meditation in Vietnam monastery",
-      "lead": "Around 100 nuns were given a tour of a prominent Buddhist monastery in Hanoi recently, including a guided instruction on Buddhist meditation.",
+      "cim": "Supreme Court takes up religious liberty, LGBTQ rights in Catholic preschool case",
+      "lead": "At issue in St. Mary Catholic Parish v. Roy is whether a Colorado state program violates the First Amendment's free exercise clause because it requires that participating preschools abide by a nondiscrimination policy.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Supreme Court takes up religious liberty, LGBTQ rights in Catholic preschool case",
+          "url": "https://www.ncronline.org/news/supreme-court-takes-religious-liberty-lgbtq-rights-catholic-preschool-case"
+        }
+      ]
+    },
+    {
+      "cim": "The Leo Chronicles: Voice of Africa",
+      "lead": "The Leo Chronicles: Brother Leo continues his search for Gaby in Somalia.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "The Leo Chronicles: Voice of Africa",
+          "url": "https://www.ncronline.org/vatican/leo-chronicles-voice-africa"
+        }
+      ]
+    },
+    {
+      "cim": "Cardinal Vesco’s remarks expose the dangers of ‘beige Catholicism’",
+      "lead": "Bishop Barron’s rebuke of the Archbishop of Algiers highlights a deeper disagreement over the Church’s missionary purpose and the place of conversion in relations with other faiths",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Catholic nuns take part in Buddhist meditation in Vietnam monastery",
-          "url": "https://thecatholicherald.com/article/catholic-nuns-take-part-in-buddhist-meditation-in-vietnam-monastery"
+          "cim": "Cardinal Vesco’s remarks expose the dangers of ‘beige Catholicism’",
+          "url": "https://thecatholicherald.com/article/cardinal-vesco-s-remarks-expose-the-dangers-of-beige-catholicism"
         }
       ]
     },
     {
-      "cim": "Archbishop of Luján: 'An entire people stands with open arms to welcome the Pope'",
-      "lead": "Archbishop Jorge Eduardo Scheinig describes the atmosphere in Luján, the spiritual heart of Argentina, where Pope Leo XIV will visit on 11 November during his Apostolic Journey to Latin America. Read all",
+      "cim": "‘War and conflict are not inevitabilities’, bishops tell political leaders",
+      "lead": "Bishops Nicholas Hudson and William Kenney called on political leaders to pursue meaningful disarmament, warning that conflict brings suffering beyond those killed in fighting",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Archbishop of Luján: 'An entire people stands with open arms to welcome the Pope'",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/archbishop-lujan-argentina-people-open-pope-leo-trip-papal.html"
+          "nev": "Catholic Herald",
+          "cim": "‘War and conflict are not inevitabilities’, bishops tell political leaders",
+          "url": "https://thecatholicherald.com/article/war-and-conflict-are-not-inevitabilities-bishops-tell-political-leaders"
         }
       ]
     },
     {
-      "cim": "Archeparchy of Haifa condemns attack on Maronite prayer hall in Nahariya",
-      "lead": "Following an act of vandalism committed on 1 November in northern Israel against a Maronite prayer hall in Nahariya, the Maronite Archeparchy of Haifa firmly asserts that \"such acts can neither be justified nor tolerated\" and calls on the authorities to conduct an investigation. Read all",
+      "cim": "Pope Leo’s ‘Benedict Option’ to vote",
+      "lead": "Objections to the idea of a pope voting have ranged from the practical to the conceptual. But do they hold water?",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Archeparchy of Haifa condemns attack on Maronite prayer hall in Nahariya",
-          "url": "https://www.vaticannews.va/en/world/news/2026-11/archeparchy-of-haifa-condemns-attack-on-prayer-hall-in-nahariya.html"
-        }
-      ]
-    },
-    {
-      "cim": "This All Souls' Day, consider the Christian call to tend our dead",
-      "lead": "In Joseph Orso's rural Wisconsin community, family and friends are learning the sacred practice of caring for the bodies of loved ones in the days after death.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "This All Souls' Day, consider the Christian call to tend our dead",
-          "url": "https://www.ncronline.org/opinion/all-souls-day-consider-christian-call-tend-our-dead"
-        }
-      ]
-    },
-    {
-      "cim": "AI doesn't die — and that makes all the difference",
-      "lead": "As artificial intelligence continues to widen the world of possibilities at breakneck speed, prompting Pope Leo XIV to issue caution with its use, it is worth noting that AI lacks something distinctively human: death.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "AI doesn't die — and that makes all the difference",
-          "url": "https://www.ncronline.org/spirituality/ai-doesnt-die-and-makes-all-difference"
-        }
-      ]
-    },
-    {
-      "cim": "Podcast: Pope Leo XIV is calling us to peace, says professor Ken Butigan",
-      "lead": "Pope Leo \"wants the church to take nonviolence seriously and put it into practice,\" said the activist, author and professor.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Podcast: Pope Leo XIV is calling us to peace, says professor Ken Butigan",
-          "url": "https://www.ncronline.org/opinion/guest-voices/podcast-pope-leo-xiv-calling-us-peace-says-professor-ken-butigan"
+          "nev": "The Pillar",
+          "cim": "Pope Leo’s ‘Benedict Option’ to vote",
+          "url": "https://www.pillarcatholic.com/p/pope-leos-benedict-option-to-vote"
         }
       ]
     }
