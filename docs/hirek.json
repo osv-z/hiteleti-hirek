@@ -1,7 +1,28 @@
 {
-  "datum": "2026-11-05",
-  "generalva": "2026-11-05T13:42+01:00",
+  "datum": "2026-11-06",
+  "generalva": "2026-11-06T13:24+01:00",
   "hazai": [
+    {
+      "cim": "XIV. Leó elindult Latin-Amerikába, megkezdődött hatodik nemzetközi apostoli útja",
+      "lead": "Leó pápa ITA Airways repülőgépe november 6-án pénteken reggel 7 óra 5 perckor szállt fel Róma-Fiumicino repülőteréről, és több mint tizenhárom órás repülőút után érkezik meg Montevideóba, Uruguay fővárosába. A pápa a három latin-amerikai ország közül elsőként Uruguay-t látogatja meg, ahol mintegy 40 éve nem járt római…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó elindult Latin-Amerikába, megkezdődött hatodik nemzetközi apostoli útja",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-indulas-apostoli-ut-uruguay-montevideo-program-hatosag-ima.html"
+        },
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Leó pápa kinevezte Magyarország új apostoli nunciusát",
+          "url": "https://zarandok.ma/leo-papa-kinevezte-magyarorszag-uj-apostoli-nunciusat/"
+        },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "XIV. Leó pápa elindult dél-amerikai apostoli útja első állomása, Uruguay felé",
+          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-elindult-del-amerikai-apostoli-utja-elso-allomasa-uruguay-fele"
+        }
+      ]
+    },
     {
       "cim": "„A szembenézés nem ér véget az igazság feltárásával” – a Pannonhalmi Főapátság az ügynökaktákról",
       "lead": "„Aki ebből a láncolatból kihagyja az igazságot és a jóvátételt, az az irgalmat olcsóvá teszi; aki kihagyja a megbocsátás lehetőségét, az az igazságot bosszúvá torzítja” – figyelmeztett a Pannonhalmi Főapátság az ügynökakták ma reggeli nyilvánosságra hozatala kapcsán. Körültekintő mérlegelést és szembenézést javasolnak…",
@@ -12,222 +33,153 @@
           "url": "https://777blog.hu/2026/11/04/a-szembenezes-nem-er-veget-az-igazsag-feltarasaval-a-pannonhalmi-foapatsag-az-ugynokaktakrol/"
         },
         {
-          "nev": "Szemlélek",
-          "cim": "Mennyire tartsanak az egyházak az ügynökakták nyilvánosságra hozatalától?",
-          "url": "https://szemlelek.net/mennyire-tartsanak-az-egyhazak-az-ugynokaktak-nyilvanossagra-hozatalatol/"
-        },
-        {
           "nev": "Zarándok.ma",
           "cim": "„A szembenézés nem ér véget az igazság feltárásával” – A Pannonhalmi Főapátság reagált az ügynökakták nyilvánosságra hozatalára",
           "url": "https://zarandok.ma/pannonhalmi-foapatsag-ugynokaktak-reakcio/"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A szembenézés nem ér véget az igazság feltárásával – A Pannonhalmi Főapátság az ügynökaktákról",
-          "url": "https://magyarkurir.hu/hirek/a-szembenezes-nem-er-veget-az-igazsag-feltarasaval-pannonhalmi-foapatsag-az-ugynokaktakrol"
         }
       ]
     },
     {
-      "cim": "Leó pápa kinevezte Magyarország új apostoli nunciusát",
-      "lead": "A Szentatya, XIV. Leó pápa 2026. november 5-én Excellenciás és Főtisztelendő Franco Coppola vindai címzetes érseket Magyarország apostoli nunciusává nevezte ki – tájékoztatott a Magyar Katolikus Püspöki Konferencia Titkársága. Őexcellenciája Mons. Franco Coppola Vinda címzetes érseke 1957. március 31-én született az…",
+      "cim": "Pietro Parolin bíboros: XIV. Leó dél-amerikai útja örömöt és reményt ébreszt a helyi közösségekben",
+      "lead": "November 6-án reggel XIV. Leó pápa elindult hatodik külföldi apostoli útjára, ami Uruguayba, Argentínába és Peruba vezet. A dél-amerikai látogatásról az indulás előtt Massimiliano Menichetti, a Vatican News vezető szerkesztője beszélgetett Pietro Parolin bíboros államtitkárral. Az alábbiakban részleteket olvashatnak…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Pietro Parolin bíboros: XIV. Leó dél-amerikai útja örömöt és reményt ébreszt a helyi közösségekben",
+          "url": "https://magyarkurir.hu/hirek/pietro-parolin-biboros-xiv-leo-del-amerikai-utja-oromot-es-remenyt-ebreszt-helyi-kozossegekben"
+        }
+      ]
+    },
+    {
+      "cim": "Női és férfi szerzetes-elöljárók közös plenáris ülését tartották Budapesten",
+      "lead": "A Magyarországi Rendfőnöknők Konferenciája (MRK) és a Férfi Szerzeteselöljárók Konferenciája (FSZK) évente egyszer együtt is találkozik és tanácskozik. Idén november 3-án tartottak közös plenáris ülést Budapesten, a Sapientia Szerzetesi Hittudományi Főiskolán, több mint nyolcvan szerzetes részvételével.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Női és férfi szerzetes-elöljárók közös plenáris ülését tartották Budapesten",
+          "url": "https://magyarkurir.hu/hirek/noi-es-ferfi-szerzetes-eloljarok-kozos-plenaris-uleset-tartottak-budapesten"
+        }
+      ]
+    },
+    {
+      "cim": "Tagle bíboros óva inti a papokat a mesterséges intelligenciával írt homíliáktól",
+      "lead": "A Fülöp-szigeteki Legazpi Egyházmegye fennállásának 75. évfordulóján Tagle bíboros arra figyelmeztette a papokat, hogy ne engedjenek annak a kísértésnek, hogy homíliáik megírását a ChatGPT-re bízzák. A Nagy Szent Gergely-székesegyházban és környékén összegyűlt több mint hatezer hívő előtt egy alapvető igazságot…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Leó pápa kinevezte Magyarország új apostoli nunciusát",
-          "url": "https://zarandok.ma/leo-papa-kinevezte-magyarorszag-uj-apostoli-nunciusat/"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Székely János püspök köszöntő levele Franco Coppolának, Magyarország új apostoli nunciusának",
-          "url": "https://magyarkurir.hu/hirek/szekely-janos-puspok-koszonto-levele-franco-coppolanak-magyarorszag-uj-apostoli-nunciusanak"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa kinevezte Franco Coppola érseket Magyarország új apostoli nunciusává",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-kinevezes-magyarorszag-apostoli-nunciusa-franco-coppola.html"
+          "cim": "Tagle bíboros óva inti a papokat a mesterséges intelligenciával írt homíliáktól",
+          "url": "https://zarandok.ma/tagle-biboros-mesterseges-intelligencia-homilia/"
         }
       ]
     },
     {
-      "cim": "Kiss-Rigó László ügynökmúltjáról szóló hírekre reagált a Szeged-Csanádi egyházmegye",
-      "lead": "A Szeged-Csanádi Egyházmegye közleményben cáfolta a Kiss-Rigó László püspök ügynökmúltjáról megjelent híreszteléseket, felidézve, hogy a főpásztor 2009-ben már jogerősen pert nyert az ügyben. A 777 szerdán kérdésekkel fordult az egyházmegyéhez, és bízik abban, hogy később személyes interjúban is megszólaltathatja a…",
+      "cim": "XIV. Leó fogadta Bob Dylant a Vatikánban",
+      "lead": "XIV. Leó pápa november 4-én, szerdán délután a vatikáni Apostoli Palotában fogadta Bob Dylant, az irodalmi Nobel-díjas amerikai énekes-dalszerzőt és költőt. A 85 éves művész olaszországi koncertkörútja során érkezett Rómába. A Szentatya korábban, egy leszerelésről szóló könyv előszavában már idézte Dylan egyik, az…",
       "forrasok": [
         {
-          "nev": "777",
-          "cim": "Kiss-Rigó László ügynökmúltjáról szóló hírekre reagált a Szeged-Csanádi egyházmegye",
-          "url": "https://777blog.hu/2026/11/04/kiss-rigo-laszlo-ugynokmultjarol-szolo-hirekre-reagalt-az-egyhazmegye/"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A Szeged-Csanádi Egyházmegye közleménye a Kiss-Rigó László püspököt érintő sajtóhírekről",
-          "url": "https://magyarkurir.hu/hirek/a-szeged-csanadi-egyhazmegye-kozlemenye-kiss-rigo-laszlo-puspokot-erinto-sajtohirekrol"
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó fogadta Bob Dylant a Vatikánban",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-audiencia-bob-dylan-nobel-dijas-amerikai-enekes.html"
         }
       ]
     },
     {
-      "cim": "„Életet adó pásztorok akarunk lenni” – Folytatódik a magyar püspökök ad limina látogatása Rómában",
-      "lead": "Vatikáni dikasztériumok felkeresésével folytatta római programját a Magyar Katolikus Püspöki Konferencia (MKPK). Az ad limina látogatás második napján, november 4-én reggel a Santa Maria Maggiore-bazilikában mutattak be magyar nyelvű szentmisét, amelynek főcelebránsa Udvardy György veszprémi érsek volt. Homíliájában a…",
+      "cim": "„Fegyverezzük le a szavainkat” – A pápai audienciáról és az ad limina látogatás harmadik napjáról",
+      "lead": "XIV. Leó pápa derűje, a szerzetesközösségek jövője és őszinte párbeszéd Magyarországról: az ad limina látogatás harmadik napjának estéjén Varga László kaposvári megyéspüspök, Hortobágyi Cirill pannonhalmi főapát és Mohos Gábor esztergom-budapesti segédpüspök osztotta meg tapasztalatait a Kardinális YouTube-csatornával.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "„Fegyverezzük le a szavainkat” – A pápai audienciáról és az ad limina látogatás harmadik napjáról",
+          "url": "https://magyarkurir.hu/hirek/-fegyverezzuk-le-szavainkat-papai-audienciarol-es-az-ad-limina-latogatas-harmadik-napjarol"
+        }
+      ]
+    },
+    {
+      "cim": "Kik szervezték be az egyházi ügynököket? A diktatúra igazi fenntartóinak nyomában",
+      "lead": "Miközben a nyilvánosság az egykori állambiztonsági hálózat tagjainak neveit böngészi, hajlamosak vagyunk megfeledkezni azokról, akik a beszervezéseket kitervelték, a jelentéseket megrendelték, és a diktatúra egyházpolitikáját működtették. A történelmi és erkölcsi felelősség ugyanis nem ér véget az ügynök kartonjánál…",
+      "forrasok": [
+        {
+          "nev": "Szemlélek",
+          "cim": "Kik szervezték be az egyházi ügynököket? A diktatúra igazi fenntartóinak nyomában",
+          "url": "https://szemlelek.net/kik-szerveztek-be-az-egyhazi-ugynokoket-a-diktatura-igazi-fenntartoinak-nyomaban/"
+        }
+      ]
+    },
+    {
+      "cim": "A 19. századi szent, aki a 21. század fiataljait is értené – Don Bosco pedagógiájának 7 tanulsága",
+      "lead": "Lassan már egy hetünk, napunk sem telik el anélkül, hogy ne hallanánk valakit az állandó kapkodásra panaszkodni. A digitalizáció, az egyre gyorsuló és változó világ a legfiatalabb generációkra is hatást gyakorol. Mindez a pedagógusoknak, cégvezetőknek is feladják a leckét, a fiatalok nevelésében és vezetésében pedig…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "„Életet adó pásztorok akarunk lenni” – Folytatódik a magyar püspökök ad limina látogatása Rómában",
-          "url": "https://zarandok.ma/ad-limina-latogatas-roma-udvardy-gyorgy-szerda/"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Megkezdődött a magyar püspökök vatikáni ad limina látogatása",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/magyar-puspokok-ad-limina-latogatas-megkezdodott.html"
+          "cim": "A 19. századi szent, aki a 21. század fiataljait is értené – Don Bosco pedagógiájának 7 tanulsága",
+          "url": "https://zarandok.ma/don-bosco-pedagogia-z-generacio-alfa/"
         }
       ]
     },
     {
-      "cim": "XIV. Leó katekézise: Reményt ad az a politika, amely gyógyítja a népek sebeit és orvosolja az igazságtalanságokat",
-      "lead": "A gazdaságnak és a politikának az embert, a közjót és a békét kell szolgálnia – emelte ki XIV. Leó pápa november 4-én, szerdán a Szent Péter téren tartott általános kihallgatáson. A II. Vatikáni Zsinat Gaudium et spes kezdetű lelkipásztori konstitúciójáról szóló katekézissorozatában a Szentatya a gazdasági fejlődés, a…",
+      "cim": "310. nap: Harc a szívedért",
+      "lead": "Korszak: Makkabeus-felkelés Ima Mennyei Atyánk, dicsőítünk téged. Hálát adunk neked, köszönjük a te igédet, köszönjük ezt a napot. Köszönjük, hogy újra és újra visszavezetsz bennünket magadhoz, hogy emlékeztess: nemcsak szeretsz minket, nemcsak érdeklődsz irántunk, hanem terved van velünk. Van egy cél, ahová el akarsz…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "XIV. Leó katekézise: Reményt ad az a politika, amely gyógyítja a népek sebeit és orvosolja az igazságtalanságokat",
-          "url": "https://zarandok.ma/xiv-leo-papa-audiencia-november-4-katekezis/"
-        },
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó katekézise: Reményt ad az a politika, amely gyógyítja a népek sebeit és orvosolja az igazságtalanságokat",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-szerda-katekezis-gaudium-et-spes-politika-remeny-kozjo.html"
-        }
-      ]
-    },
-    {
-      "cim": "Zarándoklat és keresztáldás a balatonszemesi pálos emlékhelynél Mindenszentek előestéjén",
-      "lead": "Október 31-én, szombaton délután különleges zarándoklat indult Balatonszemesen. Résztvevői az idén januárban átadott balatonszemesi pálos tematikus út egyik útvonalán, a „Lélek útján” keresték fel az egykori pálos kolostor emlékhelyét. A program egyik kiemelkedő eseménye volt egy több száz éves felújított barokk…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Zarándoklat és keresztáldás a balatonszemesi pálos emlékhelynél Mindenszentek előestéjén",
-          "url": "https://magyarkurir.hu/hirek/zarandoklat-es-keresztaldas-balatonszemesi-palos-emlekhelynel-mindenszentek-eloestejen"
-        }
-      ]
-    },
-    {
-      "cim": "„Olajozott” élet - Sajgó Balázs atya elmélkedése az évközi 32. vasárnapra",
-      "lead": "A tudatos ember nem élhet tudatosan a másik ember helyett. Olvasd el mindet",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "„Olajozott” élet - Sajgó Balázs atya elmélkedése az évközi 32. vasárnapra",
-          "url": "https://www.vaticannews.va/hu/egyhaz/news/2026-11/sajgo-balazs-atya-elmelkedes-evkozi-32-vasarnapra-olajozott-elet.html"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa homíliája az elmúlt évben elhunyt bíborosokért, püspökökért: emlékezni kötelesség",
-      "lead": "November 5-én, csütörtök délelőtt kilenc órakor Leó pápa a Szent Péter bazilika Katedra-oltáránál szentmisét mutatott be az utóbbi évben elhuny bíborosok és püspökök lelkiüdvéért. A Szentatyával koncelebráló főpásztorok sorát a bevonuláskor a magyar katolikus püspöki konferencia tagjai nyitották meg, élükön Székely…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa homíliája az elmúlt évben elhunyt bíborosokért, püspökökért: emlékezni kötelesség",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-elhunyt-puspokok-biborosok-mise-ima-emlekezes-orok-elet.html"
-        }
-      ]
-    },
-    {
-      "cim": "Leó pápa novemberi imaszándéka: „a javak helyes felhasználásáért”",
-      "lead": "XIV. Leó pápa közzétette novemberi imaszándékát, és arra hívja a katolikus híveket, imádkozzanak „a javak helyes felhasználásáért”, hogy felismerjük: az igazi gazdagság nem a felhalmozásban és a birtoklásban, hanem a szeretetből fakadó adakozásban rejlik. A Szentatya közzé tette a „Imádkozz a pápával!” (Pray with the…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Leó pápa novemberi imaszándéka: „a javak helyes felhasználásáért”",
-          "url": "https://zarandok.ma/leo-papa-november-imaszandek-javak-felhasznalasa/"
-        }
-      ]
-    },
-    {
-      "cim": "Életünk Krisztusban nem vész el – XIV. Leó pápával ünnepeltek szentmisét a magyar püspökök",
-      "lead": "November 5-én délelőtt a Szentatya a Szent Péter-bazilikában mutatott be szentmisét az elmúlt évben elhunyt bíborosokért és püspökökért. A misén a Magyar Katolikus Püspöki Konferencia (MKPK) tagjai is részt vettek, akik november 3. és 7. között ad limina látogatást tesznek Rómában. A mai nap folyamán XIV. Leó pápa…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Életünk Krisztusban nem vész el – XIV. Leó pápával ünnepeltek szentmisét a magyar püspökök",
-          "url": "https://magyarkurir.hu/hirek/eletunk-krisztusban-nem-vesz-el-xiv-leo-papaval-unnepeltek-szentmiset-magyar-puspokok"
+          "cim": "310. nap: Harc a szívedért",
+          "url": "https://zarandok.ma/310-nap-harc-a-szivedert/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Pope Leo receives Bob Dylan at the Vatican",
-      "lead": "The renowned American singer-songwriter and poet—a Nobel laureate in literature, currently touring Italy with a stop in Rome—was received this afternoon at the Apostolic Palace by Leo XIV. The Pontiff had previously quoted his lyrics in the preface to a book on disarmament. Read all",
+      "cim": "California governor commutes all 548 of state’s death sentences",
+      "lead": "California had the largest Death Row in the Western Hemisphere, with 548 prisoners under sentence of death. On Thursday, November 5, California’s outgoing governor Gavin Newsom exercised his prerogative to commute all death sentences to sentences of life without the possibility of parole. Such commutations, at both…",
       "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "California governor commutes all 548 of state’s death sentences",
+          "url": "https://aleteia.org/2026/11/06/california-governor-commutes-all-548-of-states-death-sentences/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "California Governor commutes all of US state’s 548 death sentences",
+          "url": "https://www.vaticannews.va/en/world/news/2026-11/california-governor-commutes-all-of-us-state-s-548-death-sentenc.html"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Gavin Newsom to commute all 548 death sentences in California",
+          "url": "https://thecatholicherald.com/article/gavin-newsom-to-commute-all-548-death-sentences-in-california"
+        }
+      ]
+    },
+    {
+      "cim": "Bob Dylan, Pope Leo, and a rather unlikely duet",
+      "lead": "Bob Dylan has been confounding expectations for most of his 85 years, and Wednesday’s visit to the Vatican was no exception. While Pope Leo welcomed his famous guest in traditional papal white, Dylan turned up in black, complete with a hoodie pulled over his head. Not exactly the outfit most people would choose for an…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Bob Dylan, Pope Leo, and a rather unlikely duet",
+          "url": "https://aleteia.org/2026/11/05/bob-dylan-pope-leo-and-a-rather-unlikely-duet/"
+        },
         {
           "nev": "Vatican News",
           "cim": "Pope Leo receives Bob Dylan at the Vatican",
           "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-receives-bob-dylan-at-the-vatican.html"
         },
         {
-          "nev": "National Catholic Reporter",
-          "cim": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-          "url": "https://www.ncronline.org/vatican/bob-dylan-comes-knockin-popes-door-leo-welcomes-legend-vatican"
+          "nev": "Catholic Herald",
+          "cim": "Bob Dylan meets Pope Leo XIV, 29 years after his encounter with John Paul II",
+          "url": "https://thecatholicherald.com/article/pope-leo-xiv-meets-bob-dylan-at-the-vatican-ahead-of-rome-concert-29-years-after-john-paul-ii-encounter"
         }
       ]
     },
     {
-      "cim": "Pope’s November prayer focuses on sharing our gifts",
-      "lead": "“The Lord is the refuge of the poor” is the title of Pope Leo XIV’s Message for the 10th World Day of the Poor for this month of November and the Pontiff’s prayer intention for this month is the “proper use of wealth”. Through the Pope’s Worldwide Prayer Network — with the campaign Pray with the Pope — the Holy Father…",
+      "cim": "Cardinal Parolin wonders about effects of US midterms",
+      "lead": "The results of the US midterm elections will “certainly bring changes,” Cardinal Pietro Parolin, the Vatican secretary of state, told reporters November 5, 2026. Speaking on the sidelines of a conference in Rome marking the centenary of the ordination of the first Chinese bishops, the Vatican’s second-ranking official…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Pope’s November prayer focuses on sharing our gifts",
-          "url": "https://aleteia.org/2026/11/04/popes-november-prayer-focuses-on-sharing-our-gifts/"
+          "cim": "Cardinal Parolin wonders about effects of US midterms",
+          "url": "https://aleteia.org/2026/11/06/cardinal-parolin-wonders-about-effects-of-us-midterms/"
         },
-        {
-          "nev": "Vatican News",
-          "cim": "Pope's November prayer intention: 'For the proper use of wealth'",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-november-prayer-intention-for-the-proper-use-of-wealth.html"
-        }
-      ]
-    },
-    {
-      "cim": "Supreme Court hears challenge to Catholic preschools' exclusion from Colorado-funded program",
-      "lead": "The Trump administration joined the Archdiocese of Denver on Tuesday in urging the Supreme Court to overturn a ruling allowing a state-funded preschool program in Colorado to exclude Roman Catholic schools that don't comply with equal-opportunity requirements — the latest religious-rights case before the…",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Supreme Court hears challenge to Catholic preschools' exclusion from Colorado-funded program",
-          "url": "https://www.ncronline.org/news/supreme-court-hears-challenge-catholic-preschools-exclusion-colorado-funded-program"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Supreme Court considers religious freedom case involving Catholic preschools",
-          "url": "https://thecatholicherald.com/article/supreme-court-considers-religious-freedom-case-involving-catholic-preschools"
-        }
-      ]
-    },
-    {
-      "cim": "Vatican presents Pope Leo's Apostolic Journey to Latin America",
-      "lead": "Ahead of the Holy Father's Apostolic Journey to Latin America, the Holy See Press Office offered journalists a briefing on Tuesday, November 3, on the papal journey which will see Pope Leo visit Uruguay, Argentina, and Peru, where the Holy Father served for decades as a missionary and Bishop. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Vatican presents Pope Leo's Apostolic Journey to Latin America",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/vatican-press-office-presents-pope-leo-s-journey-latin-america.html"
-        }
-      ]
-    },
-    {
-      "cim": "Pope chooses theme for 2027 World Day of the Sick",
-      "lead": "Pope Leo XIV announces the theme for the 2027 World Day of the Sick, highlighting the role of Christian communities and civil society in caring for the sick, the elderly, and those who suffer. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Pope chooses theme for 2027 World Day of the Sick",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-theme-world-day-sick-2027-caring-for-every-person.html"
-        }
-      ]
-    },
-    {
-      "cim": "Cardinal Parolin expresses hopes for cooperation after US midterm elections",
-      "lead": "Cardinal Secretary of State Pietro Parolin speaks to journalists on the sidelines of an event at the Pontifical Urbaniana University and comments on the US midterm elections and the China-Holy See Agreement. Read all",
-      "forrasok": [
         {
           "nev": "Vatican News",
           "cim": "Cardinal Parolin expresses hopes for cooperation after US midterm elections",
@@ -236,46 +188,84 @@
       ]
     },
     {
-      "cim": "£2.3m project to restore Nottingham Cathedral’s Pugin decorations nears completion",
-      "lead": "The 66-week project has restored three chapels and three ambulatories, uncovering intricate Gothic decoration hidden beneath layers of grey paint",
+      "cim": "Pope: Let us not allow remembrance of the dead to become mere nostalgia",
+      "lead": "As is tradition, Pope Leo celebrated a Mass today for the souls of the cardinals and bishops who have passed away since last year. This year, that group includes seven cardinals and 136 bishops, who passed away between October 2025 and the end of last month. In his homily, the Holy Father drew on Scripture’s…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Pope: Let us not allow remembrance of the dead to become mere nostalgia",
+          "url": "https://aleteia.org/2026/11/05/pope-let-us-not-allow-remembrance-of-the-dead-to-become-mere-nostalgia/"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "What happens if a pope becomes incapacitated?",
+          "url": "https://thecatholicherald.com/article/what-happens-if-a-pope-becomes-incapacitated"
+        }
+      ]
+    },
+    {
+      "cim": "Safe travels, Holy Father!",
+      "lead": "Pope Leo XIV’s plane took off at 7:05 a.m. on November 6, 2026, from Rome’s Fiumicino Airport, bound for Montevideo-Carrasco International Airport in Uruguay. Uruguay will be the inaugural leg of his sixth apostolic journey as pontiff, a 12-day tour that will also see him visit Argentina and spend an extended time in…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Safe travels, Holy Father!",
+          "url": "https://aleteia.org/2026/11/06/safe-travels-holy-father/"
+        }
+      ]
+    },
+    {
+      "cim": "St. Paul VI was the first pope to travel to South America",
+      "lead": "For those who grew up with St. John Paul II and his frequent international apostolic journeys, it may seem like traveling is simply part of the job of being pope. Yet, in reality, papal travel has been rare in the last 2,000 years, as the pope tended to keep close to Rome. This was due primarily to the fact that for…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "St. Paul VI was the first pope to travel to South America",
+          "url": "https://aleteia.org/2026/11/06/st-paul-vi-was-the-first-pope-to-travel-to-south-america/"
+        }
+      ]
+    },
+    {
+      "cim": "Marian theologians renew call for ‘clarifications’ on Co-Redemptrix text",
+      "lead": "A respected body of theologians has issued a fresh call for answers to their concerns about Mater Populi Fidelis and its caution against the titles Co-Redemptrix and Mediatrix",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "£2.3m project to restore Nottingham Cathedral’s Pugin decorations nears completion",
-          "url": "https://thecatholicherald.com/article/2-3m-project-to-restore-nottingham-cathedral-s-pugin-decorations-nears-completion"
+          "cim": "Marian theologians renew call for ‘clarifications’ on Co-Redemptrix text",
+          "url": "https://thecatholicherald.com/article/marian-theologians-renew-call-for-clarifications-on-co-redemptrix-text"
         }
       ]
     },
     {
-      "cim": "FSSP sees record ordinations as Latin Mass order steadily grows",
-      "lead": "The Fraternity of Saint Peter saw 25 ordinations in 2026, as growth of the Latin Mass order continued apace despite restrictions on the old rite more generally",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "FSSP sees record ordinations as Latin Mass order steadily grows",
-          "url": "https://thecatholicherald.com/article/fssp-sees-record-ordinations-as-latin-mass-order-steadily-grows"
-        }
-      ]
-    },
-    {
-      "cim": "The Vatican communications revolution gets underway",
-      "lead": "Maria Montserrat \"Montse\" Álvarado's appointment was seen as an effort to bring American management style to the Vatican's sprawling communications operation and diversify its historically Italian-dominated leadership.",
+      "cim": "What's the matter with Catholic voters?",
+      "lead": "In a blue tsunami that saw dramatic shifts among nearly every major voting category, one group decided to merely dip its toe in the water: Catholics, Joe Ferullo writes.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "The Vatican communications revolution gets underway",
-          "url": "https://www.ncronline.org/vatican/vatican-communications-revolution-gets-underway"
+          "cim": "What's the matter with Catholic voters?",
+          "url": "https://www.ncronline.org/opinion/guest-voices/whats-matter-catholic-voters"
         }
       ]
     },
     {
-      "cim": "Treatment of El-Sayed's faith, language during midterms was deeply un-Catholic",
-      "lead": "\"Dr. Abdul El-Sayed's Arabic name, his Muslim identity and his religious vocabulary were too often treated this campaign season as if he, and by extension Muslims and Arabic speakers, do not belong in American public life.\"",
+      "cim": "Pope Leo's visit to Buenos Aires revives legacy of Argentine-born Francis",
+      "lead": "\"La grieta\" or the crack, splits Argentina politically into Peronist and non-Peronist camps. It's surfaced as local media obsess over which politicians were invited from Leo's upcoming visit to the president's office.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Treatment of El-Sayed's faith, language during midterms was deeply un-Catholic",
-          "url": "https://www.ncronline.org/opinion/ncr-voices/treatment-el-sayeds-faith-language-during-midterms-was-deeply-un-catholic"
+          "cim": "Pope Leo's visit to Buenos Aires revives legacy of Argentine-born Francis",
+          "url": "https://www.ncronline.org/vatican/pope-leos-visit-buenos-aires-revives-legacy-argentine-born-francis"
+        }
+      ]
+    },
+    {
+      "cim": "What should the Democrats do now?",
+      "lead": "The Republicans could take years to recover from Trumpism; the Democrats can start building a lasting governing coalition now, writes NCR columnist Michael Sean Winters.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "What should the Democrats do now?",
+          "url": "https://www.ncronline.org/opinion/ncr-voices/what-should-democrats-do-now"
         }
       ]
     }
