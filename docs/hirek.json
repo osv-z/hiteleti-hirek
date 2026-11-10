@@ -1,20 +1,36 @@
 {
-  "datum": "2026-11-09",
-  "generalva": "2026-11-09T14:17+01:00",
+  "datum": "2026-11-10",
+  "generalva": "2026-11-10T13:56+01:00",
   "hazai": [
     {
-      "cim": "Leó pápa az utolsó uruguayi miséjén: Nekünk kell elvinnünk Krisztust az emberekhez!",
-      "lead": "November 8-án délelőtt (magyar idő szerint 14.15-kor) a Szentatya a floridai székesegyház előtti téren, a Harminchármak Szűzanyja uruguayi nemzeti kegyhelyen mutatott be szentmisét. Odavezető útján a terveknek megfelelően megállt a Kis Szent Teréz-plébániánál, a templomban röviden imádkozott, majd köszöntötte a kint…",
+      "cim": "XIV. Leó pápa Argentínában szexuális visszaélések öt áldozatával",
+      "lead": "XIV. Leó pápa november 9-én, hétfőn Buenos Airesben több mint egyórás találkozón fogadta az egyházi személyek és intézmények által elkövetett visszaélések öt áldozatát. A Szentatya személyesen meghallgatta történetüket, és kifejezte közelségét, valamint elkötelezettségét az áldozatok védelmének, befogadásának és…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Leó pápa az utolsó uruguayi miséjén: Nekünk kell elvinnünk Krisztust az emberekhez!",
-          "url": "https://magyarkurir.hu/hirek/leo-papa-az-utolso-uruguayi-misejen-nekunk-kell-elvinnunk-krisztust-az-emberekhez"
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó pápa Argentínában szexuális visszaélések öt áldozatával",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-argentina-talalkozo-szexualis-visszaelesek-ot-aldozata.html"
         },
         {
+          "nev": "Magyar Kurír",
+          "cim": "XIV. Leó pápa az egyházi visszaélések öt áldozatával találkozott Argentínában",
+          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-az-egyhazi-visszaelesek-ot-aldozataval-talalkozott-argentinaban"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa homíliája Buenos Airesben: A család ma is az emberi élet sarokköve",
+      "lead": "A Szentatya hétfőn délelőtt tíz órakor szentmisét mutatott be Buenos Airesben a „Spanyolok terén”, melynek közepén áll a „Magna Charta és a négy argentin régió” emlékműve, melyet a helyi spanyol közösség emelt a két háború között. November 9-e a Lateráni bazilika felszentelésének napja, ezért Leó pápa Isten temploma…",
+      "forrasok": [
+        {
           "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó pápa elindult Uruguayból Argentínába",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-elindult-uruguaybol-argentinaba-buenos-aires-programjai.html"
+          "cim": "Leó pápa homíliája Buenos Airesben: A család ma is az emberi élet sarokköve",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-buenos-aires-mise-csalad-laterani-bazilika-ima-otthon.html"
+        },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Leó pápa homíliája Buenos Airesben: A keresztény család nem idejétmúlt, hanem korunk biztos támasza",
+          "url": "https://magyarkurir.hu/hirek/leo-papa-homiliaja-buenos-airesben-kereszteny-csalad-nem-idejetmult-hanem-korunk-biztos-tamasza"
         }
       ]
     },
@@ -35,212 +51,206 @@
       ]
     },
     {
-      "cim": "Az új város a szeretet, az együttélés és a béke városa, építése a „szeretet civilizációja”",
-      "lead": "Hétfőn reggel, helyi idő szerint negyed 10-kor Leó pápa felkereste a Buenos Airestől délre található Claypole-ban az „Argentin Don Orione Kis Cottolengo”, fogyatékkal élők számára létrehozott, történelmi jelentőségű befogadó- és gondozóintézményt. Krisztus szeretete minden ember végtelen méltóságának alapja – hirdette…",
+      "cim": "Harmadik elnöki ciklusát kezdi Makláry Ákos a Keresztény Értelmiségiek Szövetsége élén",
+      "lead": "November 7-én tartotta őszi küldöttgyűlését a Keresztény Értelmiségiek Szövetsége (KÉSZ) Budapesten, a Párbeszéd Házában, ahol harmadik alkalommal is Makláry Ákos görögkatolikus papot választották meg a szervezet elnökének. Az esti ünnepségen a KÉSZ legrangosabb elismerését, a Szent Adalbert-díjat Bábel Balázs…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Harmadik elnöki ciklusát kezdi Makláry Ákos a Keresztény Értelmiségiek Szövetsége élén",
+          "url": "https://magyarkurir.hu/hirek/harmadik-elnoki-ciklusat-kezdi-maklary-akos-kereszteny-ertelmisegiek-szovetsege-elen"
+        }
+      ]
+    },
+    {
+      "cim": "XIV. Leó hétfőn este üdvözölte a híveket Buenos Airesben: Éljen Krisztus!",
+      "lead": "„Köszönöm, Buenos Aires! Köszönöm, Argentína!” – ezekkel a szavakkal köszöntötte Leó pápa a főváros székesegyháza előtt összegyűlt híveket november 9-én, hétfőn este. A Szentatya váratlanul megjelent az érsek palota erkélyén, miután együtt vacsorázott az argentin püspökökkel a vesperás elimádkozását követően. Olvasd…",
       "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Az új város a szeretet, az együttélés és a béke városa, építése a „szeretet civilizációja”",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-claypole-argentin-don-orione-kis-cottolengo-latogatas.html"
+          "cim": "XIV. Leó hétfőn este üdvözölte a híveket Buenos Airesben: Éljen Krisztus!",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-buenos-aires-vesperas-utan-udvozolte-hiveket-krisztus.html"
         }
       ]
     },
     {
-      "cim": "Snétberger Ferenc gitárművész volt a Szent Miklós Görögkatolikus Roma Szakkollégium vendége",
-      "lead": "különleges vendéget köszönthetett november 3-án a debreceni Szent Miklós Görögkatolikus Roma Szakkollégium a „Keddi kerekasztal” programsorozat keretében: Snétberger Ferencet, a nemzetközi szinten elismert, Kossuth- és Liszt-díjas roma gitárművészt és zeneszerzőt. A szervezők beszámolóját szerkesztve olvashatják.",
+      "cim": "XIV. Leó pápa fehér rózsát kapott Ferenc pápa rokonaitól Buenos Airesben",
+      "lead": "Leó pápa november 9-én, hétfőn este Buenos Aires székesegyházában imádsággal tisztelgett elődje, Ferenc pápa emléke előtt. A szertartáson jelen volt Jorge Mario Bergoglio nyolc unokaöccse és unokahúga is, akik egy fehér rózsával ajándékozták meg a Szentatyát. A virág különleges jelentőséggel bírt Ferenc pápa életében…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó pápa fehér rózsát kapott Ferenc pápa rokonaitól Buenos Airesben",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-buenos-aires-feher-rozsa-ferenc-papa-rokonaitol.html"
+        }
+      ]
+    },
+    {
+      "cim": "Elhunyt Barta Mária, a Magyarok Nagyasszonya Női Apostoli Élet Társasága korábbi rendfőnöke",
+      "lead": "A gyászoló család szomorú szívvel tudatja, hogy Barta Mária, a Magyarok Nagyasszonya Női Apostoli Élet Társasága tagja, 2024-ig rendfőnöke 67. életévében, váratlanul elhunyt. Életét Istennek és embertársainak szentelte.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Snétberger Ferenc gitárművész volt a Szent Miklós Görögkatolikus Roma Szakkollégium vendége",
-          "url": "https://magyarkurir.hu/hirek/snetberger-ferenc-gitarmuvesz-volt-szent-miklos-gorogkatolikus-roma-szakkollegium-vendege"
+          "cim": "Elhunyt Barta Mária, a Magyarok Nagyasszonya Női Apostoli Élet Társasága korábbi rendfőnöke",
+          "url": "https://magyarkurir.hu/hirek/elhunyt-barta-maria-magyarok-nagyasszonya-noi-apostoli-elet-tarsasaga-tagja"
         }
       ]
     },
     {
-      "cim": "Az egység szolgálatában – Megtartották a Ferences Szegénygondozó Nővérek általános káptalanját",
-      "lead": "A Ferences Szegénygondozó Nővérek közössége október 21. és 25. között tartotta általános káptalanját Esztergomban, a rend központjában. A magyar alapítású szerzetesközösség kiemelt összejövetelére négyévente kerül sor, melynek keretében vezetőséget választank, és rátekintenek a közösség életére.",
+      "cim": "„Hogy életük legyen” – Imádságban és párbeszédben készül a káptalanra a piarista közösség",
+      "lead": "„Hogy életük legyen” (Jn 10,10b) evangéliumi üzenettel szervezik meg a piarista rend 49. Egyetemes Káptalanját 2027 júliusában Rómában. A magyar rendtartományban már zajlik a káptalani felkészülés, melynek középpontjában az imádság, egymás meghallgatása és a közös jövő keresése áll.",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Az egység szolgálatában – Megtartották a Ferences Szegénygondozó Nővérek általános káptalanját",
-          "url": "https://magyarkurir.hu/hirek/az-egyseg-szolgalataban-megtartottak-ferences-szegenygondozo-noverek-altalanos-kaptalanjat"
+          "cim": "„Hogy életük legyen” – Imádságban és párbeszédben készül a káptalanra a piarista közösség",
+          "url": "https://magyarkurir.hu/hirek/-hogy-eletuk-legyen-imadsagban-es-parbeszedben-keszul-kaptalanra-piarista-kozosseg"
         }
       ]
     },
     {
-      "cim": "Bátorság, gyász és remény – Ökumenikus zsűri a 31. Schlingel Gyermek és Ifjúsági Filmfesztiválon",
-      "lead": "Bátorság, útkeresés, gyász és magány témái keveredtek azokban az alkotásokban, amelyeket a németországi Chemnitzben tartott Schlingel Gyermek és Ifjúsági Filmfesztiválon láthatott a közönség október 2–10. között.",
+      "cim": "Az Új Ember szeptember 27-ei száma",
+      "lead": "A tartalomból: Örömet hozott az Egyház életébe a kaposvári KATTÁRS Forráspont-imaest a Szent István-bazilikában Százharminc éves a debreceni Svetits Sivadó Balázs útja a szalézi rend és a papság felé Képes összeállításunk a kaposvári KATTÁRSról A Az Új Ember szeptember 27-ei száma bejegyzés először a Magyar Kurír - Új…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Bátorság, gyász és remény – Ökumenikus zsűri a 31. Schlingel Gyermek és Ifjúsági Filmfesztiválon",
-          "url": "https://magyarkurir.hu/hirek/batorsag-gyasz-es-remeny-okumenikus-zsuri-31-schlingel-gyermek-es-ifjusagi-filmfesztivalon"
+          "nev": "Új Ember",
+          "cim": "Az Új Ember szeptember 27-ei száma",
+          "url": "https://ujember.hu/az-uj-ember-szeptember-27-ei-szama/"
         }
       ]
     },
     {
-      "cim": ",,Lebénultak a lábai, 4 hónap után újra lovon ült!” – Amberley Snyder amerikai rodeós megható története",
-      "lead": "Mi történik akkor, amikor egy 19 éves lány egyik nap még a rodeóversenyre készül, a következő nap pedig egy autóbalesetben úgy sérül meg a csigolyája, hogy tolószékbe kerül? Hogyan fogadják a hírt a testvérei, a szülei? Hogyan segít neki a hite? És vajon vissza tud-e még valaha ülni a lóra, hogy versenyezzen?…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": ",,Lebénultak a lábai, 4 hónap után újra lovon ült!” – Amberley Snyder amerikai rodeós megható története",
-          "url": "https://777blog.hu/2026/11/09/lebenultak-a-labai-4-honap-utan-ujra-lovon-ult-amberley-snyder-amerikai-rodeos-meghato-tortenete/"
-        }
-      ]
-    },
-    {
-      "cim": "Hodász András: A cölibátus értelme és dicsérete",
-      "lead": "Legutóbbi cikkem a Szemléleken a római katolikus papok gyerekeiről szólt, melynek kapcsán a kommentszekcióban vita alakult ki a cölibátusról. A leggyakoribb megjegyzés az volt, hogy ezt a gyakorlatot Róma pusztán az egyházi vagyon megőrzése végett vezette be. Egykori egyháztörténész hallgatóként és úgy is, mint aki…",
-      "forrasok": [
-        {
-          "nev": "Szemlélek",
-          "cim": "Hodász András: A cölibátus értelme és dicsérete",
-          "url": "https://szemlelek.net/hodasz-andras-a-colibatus-ertelme-es-dicserete/"
-        }
-      ]
-    },
-    {
-      "cim": "A kedvesség nem gyengeség, hanem döntés – Lelkesítő",
-      "lead": "Egy mosoly, egy jó szó, egy figyelmes gesztus – apróságoknak tűnnek, mégis képesek megváltoztatni emberi kapcsolatainkat. A Lelkesítő legújabb adásában Bartha Angéla szociális testvér a Szentlélek újabb gyümölcséről, a kedvességről elmélkedik. Arra hív, hogy ne csupán a számunkra szerethető emberekhez forduljunk…",
+      "cim": "Ébredjünk rá Isten közelségére! – November 29-én indul az Adventi ráhangoló",
+      "lead": "Advent első vasárnapján, november 29-én ismét elindul a Zarándok.ma Adventi ráhangoló című videósorozatának 8. évada, amely mindennap evangéliumi elmélkedéssel és egy apró, de tartalmas lelki kihívással segíti a karácsonyra való felkészülést. Az idei adventben négy lelki vezető kíséri a résztvevőket, hogy a…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "A kedvesség nem gyengeség, hanem döntés – Lelkesítő",
-          "url": "https://zarandok.ma/kedvesseg-gyengeseg-szentlelek-bartha-angela/"
-        }
-      ]
-    },
-    {
-      "cim": "313. nap: Az Újszövetség frigyládája",
-      "lead": "Korszak: Messiási beteljesedés Ima Mennyei Atyánk, dicsőítünk és áldunk téged. Köszönjük ezt a fordulópontot, amihez elérkeztünk. Köszönjük ezt az új napot, az új irgalmat, az új kegyelmet és az új ajándékot, amit adtál nekünk. Köszönjük az ígéreteid beteljesítését. Nemcsak az evangéliumban Jézus Krisztust, hanem az…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "313. nap: Az Újszövetség frigyládája",
-          "url": "https://zarandok.ma/313-nap-az-ujszovetseg-frigyladaja/"
+          "cim": "Ébredjünk rá Isten közelségére! – November 29-én indul az Adventi ráhangoló",
+          "url": "https://zarandok.ma/advent-rahangolo-isten-karacsony-jezus/"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Pope: I am proud to be an American",
-      "lead": "Pope Leo XIV spent some 13 hours on a flight to Uruguay on November 6, spending some of the time with the 80 journalists who accompanied him. In greeting them, he introduced Maria Montserrat “Montse” Alvarado, the new Prefect of the Dicastery for Communication. Noting “that many of you already know” her, he praised…",
+      "cim": "Leo in Latin America – a highlight reel (part 1)",
+      "lead": "The pope kicked off his trip to Latin America over the weekend. Here are the highlights so far.",
       "forrasok": [
         {
-          "nev": "Aleteia",
-          "cim": "Pope: I am proud to be an American",
-          "url": "https://aleteia.org/2026/11/07/pope-i-am-proud-to-be-an-american/"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "The Week Ahead: Pope Leo in South America, midterms aftermath and honouring veterans",
-          "url": "https://thecatholicherald.com/article/november-9"
-        }
-      ]
-    },
-    {
-      "cim": "With ode to mate tea, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-      "lead": "The pontiff pointed to the ritual of the bitter herbal tea that Uruguayans and their neighbors carry everywhere, as a poignant symbol of unity and encounter that he suggested should be applied to spreading the faith.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "With ode to mate tea, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-          "url": "https://www.ncronline.org/vatican/ode-mate-pope-leo-urges-faithful-uruguay-build-bridges-fraternity-and-faith"
+          "nev": "The Pillar",
+          "cim": "Leo in Latin America – a highlight reel (part 1)",
+          "url": "https://www.pillarcatholic.com/p/leo-in-latin-america-a-highlight"
         },
         {
           "nev": "Vatican News",
-          "cim": "Pope Leo invites Uruguayan faithful to build bridges for peace",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-prays-our-lady-rosary-paysandu-uruguay.html"
+          "cim": "Pope Leo in Latin America: Christ makes the world truer and freer",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/editorial-menichetti-pope-leo-xiv-latin-america.html"
         }
       ]
     },
     {
-      "cim": "Pope in Argentina: 'May Christ's love triumph over all individualism and exclusion'",
-      "lead": "During the Pope's visit to the Don Orione Care Center in Argentina, Pope Leo prays that Christ’s love may triumph over individualism and exclusion, reminding Argentinians that “charity will save the world” because “God is love.” Read all",
+      "cim": "Pope Leo meets privately with five Argentine abuse survivors",
+      "lead": "Pope Leo XIV met privately Nov. 9 with five people abused by clergy or Church institutions in Argentina, listening individually to their experiences during an encounter that lasted more than an hour, the Holy See Press Office said.",
       "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo meets privately with five Argentine abuse survivors",
+          "url": "https://www.ncronline.org/vatican/pope-leo-meets-privately-five-argentine-abuse-survivors"
+        },
         {
           "nev": "Vatican News",
-          "cim": "Pope in Argentina: 'May Christ's love triumph over all individualism and exclusion'",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-visits-don-orione-cottolengo-in-argentina.html"
+          "cim": "Pope Leo XIV meets with abuse victims in Argentina",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-abuse-victims-argentina-church-healing-protection-closeness.html"
         }
       ]
     },
     {
-      "cim": "Faith can’t be confined to private life: Pope",
-      "lead": "At the legendary Centenario Stadium in Montevideo, on November 7, 2026, Leo XIV expressed his joy at seeing that Uruguayan Catholics “persevere” despite the growing secularization in the country. During a prayer vigil that concluded the second day of his apostolic journey to South America, the Pope spoke out against…",
+      "cim": "Kraków cardinal: Our weakness calls upon God’s power",
+      "lead": "Poland is living two days of national mourning after a rare instance of a mass shooting brought the deaths of six people in Krakow’s Market Square on Saturday. The shooter also killed his parents and sister, it was later found. The cardinal archbishop of Krakow, Grzegorz Wojciech Ryś, quickly released a statement…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Faith can’t be confined to private life: Pope",
-          "url": "https://aleteia.org/2026/11/08/faith-cant-be-confined-to-private-life-pope/"
-        }
-      ]
-    },
-    {
-      "cim": "New reveal: Pope Leo shares that his family loved St. Thérèse!",
-      "lead": "In the midst of his trip to South America, as he concluded his time in Uruguay, Pope Leo spontaneously shared another detail about the spiritual life of the Prevost family, and it came at a parish dedicated to St. Thérèse with its own unique claim to fame. Before heading to celebrate Mass at the Shrine of Our Lady of…",
-      "forrasok": [
+          "cim": "Kraków cardinal: Our weakness calls upon God’s power",
+          "url": "https://aleteia.org/2026/11/08/krakow-cardinal-our-weakness-calls-upon-gods-power/"
+        },
         {
-          "nev": "Aleteia",
-          "cim": "New reveal: Pope Leo shares that his family loved St. Thérèse!",
-          "url": "https://aleteia.org/2026/11/09/new-reveal-pope-leo-shares-that-his-family-loved-st-therese/"
+          "nev": "Catholic Herald",
+          "cim": "Cardinal Zen calls for Leo to remove three leading Cardinals",
+          "url": "https://thecatholicherald.com/article/cardinal-zen-calls-leo-remove-leading-cardinals"
         }
       ]
     },
     {
-      "cim": "The hidden spiritual truth behind the feast of St. John Lateran",
-      "lead": "Each year the Catholic Church celebrates the feast of the Dedication of St. John Lateran, the cathedral church of the Bishop of Rome, who is also known as the pope. To some it seems strange that Catholics around the world would celebrate a church in Rome, as it doesn’t immediately appear to have any spiritual…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "The hidden spiritual truth behind the feast of St. John Lateran",
-          "url": "https://aleteia.org/2026/11/09/the-hidden-spiritual-truth-behind-the-feast-of-st-john-lateran/"
-        }
-      ]
-    },
-    {
-      "cim": "Leo taps into Argentina’s Catholic history as Milei praises legacy of Pope Francis",
-      "lead": "As the second leg of the South American voyage, Leo’s time in Argentina began by emphasising conditions required for good governance",
+      "cim": "Bishop to offer Mass ad orientem in Advent to show ‘Mass is not about the priest’",
+      "lead": "Bishop Adams in New Zealand has explained his decision as being part of a move to reorient the liturgy back to a focus on God and away from performative priests",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Leo taps into Argentina’s Catholic history as Milei praises legacy of Pope Francis",
-          "url": "https://thecatholicherald.com/article/leo-argentina-catholic-history-milei-legacy-francis"
+          "cim": "Bishop to offer Mass ad orientem in Advent to show ‘Mass is not about the priest’",
+          "url": "https://thecatholicherald.com/article/bishop-to-offer-mass-ad-orientem-in-advent-to-show-mass-is-not-about-the-priest"
         }
       ]
     },
     {
-      "cim": "Monday Starter: Sister to lead institute mapping health patterns of nuns in Mexico",
-      "lead": "Also: NY archdiocese join nuns' lawsuit against assisted suicide; Sisters of Charity of New York 'troubled' by bishops' photo-op with Trump.",
+      "cim": "Pope Leo scores a first on Sports Illustrated",
+      "lead": "Move over, basketball stars! There’s a new face on the cover of Sports Illustrated, and he happens to lead the Catholic Church. Pope Leo has appeared on the magazine’s digital cover, looking very at home with a golden basketball in his hands. The headline? Well, it just had to be: “When in Rome.” The November 3…",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "Monday Starter: Sister to lead institute mapping health patterns of nuns in Mexico",
-          "url": "https://www.ncronline.org/monday-starter-sister-lead-institute-mapping-health-patterns-nuns-mexico"
+          "nev": "Aleteia",
+          "cim": "Pope Leo scores a first on Sports Illustrated",
+          "url": "https://aleteia.org/2026/11/10/pope-leo-scores-a-first-on-sports-illustrated/"
         }
       ]
     },
     {
-      "cim": "The elected now face the challenge of governing",
-      "lead": "Politics-as-usual will not serve the American people today, writes Fr. Tom Reese.",
+      "cim": "St Nicholas relic stolen and allegedly destroyed at French basilica",
+      "lead": "The relic was stolen from the Basilica of Saint-Nicolas-de-Port in Lorraine on November 2. The parish described the theft as a profound blow to its history and faith",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "The elected now face the challenge of governing",
-          "url": "https://www.ncronline.org/opinion/guest-voices/elected-now-face-challenge-governing"
+          "nev": "Catholic Herald",
+          "cim": "St Nicholas relic stolen and allegedly destroyed at French basilica",
+          "url": "https://thecatholicherald.com/article/st-nicholas-relic-stolen-and-allegedly-destroyed-at-french-basilica"
         }
       ]
     },
     {
-      "cim": "Podcast: 'Jesus doesn't win by violence, only by nonviolence,' says John Ashworth",
-      "lead": "On this week's episode of \"The Nonviolent Jesus Podcast,\" John Dear hosts John Ashworth to speak about his lifelong work for peace in Sudan.",
+      "cim": "Henry Cavill’s touching Remembrance Sunday tribute",
+      "lead": "Henry Cavill may be best known for playing Superman, but on Remembrance Sunday, the British actor was thinking about some very real heroes. On November 8, Cavill shared a photograph from the magnificent St. Stephen’s Basilica in Budapest, Hungary, where he had spent part of the day with his family. Wearing a red…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Henry Cavill’s touching Remembrance Sunday tribute",
+          "url": "https://aleteia.org/2026/11/10/henry-cavills-touching-remembrance-sunday-tribute/"
+        }
+      ]
+    },
+    {
+      "cim": "The wounded officer who stopped the Krakow gunman",
+      "lead": "He risked his life to save others. In a matter of seconds, Polish police officer Jakub Kulik became a hero in the eyes of people around the world. On Saturday, November 7, a gunman opened fire on passersby in central Krakow, killing six people and wounding 15. Kulik confronted him despite suffering multiple gunshot…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "The wounded officer who stopped the Krakow gunman",
+          "url": "https://aleteia.org/2026/11/10/the-wounded-officer-who-stopped-the-krakow-gunman/"
+        }
+      ]
+    },
+    {
+      "cim": "Mission and proclamation can take many forms while remaining faithful to Christ",
+      "lead": "\"The temptation to universalize one particular pastoral experience must be resisted,\" Fr. Clarence David Devadass writes.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Podcast: 'Jesus doesn't win by violence, only by nonviolence,' says John Ashworth",
-          "url": "https://www.ncronline.org/opinion/guest-voices/podcast-jesus-doesnt-win-violence-only-nonviolence-says-john-ashworth"
+          "cim": "Mission and proclamation can take many forms while remaining faithful to Christ",
+          "url": "https://www.ncronline.org/opinion/guest-voices/mission-and-proclamation-can-take-many-forms-while-remaining-faithful-christ"
+        }
+      ]
+    },
+    {
+      "cim": "Catholic theologians urge US bishops to speak against Iran war ahead of assembly",
+      "lead": "As U.S. bishops prepare for their November meeting in Baltimore, 83 Catholic theologians and educators are urging them to take a stronger, more unified public stand against the war with Iran and to promote Gospel nonviolence.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Catholic theologians urge US bishops to speak against Iran war ahead of assembly",
+          "url": "https://www.ncronline.org/news/catholic-theologians-urge-us-bishops-speak-against-iran-war-ahead-assembly"
         }
       ]
     }
