@@ -1,261 +1,271 @@
 {
-  "datum": "2026-11-11",
-  "generalva": "2026-11-11T13:05+01:00",
+  "datum": "2026-11-12",
+  "generalva": "2026-11-12T14:10+01:00",
   "hazai": [
     {
-      "cim": "Leó pápa homíliája Córdobában: Kövessük az életszentség ragyogó útját!",
-      "lead": "Krisztus keresztje árnyékában megtaláljuk az üdvösséget és az életünk megszentelődéséhez vezető utat – fejtette ki szentbeszédében a pápa, arra buzdítva, hogy a szentek példáját követve mi is tegyünk hiteles és hatékony tanúságot életünkkel az Úr szeretetéről. Olvasd el mindet",
+      "cim": "XIV. Leó pápa elbúcsúzott Argentínától és elindult Peruba",
+      "lead": "November 11-én, szerdán délután Leó pápa befejezte négynapos argentínai látogatását és elindult Peruba, latin-amerikai apostoli útjának harmadik, egyben utolsó állomására. A Szentatya repülőgépe helyi idő szerint 14 óra 15 perc körül szállt fel Buenos Aires nemzetközi repülőteréről, és várhatóan 17 óra 30 perckor…",
       "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa homíliája Córdobában: Kövessük az életszentség ragyogó útját!",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-argentina-cordoba-szentmise-homilia-eletszentseg.html"
+          "cim": "XIV. Leó pápa elbúcsúzott Argentínától és elindult Peruba",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-argentina-veget-ert-apostoli-latogatas-elindult-peruba.html"
         },
         {
           "nev": "Magyar Kurír",
-          "cim": "XIV. Leó pápa homíliája Córdobában: Induljatok, és legyetek szentek!",
-          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-homiliaja-cordobaban-induljatok-es-legyetek-szentek"
+          "cim": "XIV. Leó pápa az utolsó argentínai miséjén: Argentína, kelj fel és járj!",
+          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-az-utolso-argentinai-misejen-argentina-kelj-fel-es-jarj"
         }
       ]
     },
     {
-      "cim": "Szombathely vagy Pannonhalma? Hol született valójában Szent Márton?",
-      "lead": "Egyik legnépszerűbb szentünkről, Szent Mártonról nemcsak a novemberi libasült-lakomázás kapcsán lehet gyakran hallani, hanem életéről is viszonylag sokan és sokat tudnak. Márton születési helyét illetően mindenesetre már a 19. század óta visszatérően felmerül a kérdés: vajon melyik pannóniai városban látta meg…",
+      "cim": "XIV. Leó üdvözlő szavai a nunciatúrán: „Itt otthon érzem magam”",
+      "lead": "„Itt otthon érzem magam” – ezekkel a szavakkal köszöntötte XIV. Leó pápa a limai apostoli nunciatúra előtt összegyűlt híveket november 11-én, szerdán este. A Szentatya megköszönte a peruiak szeretetteljes fogadtatását, és arra buzdított mindenkit, hogy legyenek a béke, a kiengesztelődés és az egység előmozdítói a…",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó üdvözlő szavai a nunciatúrán: „Itt otthon érzem magam”",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-lima-udvozlo-szavak-nunciatura-itt-otthon-erzem-magam.html"
+        }
+      ]
+    },
+    {
+      "cim": "Bízom a fiatalokban – Német László bíborossal beszélgettek a pannonhalmi diákok",
+      "lead": "A Pannonhalmi Bencés Gimnázium Szent Márton-hete idén a gyermekotthonok világára irányította a diákok figyelmét. Kiemelt eseménye volt találkozásuk Német László bíborossal, akit hivatásáról, egyházi tapasztalatairól és a Katolikus Egyház jövőjéről is kérdeztek. A bíboros arra biztatta őket, ne féljenek hallatni a…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Bízom a fiatalokban – Német László bíborossal beszélgettek a pannonhalmi diákok",
+          "url": "https://magyarkurir.hu/hirek/bizom-fiatalokban-nemet-laszlo-biborossal-beszelgettek-pannonhalmi-diakok"
+        }
+      ]
+    },
+    {
+      "cim": "Örök nyugalomra helyezték Szalai Jeremiás nyugalmazott göllei plébánost",
+      "lead": "Szalai Jeremiás címzetes prépost, nyugalmazott göllei plébános lelki üdvéért mutatott be szentmisét Varga László kaposvári megyéspüspök a plébános szülőfalujában, Külsővaton november 10-én. Az Antiochiai Szent Margit-templomban bemutatott szentmisét követően a helyi temetőben helyezték örök nyugalomra az életének 74…",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Örök nyugalomra helyezték Szalai Jeremiás nyugalmazott göllei plébánost",
+          "url": "https://magyarkurir.hu/hirek/orok-nyugalomra-helyeztek-szalai-jeremias-nyugalmazott-gollei-plebanost"
+        }
+      ]
+    },
+    {
+      "cim": "„Nyissuk meg szívünket!” – XIV. Leó pápa három dél-amerikai országban szól a remény hangján",
+      "lead": "Uruguay, Argentína és Peru: tizenkét nap, három ország, számtalan imádság és találkozás. XIV. Leó pápa november 6-án indult el eddigi leghosszabb külföldi apostoli útjára. A Szentatya november 12-én már Peruban tartózkodik. Látogatásának középpontjában a hit megújítása, a családok megerősítése, a fiatalok jövője és a…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Szombathely vagy Pannonhalma? Hol született valójában Szent Márton?",
-          "url": "https://zarandok.ma/szent-marton-hol-szuletett-szombathely/"
-        },
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Tours-i Szent Márton püspök",
-          "url": "https://magyarkurir.hu/hirek/tours-i-szent-marton-puspok-2017"
+          "cim": "„Nyissuk meg szívünket!” – XIV. Leó pápa három dél-amerikai országban szól a remény hangján",
+          "url": "https://zarandok.ma/xiv-leo-papa-del-amerika-latogatas-peru-lima/"
         }
       ]
     },
     {
-      "cim": "Jobba fája Jobaházán – A Győri Egyházmegye természeti értékei",
-      "lead": "A Győr-Moson-Sopron megyei Jobaháza egyik nevezetessége a Jobba fája nevű kocsányos tölgy. A helyi védettség alatt álló fa 2008-ban megnyerte a megye hét természeti csodája versenyt. Bors Imre atya összeállítását szerkesztve olvashatják.",
+      "cim": "Gyulafehérváron találkoztak a magyar és a romániai katolikus püspöki konferencia állandó tanácsai",
+      "lead": "November 11–12-én Gyulafehérváron tartják közös tanácskozásukat a Magyar Katolikus Püspöki Konferencia (MKPK) és a Romániai Katolikus Püspöki Konferencia (CER) állandó tanácsainak tagjai. A kétnapos találkozó alkalmat kínál a két püspöki konferencia közötti testvéri kapcsolatok elmélyítésére, a közös lelkipásztori…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Jobba fája Jobaházán – A Győri Egyházmegye természeti értékei",
-          "url": "https://magyarkurir.hu/hirek/jobba-faja-jobahazan-gyori-egyhazmegye-termeszeti-ertekei"
+          "cim": "Gyulafehérváron találkoztak a magyar és a romániai katolikus püspöki konferencia állandó tanácsai",
+          "url": "https://magyarkurir.hu/hirek/gyulafehervaron-talalkoztak-magyar-es-romaniai-katolikus-puspoki-konferencia-allando-tanacsai"
         }
       ]
     },
     {
-      "cim": "Közel háromszáz fiatal készült együtt a bérmálkozásra Veszprémben",
-      "lead": "Közel háromszáz, bérmálkozásra készülő fiatal találkozott november 7-én, szombaton a veszprémi Padányi Katolikus Iskola tornatermében. A Veszprémi Főegyházmegye veszprémi kerületéből érkezett diákok közös imádsággal, dicsőítéssel, személyes tanúságtételekkel és beszélgetésekkel mélyíthették el hitüket.",
+      "cim": "A piac elérte az anyaméhet is",
+      "lead": "A béranyaságot gyakran az együttérzés megnyilvánulásaként ábrázolják. De amint a terhesség szolgáltatássá, a szülői szerep pedig szerződéssé válik, a piac átlép egy mélyreható erkölcsi határt – véli Michael J. Robinson, a Society for the Protection of Unborn Children (SPUC, Egyesület a Meg Nem Született Gyermekek…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Közel háromszáz fiatal készült együtt a bérmálkozásra Veszprémben",
-          "url": "https://magyarkurir.hu/hirek/kozel-haromszaz-fiatal-keszult-egyutt-bermalkozasra-veszpremben"
+          "nev": "Zarándok.ma",
+          "cim": "A piac elérte az anyaméhet is",
+          "url": "https://zarandok.ma/a-piac-elerte-az-anyamehet-is/"
         }
       ]
     },
     {
-      "cim": "XIV. Leó pápa az egyházi személyekhez Córdobában: Ne engedjük, hogy kialudjon hivatásunk tüze!",
-      "lead": "Argentínai apostoli látogatásának második napján, november 10-én ebéd után (magyar idő szerint 18.50-kor) a Szentatya a córdobai Nagyboldogasszony-székesegyház előtti téren püspökökkel, papokkal, diakónusokkal, szerzetesekkel, szerzetesnőkkel, papnövendékekkel és lelkipásztori munkatársakkal találkozott.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "XIV. Leó pápa az egyházi személyekhez Córdobában: Ne engedjük, hogy kialudjon hivatásunk tüze!",
-          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-az-egyhazi-szemelyekhez-cordobaban-ne-engedjuk-hogy-kialudjon-hivatasunk-tuze"
-        }
-      ]
-    },
-    {
-      "cim": "A Tibes-jelenség: lehet-e rappelve dicsérni Istent?",
-      "lead": "Mit kezdünk a keresztény könnyűzenével, ha a lüktető ritmusok mögött mély hit és valódi emberi történetek rejlenek? Elutasítjuk csupán azért, mert egyes irányzatai a gettók nyomornegyedeiből erednek? Vagy meghalljuk az üzenetét, és arra is figyelünk, hogy kinek a nevében szól? Csaba Tibor, alias Tibes tízéves…",
+      "cim": "Keresztény életvédőként mi gondunk lehet a CitizenGO-val?",
+      "lead": "A CitizenGO a magzatvédelem és a hagyományos családmodell védelmének jelszavával mozgósít sok keresztényt, ám petíciói rendre túlmutatnak ezen a célon. A szervezet politikai aktivizmusban utazik, esetenként indulatkeltő retorikával és kétséges nemzetközi kapcsolatrendszerrel. Öt pontban arról, hogy milyen kifogásunk…",
       "forrasok": [
         {
           "nev": "Szemlélek",
-          "cim": "A Tibes-jelenség: lehet-e rappelve dicsérni Istent?",
-          "url": "https://szemlelek.net/a-tibes-jelenseg-lehet-e-rappelve-dicserni-istent/"
+          "cim": "Keresztény életvédőként mi gondunk lehet a CitizenGO-val?",
+          "url": "https://szemlelek.net/kereszteny-eletvedokent-mi-gondunk-lehet-a-citizengo-val/"
         }
       ]
     },
     {
-      "cim": "Nem kell mindig tökéletesnek lenned! – 3 tanács Lisieux-i Szent Teréztől a mai teljesítménykényszeres világban",
-      "lead": "Sosem vagyunk elégedettek. Többet kéne teljesítenünk, szebbnek, sikeresebbnek, türelmesebbnek és kiegyensúlyozottabbnak kellene lennünk. A közösségi média mások sikereitől hemzseg, mi pedig könnyen arra jutunk: valahogy mindig, mindenben le vagyunk maradva. De vajon Isten is így tekint ránk? Lisieux-i Szent Teréz, az…",
+      "cim": "A vereség is lehet győzelem",
+      "lead": "Pascal Quignard francia író Az élet nem életrajz című könyvében (Éditions Galilée) ezt írja: „Néha teljes lendülettel rohanunk a vereség felé, és igazunk is van. Van, amikor valóban afelé kell rohannunk, mert sietnünk kell, mert tovább kell lépnünk. A vereség olykor a rövidebb út.” Milyen bölcs gondolat ez egy olyan…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Nem kell mindig tökéletesnek lenned! – 3 tanács Lisieux-i Szent Teréztől a mai teljesítménykényszeres világban",
-          "url": "https://zarandok.ma/kis-szent-terez-3-tanacs-teljesitmenykenyszer/"
+          "cim": "A vereség is lehet győzelem",
+          "url": "https://zarandok.ma/a-vereseg-is-lehet-gyozelem/"
         }
       ]
     },
     {
-      "cim": "XIV. Leó a fiatalokhoz: Ne hajoljatok meg korunk bálványai előtt, legyetek szentek!",
-      "lead": "„Ne hajoljatok meg semmi előtt, ami nem képes életet adni nektek!” – buzdította Leó pápa az argentin fiatalokat november 10-én, kedden este Buenos Airesben, a Spanyolok emlékművénél tartott imavirrasztáson. A Szentatya arra hívta őket, hogy őrizzék meg Istentől kapott szabadságukat, ne féljenek újrakezdeni, és…",
+      "cim": "XIV. Leó a perui hatóságoknak: A politika feladata a közjó szolgálata és az emberi méltóság védelme",
+      "lead": "„Nagy hálával mondhatom nektek, hogy visszatértem a hazámba is” – jelentette ki Leó pápa november 11-én, szerdán este Limában, a perui hatóságok, a civil társadalom és a diplomáciai testület képviselőihez intézett beszédében. A Szentatya személyes emlékeiből kiindulva a közjó szolgálatáról, a demokratikus intézmények…",
       "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó a fiatalokhoz: Ne hajoljatok meg korunk bálványai előtt, legyetek szentek!",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-buenos-aires-imavirrasztas-fiatalok-mindenki-krisztus.html"
-        }
-      ]
-    },
-    {
-      "cim": "XIV. Leó párbeszédet folytatott két argentin fiatallal: Ne veszítsétek el a reményt!",
-      "lead": "A remény megőrzésére, a kitartó szeretetre és a mindennapi életben megélt hitre buzdította XIV. Leó pápa az argentin fiatalokat november 10-én, kedden este Buenos Airesben, a Spanyolok emlékművénél tartott imavirrasztáson. A Szentatya két fiatal kérdésére válaszolva hangsúlyozta, hogy Isten akkor is munkálkodik…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó párbeszédet folytatott két argentin fiatallal: Ne veszítsétek el a reményt!",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-imavirrasztas-fiatalok-parbeszed-remeny-megelt-hit.html"
-        }
-      ]
-    },
-    {
-      "cim": "315. nap: Az irgalom erénye",
-      "lead": "Korszak: Messiási beteljesedés Ima Mennyei Atyánk, dicsőítünk téged. Köszönjük neked ezt a napot. Köszönjük a te igédet, és hogy folyamatosan visszahívsz bennünket magadhoz. Hogy ne csak hallgassuk szavad, hanem szemléljük is a megtestesült Igét. Urunk, ahogy látjuk Fiad, Jézus Krisztus tetteit, ahogyan élt és…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "315. nap: Az irgalom erénye",
-          "url": "https://zarandok.ma/315-nap-az-irgalom-erenye/"
+          "cim": "XIV. Leó a perui hatóságoknak: A politika feladata a közjó szolgálata és az emberi méltóság védelme",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-peru-hatosagok-kozjo-demokratikus-intezmenyek-meltosag.html"
         }
       ]
     }
   ],
   "nemzetkozi": [
     {
-      "cim": "Pope recalls Argentine saints in Córdoba; priest says apostolic trip like 'new Pentecost'",
-      "lead": "Pope Leo XIV traveled to Córdoba in central Argentina, where he recalled the example of Argentina's saints — who spread the Gospel and tirelessly served peoples in a rugged frontier — while emphasizing the enduring importance of missions.",
+      "cim": "What a homecoming! Pope’s arrival in Peru hits all the right notes",
+      "lead": "“Today I understand how much of this land remains with me and how much of my own story also belongs to you,” said Leo XIV when he met with the country’s leaders at the Gran Teatro Nacional in Lima on November 11, 2026. Upon his arrival in his adopted homeland, the American-Peruvian Pope delivered a deeply personal…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "What a homecoming! Pope’s arrival in Peru hits all the right notes",
+          "url": "https://aleteia.org/2026/11/12/what-a-homecoming-popes-arrival-in-peru-hits-all-the-right-notes/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Pope Leo XIV’s third day in Argentina",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-highlights-wrap-up-third-day-argentina-cordoba-mass.html"
+        },
+        {
+          "nev": "The Pillar",
+          "cim": "Dispatches: In Peru with Pope Leo",
+          "url": "https://www.pillarcatholic.com/p/dispatches-in-peru-from-pope-leo"
+        }
+      ]
+    },
+    {
+      "cim": "Invite the Pope to visit, say members of Congress",
+      "lead": "It’s time to formally invite Pope Leo XIV to visit the United States — and to address Congress. At least that’s what 91 members of Congress think. And with the scenes coming out of Pope Leo’s second homeland of Peru in these days, many people think they are absolutely right. On October 30, a bipartisan group of 91…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Invite the Pope to visit, say members of Congress",
+          "url": "https://aleteia.org/2026/11/12/invite-the-pope-to-visit-say-members-of-congress/"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo begins deeply personal homecoming in Peru: 'I am returning to my homeland'",
+          "url": "https://www.ncronline.org/vatican/pope-leo-begins-deeply-personal-homecoming-peru-i-am-returning-my-homeland"
+        }
+      ]
+    },
+    {
+      "cim": "Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’",
+      "lead": "Speaking to authorities and the diplomatic corps for his first public address in Peru, Pope Leo highlights his long-held roots to the country and urges leaders to help protect the “everyday peace” of its people. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-distance-does-not-necessarily-diminish-love-homeland-peru.html"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "‘Returning to my homeland’: Leo lands back in Peru",
+          "url": "https://thecatholicherald.com/article/returning-to-my-homeland-leo-lands-in-peru"
+        }
+      ]
+    },
+    {
+      "cim": "We need contemplation now more than ever",
+      "lead": "\"At a time when we are pulled in every direction by the attention economy, it is incredibly difficult to focus our minds or attune our hearts to the presence of the divine in our lives,\" Dan Horan writes.",
       "forrasok": [
         {
           "nev": "National Catholic Reporter",
-          "cim": "Pope recalls Argentine saints in Córdoba; priest says apostolic trip like 'new Pentecost'",
-          "url": "https://www.ncronline.org/vatican/pope-recalls-argentine-saints-c-rdoba-priest-says-apostolic-trip-new-pentecost"
+          "cim": "We need contemplation now more than ever",
+          "url": "https://www.ncronline.org/opinion/we-need-contemplation-now-more-ever"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "The conversion practices debate is about more than abuse",
+          "url": "https://thecatholicherald.com/article/the-conversion-practices-debate-is-about-more-than-abuse"
+        }
+      ]
+    },
+    {
+      "cim": "Meet the 5 saints in Pope Leo XIV’s Peru trip logo",
+      "lead": "What could a young mystic from Lima, a bishop who traveled through the Andes on a mule, and a violin-playing Franciscan possibly have in common? Each contributed, in a different way, to shaping Christianity in Latin America. Their faces, along with those of two other saints, now appear on the logo for Leo XIV’s visit…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Meet the 5 saints in Pope Leo XIV’s Peru trip logo",
+          "url": "https://aleteia.org/2026/11/11/meet-the-5-saints-in-pope-leo-xivs-peru-trip-logo/"
         },
         {
           "nev": "Vatican News",
           "cim": "Treasure of Latin American Church: Saints, Blesseds recalled by Pope in Argentina",
           "url": "https://www.vaticannews.va/en/church/news/2026-11/argentina-saints-blesseds-pope-leo-xiv-apostolic-journey.html"
-        },
-        {
-          "nev": "The Pillar",
-          "cim": "Leo in Latin America – a highlight reel (part 1)",
-          "url": "https://www.pillarcatholic.com/p/leo-in-latin-america-a-highlight"
         }
       ]
     },
     {
-      "cim": "Pope Leo XIV meets with abuse victims in Argentina",
-      "lead": "Pope Leo XIV meets for over an hour with five abuse survivors in Argentina and expresses his closeness and “desire to strengthen pathways of protection, goodness, welcome, and accompaniment within the Church.\" Read all",
+      "cim": "At Argentina's national shrine, Pope Leo calls country to reconciliation, communion and mission",
+      "lead": "In a city transformed overnight into something resembling both a vast open air Marian shrine and an Argentine soccer stadium, Pope Leo XIV celebrated the final Mass of his visit to Argentina and called the country to \"rise up and walk\" along paths of reconciliation, communion and mission.",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Pope Leo XIV meets with abuse victims in Argentina",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-abuse-victims-argentina-church-healing-protection-closeness.html"
+          "nev": "National Catholic Reporter",
+          "cim": "At Argentina's national shrine, Pope Leo calls country to reconciliation, communion and mission",
+          "url": "https://www.ncronline.org/vatican/argentinas-national-shrine-pope-leo-calls-country-reconciliation-communion-and-mission"
         },
+        {
+          "nev": "Vatican News",
+          "cim": "Pope invites Argentina to reconciliation, enlightenment, communion, mission",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-proposes-journey-during-mass-in-lujan.html"
+        }
+      ]
+    },
+    {
+      "cim": "Pope urges Argentine Catholics to renew practice of the faith",
+      "lead": "‘The Church in Argentina needs you,’ Pope Leo said during a homily at Mass in Buenos Aires. Tuesday marks his final full day in Argentina before leaving for Peru on Wednesday",
+      "forrasok": [
         {
           "nev": "Catholic Herald",
           "cim": "Pope urges Argentine Catholics to renew practice of the faith",
           "url": "https://thecatholicherald.com/article/pope-urges-argentine-catholics-to-renew-practice-of-the-faith"
-        }
-      ]
-    },
-    {
-      "cim": "Massachusetts bishops decry governor's decision easing abortion regulations",
-      "lead": "Massachusetts' four Catholic bishops criticized Gov. Maura Healey's decision on Nov. 6 to use her executive authority to put into effect immediately a new state law that permits late-term abortions.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Massachusetts bishops decry governor's decision easing abortion regulations",
-          "url": "https://www.ncronline.org/news/massachusetts-bishops-decry-governors-decision-easing-abortion-regulations"
-        },
-        {
-          "nev": "Catholic Herald",
-          "cim": "Catholic bishops challenge Healey’s decision to enact abortion law",
-          "url": "https://thecatholicherald.com/article/catholic-bishops-challenge-healey-s-decision-to-enact-abortion-law"
-        }
-      ]
-    },
-    {
-      "cim": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing",
-      "lead": "Pope Leo XIV visited a home for people with disabilities Monday and told them their lives were a blessing, not a burden, as he pressed his call for Argentina to care for its most vulnerable in a symbolic rebuke of President Javier Milei's austerity measures.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Pope draws 2.5 million to Mass in Argentina and tells people with disabilities they are a blessing",
-          "url": "https://www.ncronline.org/vatican/pope-draws-25-million-mass-argentina-and-tells-people-disabilities-they-are-blessing"
         },
         {
           "nev": "Vatican News",
-          "cim": "Pope at Mass in Argentina: Mission is a ‘joyful duty’",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-in-argentina-mission-is-a-joyful-duty.html"
+          "cim": "Pope Leo XIV encourages Argentinians to remain united in faith",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-cordoba-greetings-unity.html"
         }
       ]
     },
     {
-      "cim": "Archbishop Broglio: ‘It’s not necessary to stifle’ the Latin Mass",
-      "lead": "‘The traditional Mass – as we call it – has nourished generations. If it still serves a purpose, why not let it be celebrated?,’ said the former USCCB president in a recent interview",
+      "cim": "Starting Seven: November 12, 2026",
+      "lead": "Welcome to Starting Seven, The Pillar’s daily newsletter.",
       "forrasok": [
         {
-          "nev": "Catholic Herald",
-          "cim": "Archbishop Broglio: ‘It’s not necessary to stifle’ the Latin Mass",
-          "url": "https://thecatholicherald.com/article/archbishop-broglio-it-s-not-necessary-to-stifle-the-latin-mass"
+          "nev": "The Pillar",
+          "cim": "Starting Seven: November 12, 2026",
+          "url": "https://www.pillarcatholic.com/p/starting-seven-november-12-2026"
         }
       ]
     },
     {
-      "cim": "Pope Leo XIV’s third day in Argentina",
-      "lead": "On his third day in Argentina, the second leg of his Apostolic Journey to South America, Pope Leo XIV visits the city of Córdoba where he celebrated Mass and met with the local clergy and pastoral workers, before ending the day with a prayer vigil with young people back in Buenos Aires. Read all",
+      "cim": "New short film inspires Filipinos with the life of a beloved bishop",
+      "lead": "When Filipino Bishop Cesar María Guerrero died in 1961, several funeral Masses had to be celebrated to accommodate all those who wished to pay their respects to a man described as “santo y sabio,” holy and wise. Guerrero, whose cause for beatification was opened earlier this year, was not a martyr or a man of dramatic…",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Pope Leo XIV’s third day in Argentina",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-highlights-wrap-up-third-day-argentina-cordoba-mass.html"
+          "nev": "Aleteia",
+          "cim": "New short film inspires Filipinos with the life of a beloved bishop",
+          "url": "https://aleteia.org/2026/11/12/new-short-film-inspires-filipinos-with-the-life-of-a-beloved-bishop/"
         }
       ]
     },
     {
-      "cim": "Guam: Sisters of Mercy rejoice during 80th anniversary Mass",
-      "lead": "The Sisters of Mercy mark 80 years of service in the US territory of Guam with a thanksgiving Mass presided by Archbishop Ryan Jimenez, who praises their contributions to education and care for the vulnerable. Read all",
+      "cim": "Meet the priest called “one of the most exceptional in the United States”",
+      "lead": "Decades ago, Monsignor Arturo Bañuelas was a young priest praying about the direction of his future ministry, when an inspiration came to him. “After completing my doctoral studies, I went on a discernment retreat at the Basilica of Our Lady of Guadalupe to pray about the direction of my future ministry,” he told…",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Guam: Sisters of Mercy rejoice during 80th anniversary Mass",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/guam-archdiocese-agana-sisters-mercy-80th-anniversary.html"
-        }
-      ]
-    },
-    {
-      "cim": "Vietnamese families still search for loved ones' remains, over 50 years after war",
-      "lead": "NCR spoke to those still looking for loved ones who were killed or disappeared during the Vietnam War. They share their experience amid Vietnam's expansion efforts to recover and identify fallen soldiers' remains.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "Vietnamese families still search for loved ones' remains, over 50 years after war",
-          "url": "https://www.ncronline.org/news/vietnamese-families-still-search-loved-ones-remains-over-50-years-after-war"
-        }
-      ]
-    },
-    {
-      "cim": "DC bishop says 'collective action' trounces big money and other midterm takeaways",
-      "lead": "\"Analysts wonder if the midterm results show the resurgence of a religious left, and I remain struck by the varying ways that Catholics participated in the democratic process,\" writes NCR's Michael J. O'Loughlin.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "DC bishop says 'collective action' trounces big money and other midterm takeaways",
-          "url": "https://www.ncronline.org/opinion/dc-bishop-says-collective-action-trounces-big-money-and-other-midterm-takeaways"
-        }
-      ]
-    },
-    {
-      "cim": "After their shellacking, what do Republicans do now?",
-      "lead": "\"The Democrats have their work cut out for them, to be sure. But the Republicans have the unenviable task of crafting a post-Trump vision while Trump himself is still around,\" Michael Sean Winters writes.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "After their shellacking, what do Republicans do now?",
-          "url": "https://www.ncronline.org/opinion/after-their-shellacking-what-do-republicans-do-now"
+          "nev": "Aleteia",
+          "cim": "Meet the priest called “one of the most exceptional in the United States”",
+          "url": "https://aleteia.org/2026/11/12/meet-the-priest-called-one-of-the-most-exceptional-in-the-united-states/"
         }
       ]
     }
