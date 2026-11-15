@@ -1,53 +1,103 @@
 {
-  "datum": "2026-11-14",
-  "generalva": "2026-11-14T12:43+01:00",
+  "datum": "2026-11-15",
+  "generalva": "2026-11-15T13:12+01:00",
   "hazai": [
     {
-      "cim": "XIV. Leó pápa a Szent Óscar Romero-kápolnában: Nagyszerű hír, hogy Jézus mindig velünk jár!",
-      "lead": "November 13-án 13.30-kor (magyar idő szerint 19.30-kor) a Szentatya látogatást tett a chiclayói Szent Óscar A. Romero-kápolnában. A kápolna megépítése XIV. Leó pápa szívügye volt: amikor még püspökként a chiclayói egyházmegyét vezette, ő adott lendületet a kezdeményezésnek, és pápaként is figyelemmel kísérte a…",
+      "cim": "A teremtett világ barátja – Jacques Le Goff Assisi Szent Ferencről írt könyvéről",
+      "lead": "Assisiben, a Santa Maria degli Angeli templomban idén január 10-én ünnepi szertartás keretében nyitották meg a Szent Ferenc tranzitusának 800. évfordulója alkalmából meghirdetett különleges jubileumi esztendőt. Az utóbbi években más jubileumok is kapcsolódtak Assisi szentjének alakjához, a ferences család a grecciói…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "XIV. Leó pápa a Szent Óscar Romero-kápolnában: Nagyszerű hír, hogy Jézus mindig velünk jár!",
-          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-szent-oscar-romero-kapolnaban-nagyszeru-hir-jezus-mindig-velunk-jar"
-        },
+          "cim": "A teremtett világ barátja – Jacques Le Goff Assisi Szent Ferencről írt könyvéről",
+          "url": "https://magyarkurir.hu/hirek/a-teremtett-vilag-baratja-jacques-le-goff-assisi-szent-ferencrol-irt-konyverol"
+        }
+      ]
+    },
+    {
+      "cim": "XIV. Leó pápa az egyetemi világ képviselőihez: A hit és a tudomány együtt szolgálja az ember javát",
+      "lead": "November 13-án 17.40-kor (magyar idő szerint 23.40-kor) a Szentatya az egyetemi világ képviselőivel találkozott a Mogrovejói Szent Turibiusz Katolikus Egyetemen Chiclayóban.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "XIV. Leó pápa az egyetemi világ képviselőihez: A hit és a tudomány együtt szolgálja az ember javát",
+          "url": "https://magyarkurir.hu/hirek/xiv-leo-papa-az-egyetemi-vilag-kepviseloihez-hit-es-tudomany-egyutt-szolgalja-az-ember-javat"
+        }
+      ]
+    },
+    {
+      "cim": "Az Eucharisztia ünneplése 171/9",
+      "lead": "Sztankó Attila liturgikus jegyzetét olvashatják.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Az Eucharisztia ünneplése 171/9",
+          "url": "https://magyarkurir.hu/hirek/az-eucharisztia-unneplese-171-9"
+        }
+      ]
+    },
+    {
+      "cim": "319. nap: Jöjj, kövess engem!",
+      "lead": "Korszak: Messiási beteljesedés Ima Mennyei Atyánk, hálát adunk neked igédért, és azért, hogy példabeszédekben és tanításokban szólsz hozzánk. Köszönjük, hogy megtanítasz minket, hogyan keressünk téged, és hogyan tartozzunk hozzád. Köszönjük, hogy megmutatod, hogy szeretsz minket, sőt örömödet leled bennünk. Urunk…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "319. nap: Jöjj, kövess engem!",
+          "url": "https://zarandok.ma/319-nap-jojj-kovess-engem/"
+        }
+      ]
+    },
+    {
+      "cim": "Napi ráhangoló: A múlandó és az örökkévaló értékek",
+      "lead": "Évközi 33. vasárnap Péld 31,10-13.19-20.30-31; 1Tessz 5,1-6; Mt 25,14-30 „A kedvesség csal, a szépség mulandó, de az istenfélő asszony dicséretet érdemel! Adjatok neki keze gyümölcséből, és tettei dicsérjék őt a kapuknál!” Sajnos, manapság a keresztények körében is a csalfa báj és a múlékony szépség lett a legnagyobb…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Napi ráhangoló: A múlandó és az örökkévaló értékek",
+          "url": "https://zarandok.ma/napi-rahangolo-a-mulando-es-az-orokkevalo-ertekek/"
+        }
+      ]
+    },
+    {
+      "cim": "XIV. Leó Zañában imatalálkozóval zárta le a Mongrovejói Szent Turibiusz jubileumi évet",
+      "lead": "„Köszönöm, hogy ismét otthon érezhetem magam” – ezekkel a szavakkal fejezte ki örömét Leó pápa november 14-én, szombaton délután a Chiclayótól délre található Zañában, ahol a Mongrovejói Szent Turibiusz szentté avatásának 300. évfordulója alkalmából meghirdetett jubileumi évet zárták le. A Szentatya személyes…",
+      "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa a Szent Óscar Romero-kápolnában: Mindannyian arra kaptunk meghívást, hogy folytassuk Jézus küldetését",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-chiclayo-szent-oscar-romero-kapolna-evangelizalas.html"
+          "cim": "XIV. Leó Zañában imatalálkozóval zárta le a Mongrovejói Szent Turibiusz jubileumi évet",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-zana-imatalalkozo-mongrovejoi-szent-turibiusz-jubileum.html"
         }
       ]
     },
     {
-      "cim": "Az együttműködés, alkotás tere – Médiastúdió nyílt a Ciszterci Rend Nagy Lajos Gimnáziumában Pécset",
-      "lead": "Szeptember óta új lendülettel követi a Lajos Média csapata iskolája életét. A Nemzeti Média- és Hírközlési Hatóság és a Ciszterci Iskolai Főhatóság támogatásával kialakított Szent Carlo Acutis Stúdió megáldását ünnepelték november 13-án, mely alkalmából pódiumbeszélgetésben gondolkodtak arról, hogyan alakítja át a…",
+      "cim": "XIV. Leó Santa Cruzban köszöntötte egy plébánia híveit: Arra kaptunk meghívást, hogy Krisztus missziós tanítványai legyünk",
+      "lead": "XIV. Leó november 14-én, szombaton felkereste a Santa Cruz de Succhabamba településen található Szeplőtelen Fogantatás-plébániát. A Szentatya a hívekhez intézett rögtönzött beszédében hangsúlyozta, hogy a keresztségben mindannyian meghívást kaptunk Krisztus missziós tanítványainak közösségébe. Külön szeretettel…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Az együttműködés, alkotás tere – Médiastúdió nyílt a Ciszterci Rend Nagy Lajos Gimnáziumában Pécset",
-          "url": "https://magyarkurir.hu/hirek/mediastudiot-adtak-at-ciszterci-rend-nagy-lajos-gimnaziumaban-pecsett"
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó Santa Cruzban köszöntötte egy plébánia híveit: Arra kaptunk meghívást, hogy Krisztus missziós tanítványai legyünk",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-santa-cruz-szeplotelen-fogantatas-plebania-hiveihez.html"
         }
       ]
     },
     {
-      "cim": "Lucsok Miklós püspök Szent Márton ünnepén: Arra teremtettünk, hogy jót tegyünk",
-      "lead": "November 11-én, szerdán a munkácsi római katolikus székesegyházban megemlékeztek a város, az egyházmegye és egész Kárpátalja védőszentjéről, Tours-i Szent Márton püspökről. Lucsok Miklós OP megyéspüspök mutatott be ünnepi szentmisét. Koncelebrált Majnek Antal OFM emeritus püspök, Teodor Macapula IVE, a Munkácsi…",
+      "cim": "XIV. Leó a chiclayói önkéntesekhez: A szolgálatotokkal az Egyház szívében vagytok",
+      "lead": "„Köszönöm, köszönöm, köszönöm!” – ezekkel a szavakkal fejezte ki háláját Leó pápa azoknak az önkénteseknek, akik közreműködtek perui apostoli látogatásának megszervezésében. A Szentatya november 13-án, pénteken este Chiclayóban találkozott velük, és hangsúlyozta, hogy a mások szolgálata Jézus egyik legfontosabb…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Lucsok Miklós püspök Szent Márton ünnepén: Arra teremtettünk, hogy jót tegyünk",
-          "url": "https://magyarkurir.hu/hirek/lucsok-miklos-puspok-szent-marton-unnepen-arra-teremtettunk-hogy-jot-tegyunk"
+          "nev": "Vatican News (magyar)",
+          "cim": "XIV. Leó a chiclayói önkéntesekhez: A szolgálatotokkal az Egyház szívében vagytok",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-chiclayo-onkentesek-koszontese-szent-turibiusz-kollegium.html"
         }
       ]
     },
     {
-      "cim": "Leó pápa az egyházi személyekhez Chiclayóban: Nincs küldetés közösség nélkül!",
-      "lead": "November 13-án 16.30-kor (magyar idő szerint 22.30-kor) a Szentatya a chiclayói Béke Szűzanyja-kegyhelyen a püspökökkel, a papokkal, a szerzetesekkel, a szerzetesnőkkel, a papnövendékekkel, a szinodális munkacsoportokkal és a pasztorális tanácsokkal találkozott.",
+      "cim": "„A nagymamámnak volt egy abortusza” – 777 Podcast az életvédelemről",
+      "lead": "Mit tennénk, ha váratlanul teherbe esnénk? Volt a családunkban abortusz? Milyen okok miatt dönt úgy egy nő, hogy elveteti a gyermekét? Ha rajtunk múlna, betiltanánk az abortuszt? A 777 Podcast legújabb adásából kiderül! A 777 Podcastban ezúttal az életvédelem, az abortusz, a szívhangrendelet és az esemény utáni…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Leó pápa az egyházi személyekhez Chiclayóban: Nincs küldetés közösség nélkül!",
-          "url": "https://magyarkurir.hu/hirek/leo-papa-az-egyhazi-szemelyekhez-chiclayoban-nincs-kuldetes-kozosseg-nelkul"
+          "nev": "777",
+          "cim": "„A nagymamámnak volt egy abortusza” – 777 Podcast az életvédelemről",
+          "url": "https://777blog.hu/2026/11/14/a-nagymamamnak-volt-egy-abortusza-777-podcast-az-eletvedelemrol/"
         }
       ]
     },
@@ -59,61 +109,6 @@
           "nev": "Zarándok.ma",
           "cim": "Egy élet, amelyet nem tudtak elnémítani – Így őrzi az ország Brenner János emlékét",
           "url": "https://zarandok.ma/brenner-janos-martir-boldog-szobrok-emlekek/"
-        }
-      ]
-    },
-    {
-      "cim": "318. nap: A szűk kapu, az elveszett bárány és a tékozló fiú",
-      "lead": "Korszak: Messiási beteljesedés Ima Mennyei Atyánk, hálát adunk neked igédért, és azért, hogy példabeszédekben és tanításokban szólsz hozzánk. Köszönjük, hogy megtanítasz minket, hogyan keressünk téged, és hogyan tartozzunk hozzád. Köszönjük, hogy megmutatod, hogy szeretsz minket, sőt örömödet leled bennünk. Urunk…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "318. nap: A szűk kapu, az elveszett bárány és a tékozló fiú",
-          "url": "https://zarandok.ma/318-nap-a-szuk-kapu-az-elveszett-barany-es-a-tekozlo-fiu/"
-        }
-      ]
-    },
-    {
-      "cim": "XIV. Leó a perui egyetemi közösséghez: A lélek nélküli technológia nem javítja igazán az életet",
-      "lead": "A tudomány lelkiismeret nélkül tönkreteszi az emberek életét, a lélek nélküli technológia pedig nem eredményez valódi fejlődést – figyelmeztetett Leó pápa november 13-án, pénteken a perui Chiclayóban, a Santo Toribio de Mogrovejo Katolikus Egyetem közösségével tartott találkozóján. A Szentatya beszédében a katolikus…",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó a perui egyetemi közösséghez: A lélek nélküli technológia nem javítja igazán az életet",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-chiclayo-katolikus-egyetem-technologia-igazsagossag.html"
-        }
-      ]
-    },
-    {
-      "cim": "Napi ráhangoló: Az evangélium terjesztése a keresztény hívek közös felelőssége",
-      "lead": "Évközi 32. hét, szombat 3Jn 5-8; Lk 18,1-8 „Jól teszed, ha az úton gondoskodsz róluk, amint ez méltó Istenhez. Hiszen az ő nevéért keltek útra.” Azt a rövidke levelet, melynek részletét a mai Szentleckében olvassuk, egy bizonyos Gájusz nevű kereszténynek írta Szent János apostol. Ez is magánlevél, akárcsak a minap…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: Az evangélium terjesztése a keresztény hívek közös felelőssége",
-          "url": "https://zarandok.ma/napi-rahangolo-az-evangelium-terjesztese-a-kereszteny-hivek-kozos-felelossege/"
-        }
-      ]
-    },
-    {
-      "cim": "Teret a nőknek, hitelességet, megújulást! Felmérés a jövő egyházáról",
-      "lead": "Sokan erős lelki támaszt látnak a magyar katolikus egyházban, ez azonban gyenge társadalmi hatással és jelentős politikafüggéssel párosul, a visszaélések megfelelő kezelését is számosan hiányolják. Ez derül ki az egyház jövőjét szolgáló Megujul.hu friss felméréséből. A Teret a nőknek, hitelességet, megújulást!…",
-      "forrasok": [
-        {
-          "nev": "Szemlélek",
-          "cim": "Teret a nőknek, hitelességet, megújulást! Felmérés a jövő egyházáról",
-          "url": "https://szemlelek.net/teret-a-noknek-hitelesseget-megujulast-felmeres-a-jovo-egyhazarol/"
-        }
-      ]
-    },
-    {
-      "cim": "„A Jóisten odafordult felénk” – Nyerges Attila a Szín-Vallás podcastben",
-      "lead": "A Szín – Vallás című műsor legújabb vendége Nyerges Attila, Máté Péter-díjas énekes, Érdemes Művész az Ismerős Arcok zenekar frontembere volt. A beszélgetés során a zenész – énekes mély személyes betekintést nyújtott életének legnehezebb és legfelemelőbb pillanataiba, köztük a családi tragédiákba, a hithez és az…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "„A Jóisten odafordult felénk” – Nyerges Attila a Szín-Vallás podcastben",
-          "url": "https://777blog.hu/2026/11/13/a-joisten-odafordult-felenk-nyerges-attila-a-szin-vallas-podcastben/"
         }
       ]
     }
@@ -135,7 +130,7 @@
         },
         {
           "nev": "National Catholic Reporter",
-          "cim": "'The pope is Chiclayano': Leo receives joyful welcome in his former diocese",
+          "cim": "‘The pope is Chiclayano’: Pope Leo returns to his former diocese amid exaltation",
           "url": "https://www.ncronline.org/vatican/pope-chiclayano-leo-receives-joyful-welcome-his-former-diocese"
         },
         {
@@ -146,106 +141,111 @@
       ]
     },
     {
-      "cim": "The Week in Review: Shooting in Poland, Russell Brand sentenced and positive news out of Newark",
-      "lead": "This week's Catholic news included a stolen relic of St Nicholas, new guidance on the Orans posture and positive news about Cardinal Joseph Tobin's health",
-      "forrasok": [
-        {
-          "nev": "Catholic Herald",
-          "cim": "The Week in Review: Shooting in Poland, Russell Brand sentenced and positive news out of Newark",
-          "url": "https://thecatholicherald.com/article/week-in-review-november-14"
-        },
-        {
-          "nev": "The Pillar",
-          "cim": "News Roundup— Week of November 12",
-          "url": "https://www.pillarcatholic.com/p/news-roundup-week-of-november-12"
-        }
-      ]
-    },
-    {
-      "cim": "Our Lady of Evangelization is the oldest Marian devotion in Peru",
-      "lead": "The Blessed Virgin Mary is held in high esteem in many South American countries and each has a particular Marian devotion that is widely beloved by the local people. In Peru, that devotion is Nuestra Señora de la Evangelización (Our Lady of Evangelization), who has been a large part of Peruvian devotional life since…",
+      "cim": "Pope’s touching prayer to the One who taught him to be a Shepherd",
+      "lead": "The day after his arrival in Chiclayo, the northern Peruvian diocese of which he was the bishop, Leo XIV offered a special tribute from his former cathedral on November 14, 2026. He presided over a rite of coronation of a statue of the Virgin, consecrating his ministry to her. The Cathedral of Mary of Chiclayo, a…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "Our Lady of Evangelization is the oldest Marian devotion in Peru",
-          "url": "https://aleteia.org/2026/11/14/our-lady-of-evangelization-is-the-oldest-marian-devotion-in-peru/"
-        }
-      ]
-    },
-    {
-      "cim": "Leidy Rimaycuna: Pope Leo XIV is close to his people",
-      "lead": "The sister of Monsignor Edgard Rimaycuna Inga, the Pope’s personal secretary, tells Vatican News what Pope Leo XIV’s return to Chiclayo means to her family and highlights his closeness to those most in need and the example he sets for young people discerning a vocation. Read all",
-      "forrasok": [
+          "cim": "Pope’s touching prayer to the One who taught him to be a Shepherd",
+          "url": "https://aleteia.org/2026/11/14/popes-touching-prayer-to-the-one-who-taught-him-to-be-a-shepherd/"
+        },
         {
           "nev": "Vatican News",
-          "cim": "Leidy Rimaycuna: Pope Leo XIV is close to his people",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/sister-edgar-rimaycuna-pope-leo-xiv-secretary-interview.html"
+          "cim": "Pope Leo greets faithful at parish in Santa Cruz and asks for prayers",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-parish-santa-cruz-peru.html"
         }
       ]
     },
     {
-      "cim": "Leo in Argentina: ‘A new meaning’ to Francis’s pontificate",
-      "lead": "The Pope did not fulfil the dreams of those who wanted his Argentina visit to turn him into another Francis, says a respected Argentine church commentator",
+      "cim": "Canada: Raise your voice, bishops say",
+      "lead": "The Canadian Conference of Catholic Bishops (CCCB) is urging the nation’s Catholics and other concerned citizens to speak out about part of Bill C-41, called “the Medical Assistance in Dying Safeguards Act.” While increasing safeguards around Medical Assistance in Dying (MAID) sounds promising, the bill has two parts…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Canada: Raise your voice, bishops say",
+          "url": "https://aleteia.org/2026/11/14/canada-raise-your-voice-bishops-say/"
+        },
+        {
+          "nev": "Catholic Herald",
+          "cim": "Canadian bishops call for proposed euthanasia law to be split into two bills",
+          "url": "https://thecatholicherald.com/article/canadian-bishops-call-for-proposed-euthanasia-law-to-be-split-into-two-bills"
+        }
+      ]
+    },
+    {
+      "cim": "American Carlo Acutis? Meet Francisco Fredrickson",
+      "lead": "When Laura Fredrickson, a mother of four from Virginia, began reading My Son Carlo — a memoir by Antonia Salzano Acutis, mother of St. Carlo Acutis — she kept putting down the book in shock. “It got a little creepy there for a bit!” she told Aleteia. “Whenever I would start reading it, I would need to stop because I…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "American Carlo Acutis? Meet Francisco Fredrickson",
+          "url": "https://aleteia.org/2026/11/15/american-carlo-acutis-meet-francisco-fredrickson/"
+        }
+      ]
+    },
+    {
+      "cim": "Global poverty recovery at risk as foreign aid shrinks, new Fordham report warns",
+      "lead": "This is the third Pope Francis Global Poverty Report, inspired by the late pontiff's 2015 address to the UN, and released to coincide with World Day of the Poor.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Global poverty recovery at risk as foreign aid shrinks, new Fordham report warns",
+          "url": "https://www.ncronline.org/news/global-poverty-recovery-risk-foreign-aid-shrinks-new-fordham-report-warns"
+        }
+      ]
+    },
+    {
+      "cim": "‘Come, you who are blessed by my Father’",
+      "lead": "This week’s ‘Magnificat’ brings together reflections from saints, martyrs and spiritual writers as the liturgical year approaches its close with the solemnity of Christ the King",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Leo in Argentina: ‘A new meaning’ to Francis’s pontificate",
-          "url": "https://thecatholicherald.com/article/leo-in-argentina-a-new-meaning-to-francis-s-pontificate"
+          "cim": "‘Come, you who are blessed by my Father’",
+          "url": "https://thecatholicherald.com/article/come-you-who-are-blessed-by-my-father"
         }
       ]
     },
     {
-      "cim": "NCR Spirituality section brings in expanded team of Scripture for Life theologians",
-      "lead": "The world is changing at a head-spinning pace, which means the needs of everyday readers are changing as well. So change is necessary in National Catholic Reporter's Spirituality offerings, too.",
+      "cim": "At Zaña, Leo XIV pays a final tribute to his former diocese",
+      "lead": "On the afternoon of November 14, 2026, Leo XIV returned to the Catholic community of his former diocese of Chiclayo, at the Sanctuary of Santo Toribio de Mogrovejo in Zaña. Before 10,000 people gathered in overflowing enthusiasm, he delivered a message full of gratitude in a very personal tone, while calling for…",
       "forrasok": [
         {
-          "nev": "National Catholic Reporter",
-          "cim": "NCR Spirituality section brings in expanded team of Scripture for Life theologians",
-          "url": "https://www.ncronline.org/spirituality/ncr-spirituality-section-brings-expanded-team-scripture-life-theologians"
+          "nev": "Aleteia",
+          "cim": "At Zaña, Leo XIV pays a final tribute to his former diocese",
+          "url": "https://aleteia.org/2026/11/15/at-zana-leo-xiv-pays-a-final-tribute-to-his-former-diocese/"
         }
       ]
     },
     {
-      "cim": "30 years after his death, we still need Cardinal Bernardin",
-      "lead": "Fr. Enzo Del Brocco, president of Catholic Theological Union, writes that Cardinal Joseph Bernardin's consistent life ethic has never been more urgent.",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "30 years after his death, we still need Cardinal Bernardin",
-          "url": "https://www.ncronline.org/opinion/ncr-voices/30-years-after-his-death-we-still-need-cardinal-bernardin"
-        }
-      ]
-    },
-    {
-      "cim": "It's time to say goodbye to 'Soul Seeing'",
-      "lead": "After 15 years, 414 columns, 450,000 words and 112 writers, editor and writer Mike Leach says goodbye to \"Soul Seeing.\"",
-      "forrasok": [
-        {
-          "nev": "National Catholic Reporter",
-          "cim": "It's time to say goodbye to 'Soul Seeing'",
-          "url": "https://www.ncronline.org/spirituality/its-time-say-goodbye-soul-seeing"
-        }
-      ]
-    },
-    {
-      "cim": "Lord’s Day Reflection: ‘Talents, Talent, and a Touch of Divine Inspiration’",
-      "lead": "As the Church celebrates the Thirty-Third Sunday in Ordinary Time, Jenny Kraska offers her thoughts on the day's liturgical readings, reflecting on the theme, “Talents, Talent, and a Touch of Divine Inspiration.” Read all",
+      "cim": "Pope Leo in Zaña: Continue passing on the faith to your children",
+      "lead": "At the Shrine of Saint Turibius of Mogrovejo, during his meeting with the local community of faithful, Pope Leo notes that a shepherd is also recognized by the “physical and existential distances” he is willing to travel. He also revealed that his encounter with this community of believers helped him gain a deeper…",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Lord’s Day Reflection: ‘Talents, Talent, and a Touch of Divine Inspiration’",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/gospel-reflection-thirty-third-sunday-ordinary-time.html"
+          "cim": "Pope Leo in Zaña: Continue passing on the faith to your children",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-zana-continue-passing-on-the-faith-to-your-children.html"
         }
       ]
     },
     {
-      "cim": "A promise kept: Pope Leo returns to Santa Cruz",
-      "lead": "Ahead of Pope Leo XIV's celebration of Mass in the small, isolated town of Santa Cruz in the Andes mountains, the local parish priest recalls then-Bishop Robert Prevost's promise to make a visit, a promise which he is upholding as the Bishop of Rome. Read all",
+      "cim": "In Chiclayo, Pope Leo calls on local clergy to reject clericalism, warns students against soulless tech",
+      "lead": "The pope warned against reducing higher ed to mere job training for the market. \"A progress that is indifferent to justice and the dignity of workers becomes, in fact, a mechanism of oppression and exclusion,\" he said.",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "A promise kept: Pope Leo returns to Santa Cruz",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/a-promise-kept-pope-leo-returns-to-santa-cruz.html"
+          "nev": "National Catholic Reporter",
+          "cim": "In Chiclayo, Pope Leo calls on local clergy to reject clericalism, warns students against soulless tech",
+          "url": "https://www.ncronline.org/vatican/chiclayo-pope-leo-calls-local-clergy-reject-clericalism-warns-students-against-soulless"
+        }
+      ]
+    },
+    {
+      "cim": "Once called 'gringo,' Pope Leo returns to Chiclayo as 'Holy Father'",
+      "lead": "In the Peruvian community the former Robert Prevost previously ministered, \"we understand his message well, and we understand where he is leading [church],\" one person said.",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Once called 'gringo,' Pope Leo returns to Chiclayo as 'Holy Father'",
+          "url": "https://www.ncronline.org/vatican/once-called-gringo-pope-leo-returns-chiclayo-holy-father"
         }
       ]
     }
