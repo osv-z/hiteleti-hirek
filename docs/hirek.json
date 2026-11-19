@@ -1,7 +1,23 @@
 {
-  "datum": "2026-11-18",
-  "generalva": "2026-11-18T14:22+01:00",
+  "datum": "2026-11-19",
+  "generalva": "2026-11-19T14:48+01:00",
   "hazai": [
+    {
+      "cim": "Nem elég sajnálni a szegényeket – 3 tanítás Árpád-házi Szent Erzsébet nyomán a valódi szeretetről",
+      "lead": "November 19. Árpád-házi Szent Erzsébet liturgikus ünnepe. A magyar királylány nemesi származását nem tekintette előjognak, sőt: még gúnyolódást is elviselt a szegényekért, vagyonát és idejét a rászorulók szolgálatába állította, ma is fontos kérdést tesz fel nekünk: észrevesszük-e azokat, akik mellett nap mint nap…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Nem elég sajnálni a szegényeket – 3 tanítás Árpád-házi Szent Erzsébet nyomán a valódi szeretetről",
+          "url": "https://zarandok.ma/szent-erzsebet-arpad-haz-szegenyek-szeretet-szolgalat/"
+        },
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Árpád-házi Szent Erzsébet",
+          "url": "https://magyarkurir.hu/hirek/arpad-hazi-szent-erzsebet"
+        }
+      ]
+    },
     {
       "cim": "Leó pápa katekézise: Az Egyház legyen az egység látható jele és eszköze az egész világon",
       "lead": "A borongós idő ellenére és a mintegy húszezer zarándok jelenléte miatt a Szentatya a Szent Péter téren tartotta meg a szerdai általános kihallgatást és benne a katekézisét, melynek során áttekintette a kedden véget ért latin-amerikai útját. Peruban sokáig élt misszionáriusként és püspökként, Argentína Ferenc pápa…",
@@ -19,106 +35,90 @@
       ]
     },
     {
-      "cim": "Leó pápa szerda délelőtt: Isten népének szépségét tapasztaltam meg apostoli utamon",
-      "lead": "November 18-án, szerdán az általános kihallgatást a Szent Péter téren tartották, ahol a Szentatya az Olaszországból és a világ minden tájáról érkezett hívőkkel és zarándokcsoportokkal találkozott. Ennek keretében legutóbbi, Uruguayban, Argentínában és Peruban tett apostoli útjára tekintett vissza.",
+      "cim": "A ghánai püspökök fellépést sürgetnek az illegális bányászat, a drogkereskedelem és az erőszak ellen",
+      "lead": "A ghánai püspöki konferencia november 3–14. között tartotta éves plenáris ülését a Konongo-Mampong Egyházmegyében, az Ashanti régióban található jamási Divine Providence Lelkipásztori Központban. Zárónyilatkozatukban az illegális bányászat, a növekvő kábítószer-kereskedelem, a diákok körében tapasztalható…",
       "forrasok": [
         {
           "nev": "Magyar Kurír",
-          "cim": "Leó pápa szerda délelőtt: Isten népének szépségét tapasztaltam meg apostoli utamon",
-          "url": "https://magyarkurir.hu/hirek/leo-papa-szerda-delelott-isten-nepenek-szepseget-tapasztaltam-meg-apostoli-utamon"
-        },
+          "cim": "A ghánai püspökök fellépést sürgetnek az illegális bányászat, a drogkereskedelem és az erőszak ellen",
+          "url": "https://magyarkurir.hu/hirek/a-ghanai-puspokok-fellepest-surgetnek-az-illegalis-banyaszat-drogkereskedelem-es-az-eroszak-ellen"
+        }
+      ]
+    },
+    {
+      "cim": "Szombathelyre érkezett Szent Carlo Acutis eucharisztikus csodákat bemutató kiállítása",
+      "lead": "Kettős ünnepet ültek november 15-én a szombathelyi Szent Kereszt-plébánián: Székely János megyéspüspök megnyitotta a Szent Carlo Acutis által összeállított, eucharisztikus csodákat bemutató tárlatot, valamint megáldotta a Kálvária-templom új, a szentet és kortársait ábrázoló festményét.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Szombathelyre érkezett Szent Carlo Acutis eucharisztikus csodákat bemutató kiállítása",
+          "url": "https://magyarkurir.hu/hirek/szombathelyre-erkezett-szent-carlo-acutis-eucharisztikus-csodakat-bemutato-kiallitasa"
+        }
+      ]
+    },
+    {
+      "cim": "Iránytű és bátorítás – Héjj Tibor közgazdász az MKPK új körleveléről",
+      "lead": "A Magyar Katolikus Püspöki Konferencia Igazságosabb és testvériesebb világot! – 30 év után című, társadalmi kérdésekkel foglalkozó körlevelének bemutatására sorozatot indítottunk a Hetvenkét Tanítvány Mozgalommal együttműködésben. A III. részt Héjj Tibor közgazdász, a Hetvenkét Tanítvány Mozgalom tagja mutatja be.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Iránytű és bátorítás – Héjj Tibor közgazdász az MKPK új körleveléről",
+          "url": "https://magyarkurir.hu/hirek/iranytu-es-batoritas-hejj-tibor-kozgazdasz-az-mkpk-uj-korlevelerol"
+        }
+      ]
+    },
+    {
+      "cim": "Ünnep - Sajgó Balázs atya elmélkedése Krisztus Király vasárnapjára",
+      "lead": "Ne félelemből legyek jó, hanem szeretetből váljak jóvá. Olvasd el mindet",
+      "forrasok": [
         {
           "nev": "Vatican News (magyar)",
-          "cim": "Leó pápa felhívásai a szerdai kihallgatáson",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-kihallgatas-felhivas-halaszat-imanap-bantalmazas-kozkowna.html"
+          "cim": "Ünnep - Sajgó Balázs atya elmélkedése Krisztus Király vasárnapjára",
+          "url": "https://www.vaticannews.va/hu/egyhaz/news/2026-11/sajgo-balazs-atya-elmelkedese-az-evkozi-34-vasarnapra-unnep.html"
         }
       ]
     },
     {
-      "cim": "Mindszenty szabadon, harmadszor is – Könyvbemutatóra várják az érdeklődőket Budapesten",
-      "lead": "A Magyarországi Mindszenty Alapítvány két új kiadványát mutatják be november 30-án, hétfőn 18 órától a budapesti S4 Közösségi és Kulturális Központban. A könyvbemutatón Székely János szombathelyi megyéspüspök, Kuzmányi István, a Magyar Kurír és az Új Ember igazgató-főszerkesztője, valamint Kovács Gergely, az…",
+      "cim": "Leó pápa a Szent Péter bazilika szentelési jubileumán: Péter szíve dobog minden pápában",
+      "lead": "1626. november 18-án, pontosan négyszáz éve VIII. Orbán pápa felszentelte a 120 év alatt elkészült új vatikáni bazilikát. Ennek emlékére XIV. Leó pápa november 18-án, szerdán este ünnepi hálaadó szentmisét mutatott be, megemlékezve a Szent Péter és Szent Pál apostolok bazilikái felszentelésének hagyományosan közös…",
       "forrasok": [
         {
-          "nev": "Magyar Kurír",
-          "cim": "Mindszenty szabadon, harmadszor is – Könyvbemutatóra várják az érdeklődőket Budapesten",
-          "url": "https://magyarkurir.hu/hirek/mindszenty-szabadon-harmadszor-is-konyvbemutatora-varjak-az-erdeklodoket-budapesten"
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa a Szent Péter bazilika szentelési jubileumán: Péter szíve dobog minden pápában",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-szent-peter-bazilika-felszenteles-jubileum-sziv-dobog-peter.html"
         }
       ]
     },
     {
-      "cim": "A pálos templom névadóját, Szent Imrét ünnepelték Pécsen",
-      "lead": "Szent Imre ünnepéhez kapcsolódóan november 8-án tartották a pécsi pálos templom búcsúját, amely méltó lezárása volt a november 5–8. között megrendezett Szent Imre-napok programsorozatnak. A templombúcsún az ezüstmisés Borza Miklós balatonszemesi plébános mutatott be ünnepi szentmisét Bíró László püspök, illetve a…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A pálos templom névadóját, Szent Imrét ünnepelték Pécsen",
-          "url": "https://magyarkurir.hu/hirek/a-palos-templom-nevadojat-szent-imret-unnepeltek-pecsen"
-        }
-      ]
-    },
-    {
-      "cim": "Bűn-e a GTA 6-tal játszani?",
-      "lead": "A Grand Theft Auto VI körüli várakozás nemcsak a videojátékos közösséget mozgatja meg, hanem erkölcsi és vallási kérdéseket is felvet. Összeegyeztethető-e a keresztény értékrenddel egy olyan játék, amelyben a bűnözés, az erőszak és a szexualitás központi szerepet kap? A Grand Theft Auto (GTA) sorozat évtizedek óta az…",
+      "cim": "„Jézus nem egy influenszer, akire vagy hallgatok, vagy nem” – Fábry Kornélt influenszerek kérdezték tabuk nélül",
+      "lead": "Három influenszer, KIIS, Geri és Gabee Zun beszélgetett Dr. Fábry Kornél püspök atyával az NR podcastben. Szóba került a halál utáni élet, hogy mi a jó és rossz, a szeretet, a pornográfia, szexualitás, a kereszténység alapjai, és a gyónásról is faggatták az atyát. Az NR podcast vendégeként szerepelt Dr. Fábry Kornél…",
       "forrasok": [
         {
           "nev": "777",
-          "cim": "Bűn-e a GTA 6-tal játszani?",
-          "url": "https://777blog.hu/2026/11/18/bun-e-a-gta-6-tal-jatszani/"
+          "cim": "„Jézus nem egy influenszer, akire vagy hallgatok, vagy nem” – Fábry Kornélt influenszerek kérdezték tabuk nélül",
+          "url": "https://777blog.hu/2026/11/19/jezus-nem-egy-influenszer-akire-vagy-hallgatok-vagy-nem-fabry-kornelt-influenszerek-kerdeztek-tabuk-nelul/"
         }
       ]
     },
     {
-      "cim": "A nevelés mai kihívásairól tanácskoztak az Egri Főegyházmegye katolikus iskoláinak vezetői",
-      "lead": "Az Egri Főegyházmegye fenntartásában működő köznevelési intézmények igazgatói november 12-én az Érseki Papnevelő Intézet konferenciatermében tartottak értekezletet. A tanév aktuális kérdései mellett a gyermekek viselkedési problémáinak hátteréről, a hátrányos helyzetű diákok támogatásáról és a szelíd pedagógia…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "A nevelés mai kihívásairól tanácskoztak az Egri Főegyházmegye katolikus iskoláinak vezetői",
-          "url": "https://magyarkurir.hu/hirek/a-neveles-mai-kihivasairol-tanacskoztak-az-egri-foegyhazmegye-katolikus-iskolainak-vezetoi"
-        }
-      ]
-    },
-    {
-      "cim": "A jóság, amelyet a szenvedés sem tudott megtörni – Lelkesítő",
-      "lead": "Hogyan maradhat valaki örömteli és jóságos, ha elveszítette a családját, éveket töltött börtönben, és súlyos betegségekkel kellett megküzdenie? A Lelkesítő legújabb epizódjában Bartha Angéla szociális testvér a Szentlélek gyümölcsei közül a jóságról elmélkedik, Fenyvesi Judit szociális testvér rendkívüli…",
-      "forrasok": [
-        {
-          "nev": "Zarándok.ma",
-          "cim": "A jóság, amelyet a szenvedés sem tudott megtörni – Lelkesítő",
-          "url": "https://zarandok.ma/a-josag-amelyet-a-szenvedes-sem-tudott-megtorni-lelkesito/"
-        }
-      ]
-    },
-    {
-      "cim": "A lombikbébitől az idősek méltóságáig: kérdések, amelyekről mindannyiunknak gondolkodnunk kell",
-      "lead": "A bioetika kész válaszok gyűjteménye helyett egyfajta párbeszéd, folyamatos mérlegelés és tanulás – vallja Kovács Gusztáv, a Magyar Bioetikai Társaság nemrég megválasztott elnöke. Szerinte az orvostudomány fejlődése mellett egyre sürgetőbb újragondolni, mit jelent az emberi méltóság, a gondoskodás és a gyógyítás…",
-      "forrasok": [
-        {
-          "nev": "777",
-          "cim": "A lombikbébitől az idősek méltóságáig: kérdések, amelyekről mindannyiunknak gondolkodnunk kell",
-          "url": "https://777blog.hu/2026/11/18/a-lombikbebitol-az-idosek-meltosagaig-kerdesek-amelyekrol-mindannyiunknak-gondolkodnunk-kell/"
-        }
-      ]
-    },
-    {
-      "cim": "„Túl gyorsan jött a nagy pénz” – hogyan épült újjá a botrányok után a cserkészszövetség?",
-      "lead": "Az ország legrégebbi és legnagyobb ifjúsági civil szervezete nemzedékek óta százezreknek nyújt életre szóló élményeket. A Magyar Cserkészszövetség hírnevét azonban az utóbbi években több botrány is megtépázta. Hogyan zárult a 254 milliós sikkasztási ügy, mi lett a gyermekvédelmi esetekkel, és a „NER-es” politikai…",
+      "cim": "A cölibátus nem a papi alkalmasság mércéje – válasz Hodász Andrásnak",
+      "lead": "A cölibátus lehet érték, hivatás, de kötelezővé téve emberi sorsokat is derékba törhet. Ha az egyház elismeri, hogy a papság természetéből nem következik a nőtlenség, miért zárunk ki alkalmas, de családra vágyó embereket a lelkipásztori szolgálatból? Katolikus teológiát végzett történész szerzőnk személyes hangvételű…",
       "forrasok": [
         {
           "nev": "Szemlélek",
-          "cim": "„Túl gyorsan jött a nagy pénz” – hogyan épült újjá a botrányok után a cserkészszövetség?",
-          "url": "https://szemlelek.net/tul-gyorsan-jott-a-nagy-penz-hogyan-epult-ujja-a-botranyok-utan-a-cserkeszszovetseg/"
+          "cim": "A cölibátus nem a papi alkalmasság mércéje – válasz Hodász Andrásnak",
+          "url": "https://szemlelek.net/a-colibatus-nem-a-papi-alkalmassag-merceje-valasz-hodasz-andrasnak/"
         }
       ]
     },
     {
-      "cim": "Isten szereti a szerény kezdeteket",
-      "lead": "Egy 2011-ben megjelent tanulmányban Erica Chenoweth politológus 323 erőszakmentes mozgalmat elemzett világszerte, és meglepő dologra hívta fel a figyelmet. Néhány kivételtől eltekintve úgy tűnik, hogy egy olyan erőszakmentes kampány, amely a lakosságnak körülbelül 3,5%-át képes mozgósítani, szinte mindig jelentős…",
+      "cim": "Ahol szentek őrzik az átkelőt – mesebeli ködbe burkolózik Prága ikonikus Károly-hídja",
+      "lead": "Ahogy közelít a tél, Prága a ködös reggeleken egészen mesebeli arcát mutatja. A Károly-híd ilyenkor a ködből előbukkanó, sziluettként kirajzolódó szobraival páratlan látványt nyújt. A híd szentábrázolásai a keresztény Európa évszázadait idézik meg. Nem véletlen, hogy művészeket és fotósokat is újra és újra megihlet…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Isten szereti a szerény kezdeteket",
-          "url": "https://zarandok.ma/isten-szereti-a-szereny-kezdeteket/"
+          "cim": "Ahol szentek őrzik az átkelőt – mesebeli ködbe burkolózik Prága ikonikus Károly-hídja",
+          "url": "https://zarandok.ma/karoly-hid-praga-szentek-szobrok-tortenet-fotok/"
         }
       ]
     }
@@ -142,6 +142,54 @@
           "nev": "Catholic Herald",
           "cim": "New Chinese bishop consecrated with papal approval",
           "url": "https://thecatholicherald.com/article/new-chinese-bishop-consecrated-with-papal-approval"
+        }
+      ]
+    },
+    {
+      "cim": "Pope celebrates Mass on 400th anniversary of dedication of St. Peter’s Basilica",
+      "lead": "On the 400th anniversary of the dedication of the current Basilica of St. Peter, Pope Leo XIV reminds the faithful that Christ is the one cornerstone of the Church’s mission, saying the Basilica invites us to believe, “not because the beautiful stones that comprise the building, but because of the faith that shines…",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "Pope celebrates Mass on 400th anniversary of dedication of St. Peter’s Basilica",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-celebrates-mass-on-400th-anniversary-of-st-peter-s-basilica.html"
+        },
+        {
+          "nev": "Aleteia",
+          "cim": "Pope Leo celebrates 400 years of St. Peter’s",
+          "url": "https://aleteia.org/2026/11/19/pope-leo-celebrates-400-years-of-st-peters/"
+        }
+      ]
+    },
+    {
+      "cim": "What Leo gifted and received in South America",
+      "lead": "Papal visits produce a particular kind of diplomacy, sometimes conducted not in communiqués but in gestures, and even in objects. Over 12 days in Uruguay, Argentina, and Peru (November 6–17), Pope Leo XIV gave and received gifts that, taken together, trace the arc of his journey almost as clearly as any itinerary. On…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "What Leo gifted and received in South America",
+          "url": "https://aleteia.org/2026/11/18/what-leo-gifted-and-received-in-south-america/"
+        },
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Pope Leo reflects on South America trip, feeling 'at home' in Peru",
+          "url": "https://www.ncronline.org/vatican/pope-leo-reflects-south-america-trip-feeling-home-peru"
+        }
+      ]
+    },
+    {
+      "cim": "Vatican’s Christmas tree arrives tomorrow, with a St. Francis twist",
+      "lead": "The Christmas tree that will adorn St Peter’s Square is due to arrive tomorrow, November 19, the Vatican announced today. A new feature this year is that the lighting of this tree and the nativity scene, on December 7, will take place simultaneously with the town of Gubbio, in Umbria – home to what is known as the…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "Vatican’s Christmas tree arrives tomorrow, with a St. Francis twist",
+          "url": "https://aleteia.org/2026/11/18/vaticans-christmas-tree-arrives-tomorrow-with-a-st-francis-twist/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Christmas tree in St. Peter’s Square to be lit up on December 7",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-christmas-tree-gubbio-st-francis-children-nativity-scene.html"
         }
       ]
     },
@@ -194,68 +242,35 @@
       ]
     },
     {
-      "cim": "Starting Seven: November 18, 2026",
+      "cim": "Starting Seven: November 19, 2026",
       "lead": "Welcome to Starting Seven, The Pillar’s daily newsletter.",
       "forrasok": [
         {
           "nev": "The Pillar",
-          "cim": "Starting Seven: November 18, 2026",
-          "url": "https://www.pillarcatholic.com/p/starting-seven-november-18-2026"
+          "cim": "Starting Seven: November 19, 2026",
+          "url": "https://www.pillarcatholic.com/p/starting-seven-november-19-2026"
         }
       ]
     },
     {
-      "cim": "400 Years of St. Peter’s Basilica!",
-      "lead": "The feast marked on November 18 of the dedication of the Basilicas of St. Peter and of St. Paul celebrates a history going all the way back to the Emperor Constantine, with both churches having been built under the emperor. However, in this year 2026, the feast is particularly noteworthy because the current St…",
+      "cim": "A Catholic take on Grand Theft Auto VI",
+      "lead": "Grand Theft Auto VI (GTA VI) is coming out today, November 19, after being in the making for more than a decade and it seems that everyone will be playing it. In fact, there’s a prediction that the launch of GTA VI will cost the U.S. economy roughly $1 billion in lost productivity/output today because of “GTA flu,” in…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "400 Years of St. Peter’s Basilica!",
-          "url": "https://aleteia.org/2026/11/18/400-years-of-st-peters-basilica/"
+          "cim": "A Catholic take on Grand Theft Auto VI",
+          "url": "https://aleteia.org/2026/11/19/a-catholic-take-on-grand-theft-auto-vi/"
         }
       ]
     },
     {
-      "cim": "Peruvian Church called to communion and fraternity after Pope’s visit",
-      "lead": "In a concluding interview following Pope Leo XIV’s Apostolic Journey, the President of the Peruvian Bishops’ Conference reflects on the Pope’s teachings and tasks left to the Church in Peru, as well as the fruits the Bishops hope to achieve. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Peruvian Church called to communion and fraternity after Pope’s visit",
-          "url": "https://www.vaticannews.va/en/church/news/2026-11/peruvian-church-called-communion-and-fraternity-popes-visit.html"
-        }
-      ]
-    },
-    {
-      "cim": "What Leo gifted and received in South America",
-      "lead": "Papal visits produce a particular kind of diplomacy, sometimes conducted not in communiqués but in gestures, and even in objects. Over 12 days in Uruguay, Argentina, and Peru (November 6–17), Pope Leo XIV gave and received gifts that, taken together, trace the arc of his journey almost as clearly as any itinerary. On…",
+      "cim": "A surprising way to fight isolation and loneliness",
+      "lead": "I spent seven years as a Carmelite brother, during which time I lived in monasteries. One Sunday during this time, a relative of mine came to visit with her children. As evening fell, we walked together on the monastery grounds perched in the hidden hills of northern California before she headed home. The parking lot…",
       "forrasok": [
         {
           "nev": "Aleteia",
-          "cim": "What Leo gifted and received in South America",
-          "url": "https://aleteia.org/2026/11/18/what-leo-gifted-and-received-in-south-america/"
-        }
-      ]
-    },
-    {
-      "cim": "At 78, King Charles reflects on what really matters",
-      "lead": "King Charles might not be the first person who springs to mind when thinking of the great romantics of our time. But during a rather entertaining conversation with Sir Elton John, the monarch revealed that one of the songs he finds particularly meaningful is The Beatles’ All You Need Is Love. And at 78, perhaps he’s…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "At 78, King Charles reflects on what really matters",
-          "url": "https://aleteia.org/2026/11/18/at-78-king-charles-reflects-on-what-really-matters/"
-        }
-      ]
-    },
-    {
-      "cim": "Cardinal Czerny urges human accountability for AI in warfare",
-      "lead": "Presenting Pope Leo XIV’s Magnifica humanitas in Bulgaria, Cardinal Michael Czerny reflects on why the Pope considers the “just war” theory outdated, who bears responsibility when AI is used in combat, and where the work of building peace begins. Read all",
-      "forrasok": [
-        {
-          "nev": "Vatican News",
-          "cim": "Cardinal Czerny urges human accountability for AI in warfare",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/cardinal-michael-czerny-magnifica-humanitas-just-war-ai.html"
+          "cim": "A surprising way to fight isolation and loneliness",
+          "url": "https://aleteia.org/2026/11/19/a-surprising-way-to-fight-isolation-and-loneliness/"
         }
       ]
     }
