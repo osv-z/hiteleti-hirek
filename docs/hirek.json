@@ -1,97 +1,108 @@
 {
-  "datum": "2026-11-20",
-  "generalva": "2026-11-20T14:31+01:00",
+  "datum": "2026-11-21",
+  "generalva": "2026-11-21T13:57+01:00",
   "hazai": [
     {
-      "cim": "XIV. Leó a karitatív szervezetekhez: Ne veszítsétek el annak örömét, hogy Isten kezei lehettek!",
-      "lead": "Leó pápa november 19-én, csütörtökön a Vatikánban fogadta a Caritas Internationalis által szervezett találkozó résztvevőit, akik az emberkereskedelem elleni küzdelemről tanácskoztak. A Szentatya hangsúlyozta, hogy a keresztény karitatív szolgálat megkülönböztető jegye a hit, és arra buzdította a jelenlévőket, hogy…",
+      "cim": "Közleményben reagált az evangélikus egyház a „könyvbotrányra”",
+      "lead": "Októberben egy svéd leszbikus lelkésznő Keresztény és meleg – Az meg hogy lehet? című könyvét mutatták be Budapesten. A nagy visszhangot kiváltó könyvbemutató kapcsán nyilatkozatot adott ki a Magyarországi Evangélikus Egyház. A közleményt változtatás nélkül közöljük. Johanna Wikberg svéd leszbikus lelkésznő Keresztény…",
       "forrasok": [
         {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó a karitatív szervezetekhez: Ne veszítsétek el annak örömét, hogy Isten kezei lehettek!",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-caritas-internationalis-emberkereskedelem-kuzdelem.html"
+          "nev": "777",
+          "cim": "Közleményben reagált az evangélikus egyház a „könyvbotrányra”",
+          "url": "https://777blog.hu/2026/11/20/kozlemenyben-reagalt-az-evangelikus-egyhaz-a-konyvbotranyra/"
         },
         {
-          "nev": "Magyar Kurír",
-          "cim": "Isten kezei lehettek – Emberkereskedelem ellen küzdő karitatív szervezeteket fogadott XIV. Leó",
-          "url": "https://magyarkurir.hu/hirek/isten-kezei-lehettek-emberkereskedelem-ellen-kuzdo-karitativ-szervezeteket-fogadott-xiv-leo"
-        }
-      ]
-    },
-    {
-      "cim": "Kalazanci Szent József élete kiszínezve – Új piarista kiadványt mutattak be Kecskeméten",
-      "lead": "A Kecskeméti Piarista Iskola első osztályosai november 19-én, egy bemutató órán vehették kézbe a Kalazanci Szent József élete című színezőt. A Piarista Rend Magyar Tartománya óvodásoknak és kisiskolásoknak készült kiadványa rövid történetekkel és kiszínezhető rajzokkal ismerteti meg a gyerekeket a rend alapítójával.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Kalazanci Szent József élete kiszínezve – Új piarista kiadványt mutattak be Kecskeméten",
-          "url": "https://magyarkurir.hu/hirek/kalazanci-szent-jozsef-elete-kiszinezve-uj-piarista-kiadvanyt-mutattak-be-kecskemeten"
-        }
-      ]
-    },
-    {
-      "cim": "Mohács 500 – A magyar államiság fennmaradásának tanulságaival zárult a veszprémi előadás-sorozat",
-      "lead": "A mohácsi csata ötszázadik évfordulójához kapcsolódó történelmi előadás-sorozat utolsó alkalmát tartották november 12-én a veszprémi Nagyszemináriumban.",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Mohács 500 – A magyar államiság fennmaradásának tanulságaival zárult a veszprémi előadás-sorozat",
-          "url": "https://magyarkurir.hu/hirek/mohacs-500-magyar-allamisag-fennmaradasanak-tanulsagaival-zarult-veszpremi-eloadas-sorozat"
-        }
-      ]
-    },
-    {
-      "cim": "Örmény liturgikus továbbképzést tartottak papoknak Gyulafehérváron",
-      "lead": "Liturgikus továbbképzésen vettek részt november 16–18. között Gyulafehérváron a Romániai Örmény Katolikus Ordinariátus lelkipásztori ellátását végző – a Gyulafehérvári Római Katolikus Főegyházmegyéhez tartozó latin szertartású – papok. A képzést Bedrosz Marashlian Haddad örmény katolikus pap, a budapesti örmény…",
-      "forrasok": [
-        {
-          "nev": "Magyar Kurír",
-          "cim": "Örmény liturgikus továbbképzést tartottak papoknak Gyulafehérváron",
-          "url": "https://magyarkurir.hu/hirek/ormeny-liturgikus-tovabbkepzest-tartottak-papoknak-gyulafehervaron"
-        }
-      ]
-    },
-    {
-      "cim": "Egy LMBTQ-képregény, amely megrengette az evangélikus egyházat",
-      "lead": "Miután az egyik budapesti gyülekezet otthont adott egy LMBTQ-képregény bemutatójának, éles feszültség támadt a Magyarországi Evangélikus Egyházban. Konzervatív-evangelikál körök – egyes sejtések szerint politikai hátszéllel – támadást indítottak a felekezet vezetése ellen, és azt követelik, hogy a püspökök álljanak…",
-      "forrasok": [
-        {
           "nev": "Szemlélek",
-          "cim": "Egy LMBTQ-képregény, amely megrengette az evangélikus egyházat",
+          "cim": "Egy LMBTQ-képregény, amely megrengette az evangélikusságot – itt az egyházvezetés válasza",
           "url": "https://szemlelek.net/egy-lmbtq-kepregeny-amely-megrengette-az-evangelikus-egyhazat/"
         }
       ]
     },
     {
-      "cim": "Mi történik, ha majd az algoritmusok döntik el, milyen emberi életet érdemes világra hozni?",
-      "lead": "A mesterséges megtermékenyítéstől az algoritmusokig: amikor az általunk megalkotott gépek válnak az emberi élet megítélésének mércéjévé. A tekintélyes katolikus bioetikus és pap, Alberto Carrara gondolatai az olasz Avvenire.it oldalán jelentek meg olaszul, Gyermeknemzés, a mesterséges intelligencia és a…",
+      "cim": "Egy évszázad tanúja: Huchthausen Lajos – Érsekségi ékességek (172.)",
+      "lead": "A Veszprémi Főegyházmegye kiemelt feladatának tekinti a hitből fakadó kultúra és a kulturális értékek gondozását, méltó bemutatását. Érsekségi ékességek című sorozatának legújabb részében Huchthausen Lajos kanonok Bilingérezések című kötetét ismerteti, amely személyes hangvételű történeteken és portrékon keresztül…",
       "forrasok": [
         {
-          "nev": "Zarándok.ma",
-          "cim": "Mi történik, ha majd az algoritmusok döntik el, milyen emberi életet érdemes világra hozni?",
-          "url": "https://zarandok.ma/algoritmusok-milyen-eletet-erdemes-vilagra-hozni/"
+          "nev": "Magyar Kurír",
+          "cim": "Egy évszázad tanúja: Huchthausen Lajos – Érsekségi ékességek (172.)",
+          "url": "https://magyarkurir.hu/hirek/egy-evszazad-tanuja-huchthausen-lajos-erseksegi-ekessegek-172"
         }
       ]
     },
     {
-      "cim": "324. nap: Jézus neve",
-      "lead": "Korszak: Az Egyház Ima Mennyei Atyánk, dicsérünk téged, és teljes szívből hálát adunk neked. Köszönjük ennek a napnak az ajándékát. Köszönjük irgalmad ajándékát, amely minden egyes reggel megújul. Köszönjük a kegyelem ajándékát, amely a maga teljességében és ingyenesen jön el hozzánk: nem olyasmi, amit kiérdemeltünk…",
+      "cim": "A föld, a hit és a művészet találkozása – Adventi kerámiakiállítás nyílik Győrben",
+      "lead": "A te arcodat keresem, Uram! – Adventi kiállítás keramikonokkal címmel nyílik tárlat november 26-án, csütörtökön 17 órakor a győri Triangulum Galériában. Lipovszky-Drescher Mária, Lipovszky-Molnár Zsuzsanna és Magyar Márta Zsófia keramikusművészek alkotásai a hit, a spiritualitás és a teremtett világ kapcsolatát…",
       "forrasok": [
         {
-          "nev": "Zarándok.ma",
-          "cim": "324. nap: Jézus neve",
-          "url": "https://zarandok.ma/324-nap-jezus-neve/"
+          "nev": "Magyar Kurír",
+          "cim": "A föld, a hit és a művészet találkozása – Adventi kerámiakiállítás nyílik Győrben",
+          "url": "https://magyarkurir.hu/hirek/a-fold-hit-es-muveszet-talalkozasa-adventi-keramiakiallitas-nyilik-gyorben"
         }
       ]
     },
     {
-      "cim": "Napi ráhangoló: Egyetlen család vagyunk, felelősek egymásért",
-      "lead": "Évközi 33. hét, péntek Jel 10,8-11; Lk 19,45-48 „Elvettem a könyvet az angyal kezéből, megettem, és a számban édes volt, mint a méz, de amikor lenyeltem, a gyomrom keserű lett.” A Szentírás első és utolsó könyvének horizontja az egész emberiség méreteire tágul. Ádám és Éva nem zsidó és nem keresztény, hanem ember…",
+      "cim": "Krisztus Egyháza senkit nem hagy magára – Vasárnap a rászorulóknak gyűjt a Karitász a templomokban",
+      "lead": "A Magyar Katolikus Püspöki Konferencia (MKPK) Árpád-házi Szent Erzsébet ünnepéhez kapcsolódva november 22-ére, vasárnapra országos templomi gyűjtést hirdetett a Katolikus Karitász javára. A püspökök arra kérik a híveket, hogy perselyadományaikkal támogassák a rászorulókat segítő szeretetszolgálat munkáját.",
+      "forrasok": [
+        {
+          "nev": "Magyar Kurír",
+          "cim": "Krisztus Egyháza senkit nem hagy magára – Vasárnap a rászorulóknak gyűjt a Karitász a templomokban",
+          "url": "https://magyarkurir.hu/hirek/krisztus-egyhaza-senkit-nem-hagy-magara-vasarnap-raszoruloknak-gyujt-karitasz-templomokban"
+        }
+      ]
+    },
+    {
+      "cim": "„A testünk is Isten ajándéka” – így kapcsolja össze Pulay Eszter a mozgást és a dicsőítést",
+      "lead": "Mi történik, ha az edzőtermi zenéket dicsőítő dalokra cseréljük, az edzés végén pedig egy bibliai gondolattal csendesedünk el? Lipóczkiné Pulay Eszter olyan keresztény női sportközösséget vezet, amelyben a testmozgás és a lelki élet egymást gazdagítja. A Full of Grace edzés megálmodója a közelmúltban a HÍD…",
       "forrasok": [
         {
           "nev": "Zarándok.ma",
-          "cim": "Napi ráhangoló: Egyetlen család vagyunk, felelősek egymásért",
-          "url": "https://zarandok.ma/napi-rahangolo-egyetlen-csalad-vagyunk-felelosek-egymasert/"
+          "cim": "„A testünk is Isten ajándéka” – így kapcsolja össze Pulay Eszter a mozgást és a dicsőítést",
+          "url": "https://zarandok.ma/full-of-grace-pulay-eszter-sport-dicsoites-kereszteny/"
+        }
+      ]
+    },
+    {
+      "cim": "325. nap: Bátorság a hitben",
+      "lead": "Korszak: Az Egyház Ima Mennyei Atyánk, dicsőítünk téged, és hálát adunk neked. Napról napra hallunk a te kegyelmedről, ahogyan kiárad ránk, hogy találkozzon velünk megtörtségünkben. Segíts, hogy igent tudjunk mondani a te kegyelmedre és ajándékaidra! Segíts, most is igent mondjunk rád, hogy megdicsőítsünk téged…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "325. nap: Bátorság a hitben",
+          "url": "https://zarandok.ma/325-nap-batorsag-a-hitben/"
+        }
+      ]
+    },
+    {
+      "cim": "Napi ráhangoló: Az Egyház tanúságtételét nem lehet elhallgattatni",
+      "lead": "Évközi 33. hét, szombat Jel 11,4-12; Lk 20,27-40 „Ők a két olajfa és a két gyertyatartó, amelyek a föld Ura előtt állnak. Ha valaki ártani akar nekik, tűz tör elő a szájukból, és megemészti ellenségeiket.” A Jelenések könyvében szereplő két tanú jelképes alak, utalhat Illésre és Hénochra, de valójában az egész…",
+      "forrasok": [
+        {
+          "nev": "Zarándok.ma",
+          "cim": "Napi ráhangoló: Az Egyház tanúságtételét nem lehet elhallgattatni",
+          "url": "https://zarandok.ma/napi-rahangolo-az-egyhaz-tanusagtetelet-nem-lehet-elhallgattatni/"
+        }
+      ]
+    },
+    {
+      "cim": "„A törvény betöltése a szeretet”– Reuss András evangélikus teológus a homoszexualitásról",
+      "lead": "Az alábbi 12 pont az Evangélikus Hittudományi Egyetem emeritus professzorának reflexiója a homoszexualitásról az egyházában kialakult vitában. Az írást a felekezet püspökei kiküldték a gyülekezetek vezetésének feldolgozásra és megvitatásra. A rendkívül igényes, gondolatébresztő szöveget a szerző engedélyével tesszük…",
+      "forrasok": [
+        {
+          "nev": "Szemlélek",
+          "cim": "„A törvény betöltése a szeretet”– Reuss András evangélikus teológus a homoszexualitásról",
+          "url": "https://szemlelek.net/a-torveny-betoltese-a-szeretet-reuss-andras-evangelikus-teologus-a-homoszexualitasrol/"
+        }
+      ]
+    },
+    {
+      "cim": "Leó pápa a Shalom katolikus közösségnek: Krisztus igazi békéjét vigyétek el a világba!",
+      "lead": "A 45 éve alapított Shalom katolikus közösség 3000 tagját fogadta a Szentatya november 19-én csütörtökön délelőtt a VI. Pál aulában, akik a napokban tartják Assisiben „Béke veletek!” címmel jubileumi összejövetelüket. Olvasd el mindet",
+      "forrasok": [
+        {
+          "nev": "Vatican News (magyar)",
+          "cim": "Leó pápa a Shalom katolikus közösségnek: Krisztus igazi békéjét vigyétek el a világba!",
+          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/papa-shalom-katolikus-kozosseg-krisztus-bekejet-vigyetek.html"
         }
       ]
     },
@@ -105,20 +116,41 @@
           "url": "https://777blog.hu/2026/11/19/emberi-eletek-a-focipalyan-kivul-a-brentford-fc-jatekosai-tettek-tanusagot-hitukrol/"
         }
       ]
-    },
-    {
-      "cim": "XIV. Leó február elején találkozik a római szeminaristákkal",
-      "lead": "Leó pápa 2027. február 6-án találkozik a Római Egyházmegye szeminaristáival a Bizalom Szűzanyja ünnepe alkalmából. Olvasd el mindet",
-      "forrasok": [
-        {
-          "nev": "Vatican News (magyar)",
-          "cim": "XIV. Leó február elején találkozik a római szeminaristákkal",
-          "url": "https://www.vaticannews.va/hu/papa/news/2026-11/leo-papa-februar-6-talalkozo-romai-szeminaristakkal-lateran.html"
-        }
-      ]
     }
   ],
   "nemzetkozi": [
+    {
+      "cim": "News from the Orient - 20 November 2026",
+      "lead": "In this week’s news from the Eastern Churches, produced in collaboration with L’Œuvre d’Orient, we turn to Syria, where the Melkite Greek Catholic Archbishop of Homs was attacked and held hostage. Read all",
+      "forrasok": [
+        {
+          "nev": "Vatican News",
+          "cim": "News from the Orient - 20 November 2026",
+          "url": "https://www.vaticannews.va/en/church/news/2026-11/news-from-the-orient-melkite-archbishop-syria-attack.html"
+        },
+        {
+          "nev": "The Pillar",
+          "cim": "Starting Seven: November 20, 2026",
+          "url": "https://www.pillarcatholic.com/p/starting-seven-november-20-2026"
+        }
+      ]
+    },
+    {
+      "cim": "(Photos) The Vatican Christmas tree arrived! (a day later than we said)",
+      "lead": "While we announced on Wednesday that the Vatican’s Christmas tree was arriving the next day, Thursday morning brought us an incredible rainfall — our photographer got soaked! — and no tree. Whether the delay was the wet skies or a scheduling / communication error is not exactly clear, but we did share a moment of…",
+      "forrasok": [
+        {
+          "nev": "Aleteia",
+          "cim": "(Photos) The Vatican Christmas tree arrived! (a day later than we said)",
+          "url": "https://aleteia.org/2026/11/20/photos-the-vatican-christmas-tree-arrived-a-day-later-than-we-said/"
+        },
+        {
+          "nev": "Vatican News",
+          "cim": "Vatican Christmas tree arrives in St. Peter’s Square",
+          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-christmas-tree-arrives-in-saint-peters-square.html"
+        }
+      ]
+    },
     {
       "cim": "Pope Leo: the art of humor in the face of flying rosaries",
       "lead": "After Pope Leo’s recent trip to Peru, we think he might want to consider adding a new accessory to his papal wardrobe: a crash helmet … and actually a baseball glove, too! Because lately, being pope seems to involve an unexpected amount of airborne rosaries and other items, and even his impressive sports reflexes…",
@@ -136,106 +168,79 @@
       ]
     },
     {
-      "cim": "Pope celebrates Mass on 400th anniversary of dedication of St. Peter’s Basilica",
-      "lead": "On the 400th anniversary of the dedication of the current Basilica of St. Peter, Pope Leo XIV reminds the faithful that Christ is the one cornerstone of the Church’s mission, saying the Basilica invites us to believe, “not because the beautiful stones that comprise the building, but because of the faith that shines…",
+      "cim": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous'",
+      "lead": "Addressing participants in the International Space Forum, Pope Leo thanks them for their efforts to promote the common good, warning that 'if technologies and their applications are not adequately governed in accordance with the principles of ethics, the risks for humanity are enormous.' Read all",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Pope celebrates Mass on 400th anniversary of dedication of St. Peter’s Basilica",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-celebrates-mass-on-400th-anniversary-of-st-peter-s-basilica.html"
-        },
-        {
-          "nev": "Aleteia",
-          "cim": "Pope Leo celebrates 400 years of St. Peter’s",
-          "url": "https://aleteia.org/2026/11/19/pope-leo-celebrates-400-years-of-st-peters/"
+          "cim": "Pope Leo XIV: 'If technology is not applied ethically, risks for humanity are enormous'",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-meets-participants-in-the-international-space-forum.html"
         }
       ]
     },
     {
-      "cim": "Starting Seven: November 20, 2026",
-      "lead": "Welcome to Starting Seven, The Pillar’s daily newsletter.",
-      "forrasok": [
-        {
-          "nev": "The Pillar",
-          "cim": "Starting Seven: November 20, 2026",
-          "url": "https://www.pillarcatholic.com/p/starting-seven-november-20-2026"
-        }
-      ]
-    },
-    {
-      "cim": "(Photos) The Vatican Christmas tree arrived! (a day later than we said)",
-      "lead": "While we announced on Wednesday that the Vatican’s Christmas tree was arriving the next day, Thursday morning brought us an incredible rainfall — our photographer got soaked! — and no tree. Whether the delay was the wet skies or a scheduling / communication error is not exactly clear, but we did share a moment of…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "(Photos) The Vatican Christmas tree arrived! (a day later than we said)",
-          "url": "https://aleteia.org/2026/11/20/photos-the-vatican-christmas-tree-arrived-a-day-later-than-we-said/"
-        }
-      ]
-    },
-    {
-      "cim": "Cardinal Pizzaballa: ‘Church brings hope in Holy Land where politics cannot reach’",
-      "lead": "Cardinal Pierbattista Pizzaballa, Latin Patriarch of Jerusalem, highlights the importance of Cardinal Claudio Gugerotti’s pilgrimage for Christian communities suffering from violence and economic hardship. Read all",
+      "cim": "Pope appoints Fr Serge-Thomas Bonino as Theologian of Papal Household",
+      "lead": "Pope Leo XIV appoints Dominican Father Serge-Thomas Bonino as Theologian of the Pontifical Household, Father Enrico Massignani as Under-Secretary of the Dicastery for the Clergy, and Archbishop Javier Domingo Fernández González as Apostolic Nuncio to Liberia and Sierra Leone, while conferring the personal title of…",
       "forrasok": [
         {
           "nev": "Vatican News",
-          "cim": "Cardinal Pizzaballa: ‘Church brings hope in Holy Land where politics cannot reach’",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/holy-land-pizzaballa-gugerotti-visit-interview.html"
+          "cim": "Pope appoints Fr Serge-Thomas Bonino as Theologian of Papal Household",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-appoints-fr-serge-thomas-bonino-theologian-papal-household.html"
         }
       ]
     },
     {
-      "cim": "Why AI can never satisfy our need for real human relationships",
-      "lead": "In recent years, artificial intelligence has become much more than a search engine and is increasingly being used by individuals around the world as a replacement for human relationships. AI chatbots can appear very friendly and kind, giving positive encouragement and offering funny jokes to lighten our mood. Not only…",
+      "cim": "Pope Leo XIV to meet 6,000 young people from Lazio",
+      "lead": "Pope Leo will meet more than 6,000 young people from the Italian region of Lazio in the Vatican’s Paul VI Hall on Saturday at a prayer event organized by the Bishops’ Conference of the region, inspired by the theme of the 2027 World Youth Day in Seoul, “Take courage! I have overcome the world” (Jn 16:33). Read all",
       "forrasok": [
         {
-          "nev": "Aleteia",
-          "cim": "Why AI can never satisfy our need for real human relationships",
-          "url": "https://aleteia.org/2026/11/20/why-ai-can-never-satisfy-our-need-for-real-human-relationships/"
+          "nev": "Vatican News",
+          "cim": "Pope Leo XIV to meet 6,000 young people from Lazio",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-to-meet-6-000-young-people-from-lazio-21-november.html"
         }
       ]
     },
     {
-      "cim": "The day St. Peter’s dome was crowned with a cross",
-      "lead": "On November 18, 1593, a feverish excitement grips the streets of Rome. We can imagine Pope Clement VIII making his way to the Sistine Chapel to pray beneath the ceiling Michelangelo covered with frescoes more than 80 years earlier. What he prays for remains a mystery, but it’s a safe bet that his mind is not on the…",
-      "forrasok": [
-        {
-          "nev": "Aleteia",
-          "cim": "The day St. Peter’s dome was crowned with a cross",
-          "url": "https://aleteia.org/2026/11/20/the-day-st-peters-dome-was-crowned-with-a-cross/"
-        }
-      ]
-    },
-    {
-      "cim": "Cardinal Müller: Arguing Synod on Synodality’s text is magisterial verges on heresy",
-      "lead": "The respected German theologian delivered a robust theological critique of the common arguments made in favour of the Synod on Synodality",
+      "cim": "Review: The Jillon makes a persuasive case for a full-length Harry Hill film",
+      "lead": "A 15-minute surrealist comedy about an elderly couple, a prayer to St Gerard, and a Frankenstein tale about wish fulfilment.",
       "forrasok": [
         {
           "nev": "Catholic Herald",
-          "cim": "Cardinal Müller: Arguing Synod on Synodality’s text is magisterial verges on heresy",
-          "url": "https://thecatholicherald.com/article/cardinal-muller-arguing-synod-on-synodality-s-text-is-magisterial-verges-on-heresy"
+          "cim": "Review: The Jillon makes a persuasive case for a full-length Harry Hill film",
+          "url": "https://thecatholicherald.com/article/review-the-jillon-makes-a-persuasive-case-for-a-full-length-harry-hill-film"
         }
       ]
     },
     {
-      "cim": "Holy See: ‘No algorithm can make war morally acceptable’",
-      "lead": "In a position paper submitted to the Seventh Review Conference of the Convention on Certain Conventional Weapons in Geneva, the Holy See calls for a moratorium on lethal autonomous weapons and a legally binding international framework, insisting that decisions over life and death must remain in human hands. Read all",
+      "cim": "Depictions of God onscreen are always controversial. They're also beneficial.",
+      "lead": "\"The Lord is not just a sweet old Jewish man or a CGI lioness voiced by one of our most celebrated actors,\" Jim McDermott writes. \"But that's not to say God can't speak to us through them, either.\"",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Holy See: ‘No algorithm can make war morally acceptable’",
-          "url": "https://www.vaticannews.va/en/vatican-city/news/2026-11/holy-see-position-paper-lethal-autonomous-weapons-systems.html"
+          "nev": "National Catholic Reporter",
+          "cim": "Depictions of God onscreen are always controversial. They're also beneficial.",
+          "url": "https://www.ncronline.org/culture/depictions-god-onscreen-are-always-controversial-theyre-also-beneficial"
         }
       ]
     },
     {
-      "cim": "Pope: ‘Accompanying Christians of the East is an essential work of hope'",
-      "lead": "Speaking to the Catholic Near East Welfare Association at the Vatican, Pope Leo XIV highlights the organization's mission to provide humanitarian and pastoral aid to Eastern Christian communities, calling their work a tangible sign of the “closeness, solidarity and loving concern of the universal Church for her…",
+      "cim": "Gen Z Catholics offer reason for hope at Ignatian Family Teach-In for Justice",
+      "lead": "With three keynote speakers, a half dozen addresses delivered by student activists, and countless breakout programs, the opportunity to be informed and inspired is truly remarkable.",
       "forrasok": [
         {
-          "nev": "Vatican News",
-          "cim": "Pope: ‘Accompanying Christians of the East is an essential work of hope'",
-          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-accompanying-christians-of-east-is-essential-work-of-hope.html"
+          "nev": "National Catholic Reporter",
+          "cim": "Gen Z Catholics offer reason for hope at Ignatian Family Teach-In for Justice",
+          "url": "https://www.ncronline.org/opinion/gen-z-catholics-offer-reason-hope-ignatian-family-teach-justice"
+        }
+      ]
+    },
+    {
+      "cim": "Midterm shift was welcome, but it will take more to heal immigrants' trauma",
+      "lead": "Political change opens possibilities, yes, but the consequences of what we have lived through remain with us. What responsibility does a society assume when it begins to understand the harm it has allowed?",
+      "forrasok": [
+        {
+          "nev": "National Catholic Reporter",
+          "cim": "Midterm shift was welcome, but it will take more to heal immigrants' trauma",
+          "url": "https://www.ncronline.org/spirituality/midterm-shift-was-welcome-it-will-take-more-heal-immigrants-trauma"
         }
       ]
     }
